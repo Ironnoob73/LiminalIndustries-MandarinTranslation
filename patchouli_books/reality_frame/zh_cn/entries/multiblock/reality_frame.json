@@ -1,0 +1,35 @@
+{
+    "name": "构建现实框架",
+    "icon": "kubejs:reality_controller_running",
+    "category": "patchouli:multiblock",
+    "pages": [
+	    {
+            "type": "patchouli:spotlight",
+            "item": "kubejs:reality_controller_running",
+			"title": "建造一个现实框架",
+			"text": "使用本书，你可以直观地看到你世界中的多方块结构。这应该会让构建过程变得容易得多。$(br2) 需要注意的是，操纵器可以放置在任意一侧，并且使用时会消耗现实充能器。"
+		},
+		{
+			"type": "patchouli:multiblock",
+			"multiblock": {
+			"pattern": [
+				[ "FFFFFFFFF", "F       F", "F       F",  "F       F",  "F       F",  "F       F",  "F       F",  "F       F",  "FFFFFFFFF" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "         ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "F       F", "         ", "         ",  "         ",  "B        ",  "         ",  "         ",  "         ",  "F       F" ], 
+				[ "FFFFFFFFF", "F       F", "F       F",  "F       F",  "C   0   F",  "F       F",  "F       F",  "F       F",  "FFFFFFFFF" ]
+
+			],
+			"mapping": {
+				"F": "kubejs:reality_frame",
+				"C": "kubejs:reality_controller",
+				"B": "kubejs:reality_charge"
+			},
+			"symmetrical": true
+			}
+		}
+]}

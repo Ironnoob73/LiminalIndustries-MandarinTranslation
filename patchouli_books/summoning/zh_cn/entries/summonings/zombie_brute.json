@@ -1,0 +1,20 @@
+{
+    "name": "召唤一只僵尸蛮种",
+    "icon": "eidolon:spawn_zombie_brute",
+    "category": "patchouli:lesser_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "eidolon:zombie_brute",
+			"name": "召唤一只僵尸蛮种",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:lesser_soul_gem",
+			"input2": "minecraft:rotten_flesh",
+			"input3": "minecraft:rotten_flesh",
+			"input4": "eidolon:lesser_soul_gem"
+		}
+]}

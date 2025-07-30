@@ -1,0 +1,962 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sector_1"
+	group: ""
+	icon: "refurbished_furniture:oak_chair"
+	id: "14F820A255718CC8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2FD58013123EFE42"]
+			description: [
+				"{quest.1.sweeping.desc0}"
+				""
+				"{quest.1.sweeping.desc1}"
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:brush"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7FAC527C8C32346A"
+			rewards: [{
+				id: "43FFE9CB5D73ACA9"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
+			subtitle: "{quest.1.sweeping.subtitle}"
+			tasks: [
+				{
+					id: "2A319853160BB950"
+					item: {
+						Count: 1
+						id: "minecraft:brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "4BA91CCF072559E1"
+					item: { Count: 5, id: "kubejs:carpet_dust" }
+					type: "item"
+				}
+			]
+			title: "{quest.1.sweeping.title}"
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"307781E736AB9A56"
+				"03026FA82293D305"
+			]
+			description: ["{quest.1.alloy_smelter.desc0}"]
+			icon: "immersiveengineering:alloy_smelter"
+			id: "7A0ECC4384FC5F3C"
+			rewards: [
+				{
+					id: "0B9AE7D401935AC9"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "1C1137CC8210E5E9"
+					item: "immersiveengineering:manual"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.1.alloy_smelter.subtitle}"
+			tasks: [
+				{
+					id: "6BB57F03AEAB3265"
+					item: "immersiveengineering:alloybrick"
+					type: "item"
+				}
+				{
+					id: "2FD327C931FA41F4"
+					item: {
+						Count: 1
+						id: "immersiveengineering:hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "{quest.1.alloy_smelter.title}"
+			x: 0.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["74DC667B840746B0"]
+			description: ["{quest.1.wooden_tools.desc0}"]
+			icon: {
+				Count: 1
+				id: "farmersdelight:flint_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2FD58013123EFE42"
+			rewards: [{
+				id: "547E5FE35878E38A"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			subtitle: "{quest.1.wooden_tools.subtitle}"
+			tasks: [
+				{
+					id: "45A5F6CD9D1D337B"
+					item: {
+						Count: 1
+						id: "farmersdelight:flint_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A7EF93254E01F56"
+					item: {
+						Count: 1
+						id: "minecraft:wooden_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "26B355D7CA8A10C7"
+					item: "farmersdelight:cutting_board"
+					type: "item"
+				}
+			]
+			title: "{quest.1.wooden_tools.title}"
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			description: [
+				"{quest.1.punching_chairs.desc0}"
+				""
+				"{quest.1.punching_chairs.desc1}"
+				""
+				"{quest.1.punching_chairs.desc2}"
+			]
+			icon: "refurbished_furniture:oak_chair"
+			id: "74DC667B840746B0"
+			rewards: [{
+				id: "7124A7E7D06B3B8A"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "{quest.1.punching_chairs.subtitle}"
+			tasks: [{
+				id: "06B5515FE776BEBA"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "{quest.1.punching_chairs.title}"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7A8C680427F1464B"]
+			description: ["{quest.1.clay.desc0}"]
+			id: "307781E736AB9A56"
+			rewards: [{
+				id: "1CB3AA5AC0E7C60B"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "5D105029246CD738"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			title: "{quest.1.clay.title}"
+			x: 0.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7A0ECC4384FC5F3C"]
+			icon: {
+				Count: 1
+				id: "ceramicbucket:ceramic_bucket"
+				tag: {
+					Fluid: {
+						Amount: 1000
+						FluidName: "minecraft:lava"
+					}
+				}
+			}
+			id: "10FD77A896677B61"
+			tasks: [
+				{
+					id: "56F24057B479494A"
+					item: "ceramicbucket:ceramic_bucket"
+					type: "item"
+				}
+				{
+					id: "51C12C0C1E46DF26"
+					item: "kubejs:concrete_piece"
+					type: "item"
+				}
+				{
+					id: "5A6717B82D728127"
+					item: {
+						Count: 1
+						id: "ceramicbucket:ceramic_bucket"
+						tag: {
+							Fluid: {
+								Amount: 1000
+								FluidName: "minecraft:lava"
+							}
+						}
+					}
+					match_nbt: true
+					type: "item"
+				}
+			]
+			title: "{quest.1.lava.title}"
+			x: 0.0d
+			y: 25.5d
+		}
+		{
+			dependencies: [
+				"10FD77A896677B61"
+				"7B8E3CF8E588CD0B"
+			]
+			id: "203FC15B09EAA27F"
+			rewards: [
+				{
+					id: "7702AB4C3CA3AEB6"
+					item: "supplementaries:confetti_popper"
+					type: "item"
+				}
+				{
+					id: "3D1642878BF69221"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "0AEBC47A7574DDF2"
+					item: "minecraft:jukebox"
+					type: "item"
+				}
+				{
+					id: "691106A4CBAFB25D"
+					item: "minecraft:music_disc_relic"
+					type: "item"
+				}
+			]
+			size: 3.0d
+			subtitle: "{quest.1.cobblestone.subtitle}"
+			tasks: [{
+				id: "405232540EBBD06E"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			title: "{quest.1.cobblestone.title}"
+			x: 0.0d
+			y: 28.0d
+		}
+		{
+			dependencies: [
+				"6C636EA05BA437ED"
+				"307781E736AB9A56"
+			]
+			id: "7B8E3CF8E588CD0B"
+			tasks: [{
+				id: "5CBFA3B1AD14A479"
+				item: {
+					Count: 1
+					id: "ceramicbucket:ceramic_bucket"
+					tag: {
+						Fluid: {
+							Amount: 1000
+							FluidName: "minecraft:water"
+						}
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "{quest.1.water.title}"
+			x: -5.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["2FD58013123EFE42"]
+			description: [
+				"{quest.1.collecting_water.desc0}"
+				""
+				"{quest.1.collecting_water.desc1}"
+				""
+				"{quest.1.collecting_water.desc2}"
+				"{quest.1.collecting_water.desc3}"
+				""
+				"{image:kubejs:textures/quests/wet_carpet.png width:192 height:102 align:center}"
+			]
+			icon: "minecraft:wet_sponge"
+			id: "6C636EA05BA437ED"
+			subtitle: "{quest.1.collecting_water.subtitle}"
+			tasks: [
+				{
+					id: "4F9338A63C2CC4A7"
+					item: "minecraft:sponge"
+					type: "item"
+				}
+				{
+					id: "492AA34CC5EF690C"
+					item: "minecraft:wet_sponge"
+					type: "item"
+				}
+			]
+			title: "{quest.1.collecting_water.title}"
+			x: -5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2FD58013123EFE42"]
+			description: [
+				"{quest.1.vandalism.desc0}"
+				""
+				"{quest.1.vandalism.desc1}"
+				""
+				"{image:kubejs:textures/quests/cut_carpet.png width:192 height:102 align:center}"
+			]
+			icon: "kubejs:concrete_piece"
+			id: "23E590694FAB22A1"
+			rewards: [{
+				id: "0B9871D2537F0514"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			subtitle: "{quest.1.vandalism.subtitle}"
+			tasks: [
+				{
+					id: "636C89317E81121C"
+					item: "kubejs:cut_carpet"
+					type: "item"
+				}
+				{
+					id: "57B69BC191EAC23F"
+					item: "kubejs:concrete_piece"
+					type: "item"
+				}
+			]
+			title: "{quest.1.vandalism.title}"
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["23E590694FAB22A1"]
+			description: ["{quest.1.furnace.desc0}"]
+			id: "03026FA82293D305"
+			tasks: [{
+				id: "76DA42855E8AC469"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["2FD58013123EFE42"]
+			description: ["{quest.1.chopping.desc0}"]
+			icon: "farmersdelight:cutting_board"
+			id: "4E7AB902FFF70225"
+			subtitle: "{quest.1.chopping.subtitle}"
+			tasks: [
+				{
+					id: "7856BB129C2D3B9F"
+					item: {
+						Count: 1
+						id: "minecraft:wooden_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3260495F3102A868"
+					item: "farmersdelight:cutting_board"
+					type: "item"
+				}
+			]
+			title: "{quest.1.chopping.title}"
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7FAC527C8C32346A"]
+			description: [
+				"{quest.1.meal.desc0}"
+				""
+				"{quest.1.meal.desc1}"
+				""
+				"{quest.1.meal.desc2}"
+			]
+			icon: "miners_delight:weird_caviar"
+			id: "77AB8365642DA7B1"
+			rewards: [{
+				count: 3
+				id: "7C33CC0B13E640BC"
+				item: "miners_delight:weird_caviar"
+				type: "item"
+			}]
+			subtitle: "{quest.1.meal.subtitle}"
+			tasks: [
+				{
+					id: "4A871C44E099B727"
+					item: {
+						Count: 1
+						id: "farmersdelight:flint_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "4224B9A58EF2ECFE"
+					item: "miners_delight:silverfish_eggs"
+					type: "item"
+				}
+				{
+					id: "38CA0C9EF7F7B17D"
+					item: "miners_delight:weird_caviar"
+					type: "item"
+				}
+			]
+			title: "{quest.1.meal.title}"
+			x: 2.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7A8C680427F1464B"]
+			description: [
+				"{quest.1.berry.desc0}"
+				"{quest.1.berry.desc1}"
+				""
+				"{quest.1.berry.desc2}"
+				""
+				"{quest.1.berry.desc3}"
+				"{quest.1.berry.desc4}"
+			]
+			icon: "neapolitan:strawberries"
+			id: "4D215AD91B14D558"
+			rewards: [
+				{
+					count: 3
+					id: "3DEF8223CD209F1C"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:paper_lantern"
+								tag: {
+									color: 11546150
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0BDDF9846CA7A790"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							Parent: {
+								Items: [ ]
+								Open: 0b
+								SelectedSlot: 0b
+								Size: 6
+							}
+						}
+						id: "supplementaries:lunch_basket"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "{quest.1.berry.subtitle}"
+			tasks: [
+				{
+					id: "39C33E62CB0181AE"
+					item: "neapolitan:strawberry_pips"
+					type: "item"
+				}
+				{
+					id: "7AD08D080F0FBA11"
+					item: "berry_good:sweet_berry_pips"
+					type: "item"
+				}
+			]
+			title: "{quest.1.berry.title}"
+			x: -2.5d
+			y: 18.5d
+		}
+		{
+			dependencies: [
+				"6C636EA05BA437ED"
+				"7FAC527C8C32346A"
+			]
+			description: [
+				"{quest.1.wooden_propeller.desc0}"
+				""
+				"{quest.1.wooden_propeller.desc1}"
+				"{quest.1.wooden_propeller.desc2}"
+				""
+				""
+				"{image:kubejs:textures/quests/wet_sponge.png width:222 height:128 align:center}"
+			]
+			icon: "create:propeller"
+			id: "7A8C680427F1464B"
+			rewards: [
+				{
+					id: "7A074F2DE3649347"
+					item: {
+						Count: 1
+						id: "supplementaries:bubble_blower"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7CAD2E1B6E914F0C"
+					item: "supplementaries:soap"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			subtitle: "{quest.1.wooden_propeller.subtitle}"
+			tasks: [
+				{
+					id: "15725A51724F494F"
+					item: "create:propeller"
+					type: "item"
+				}
+				{
+					id: "4AACB45E50D46CC0"
+					item: "minecraft:barrel"
+					type: "item"
+				}
+				{
+					id: "5909FBFE17750276"
+					item: "create:encased_fan"
+					type: "item"
+				}
+				{
+					id: "669F07A8B29FAEAC"
+					item: "minecraft:wet_sponge"
+					type: "item"
+				}
+				{
+					id: "660E81FF3900602F"
+					item: "create:hand_crank"
+					type: "item"
+				}
+			]
+			title: "{quest.1.wooden_propeller.title}"
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["2FD58013123EFE42"]
+			description: ["{quest.1.bags.desc0}"]
+			icon: "supplementaries:sack"
+			id: "09DBA6DD7E5621CB"
+			rewards: [{
+				id: "7F9ADDE8A4AD0E6A"
+				item: "supplementaries:sack"
+				type: "item"
+			}]
+			subtitle: "{quest.1.bags.subtitle}"
+			tasks: [
+				{
+					count: 7L
+					id: "4BFF046AE790BB32"
+					item: "kubejs:wallpaper"
+					type: "item"
+				}
+				{
+					id: "3F2AC8263C94EB4F"
+					item: "minecraft:string"
+					type: "item"
+				}
+				{
+					id: "477A5773CAFC846F"
+					item: "supplementaries:sack"
+					type: "item"
+				}
+			]
+			title: "{quest.1.bags.title}"
+			x: -2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2FD58013123EFE42"]
+			description: [
+				"{quest.1.stay_safe.desc0}"
+				""
+				"{quest.1.stay_safe.desc1}"
+				""
+				"{quest.1.stay_safe.desc2}"
+			]
+			icon: "kubejs:explantion2_sign"
+			id: "49C5EB9D0E33ACA4"
+			rewards: [
+				{
+					id: "192ECA8AC6CAD43B"
+					item: "camera:camera"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2C283299D9E6E2A9"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "556A7EED287AA012"
+					item: "camera:image_frame"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "{quest.1.stay_safe.subtitle}"
+			tasks: [{
+				id: "7CC2D7594F90E20C"
+				title: "{quest.1.stay_safe.check}"
+				type: "checkmark"
+			}]
+			title: "{quest.1.stay_safe.title}"
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["2FD58013123EFE42"]
+			icon: {
+				Count: 1
+				id: "eccentrictome:tome"
+				tag: {
+					Enchantments: [ ]
+					"eccentrictome:mods": {
+						actuallyadditions: {
+							0: {
+								Count: 1b
+								id: "actuallyadditions:booklet"
+							}
+						}
+						ae2: {
+							0: {
+								Count: 1b
+								id: "ae2:guide"
+								tag: {
+									Enchantments: [ ]
+								}
+							}
+						}
+						botania: {
+							0: {
+								Count: 1b
+								id: "botania:lexicon"
+							}
+						}
+						eidolon: {
+							0: {
+								Count: 1b
+								id: "eidolon:codex"
+								tag: {
+									Enchantments: [ ]
+								}
+							}
+						}
+						ftbquests: {
+							0: {
+								Count: 1b
+								id: "ftbquests:book"
+								tag: {
+									Enchantments: [ ]
+								}
+							}
+						}
+						immersiveengineering: {
+							0: {
+								Count: 1b
+								id: "immersiveengineering:manual"
+							}
+						}
+						patchouli: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "patchouli:summoning"
+								}
+							}
+							1: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									Enchantments: [ ]
+									"patchouli:book": "patchouli:reality_frame"
+								}
+							}
+						}
+						tconstruct: {
+							0: {
+								Count: 1b
+								id: "tconstruct:materials_and_you"
+							}
+						}
+					}
+					"eccentrictome:version": 1
+				}
+			}
+			id: "32CA69C5AF2D65AA"
+			rewards: [{
+				id: "407CE8F83560743E"
+				item: {
+					Count: 1
+					id: "eccentrictome:tome"
+					tag: {
+						Enchantments: [ ]
+						"eccentrictome:mods": {
+							actuallyadditions: {
+								0: {
+									Count: 1b
+									id: "actuallyadditions:booklet"
+								}
+							}
+							ae2: {
+								0: {
+									Count: 1b
+									id: "ae2:guide"
+									tag: {
+										Enchantments: [ ]
+									}
+								}
+							}
+							botania: {
+								0: {
+									Count: 1b
+									id: "botania:lexicon"
+								}
+							}
+							eidolon: {
+								0: {
+									Count: 1b
+									id: "eidolon:codex"
+									tag: {
+										Enchantments: [ ]
+									}
+								}
+							}
+							ftbquests: {
+								0: {
+									Count: 1b
+									id: "ftbquests:book"
+									tag: {
+										Enchantments: [ ]
+									}
+								}
+							}
+							immersiveengineering: {
+								0: {
+									Count: 1b
+									id: "immersiveengineering:manual"
+								}
+							}
+							patchouli: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "patchouli:summoning"
+									}
+								}
+								1: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										Enchantments: [ ]
+										"patchouli:book": "patchouli:reality_frame"
+									}
+								}
+							}
+							tconstruct: {
+								0: {
+									Count: 1b
+									id: "tconstruct:materials_and_you"
+								}
+							}
+						}
+						"eccentrictome:version": 1
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7FCD69F562A86552"
+				title: "{quest.1.knowledge.check}"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["307781E736AB9A56"]
+			description: [
+				"{quest.1.chalk.desc0}"
+				""
+				"{quest.1.chalk.desc1}"
+				""
+				"{quest.1.chalk.desc2}"
+			]
+			icon: {
+				Count: 1
+				id: "chalk:white_chalk"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "45184889D2E53FD7"
+			rewards: [
+				{
+					id: "672903D703E7F630"
+					item: {
+						Count: 1
+						id: "chalk:chalk_box"
+						tag: {
+							Items: [
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+								{
+									Count: 1b
+									id: "minecraft:air"
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C2242D1481A6833"
+					item: {
+						Count: 1
+						id: "chalk:white_chalk"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5BFC470C354E39D6"
+					item: {
+						Count: 1
+						id: "chalk:yellow_chalk"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3324BF857CE03536"
+					item: {
+						Count: 1
+						id: "chalk:red_chalk"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1009688A1B1A308B"
+					item: {
+						Count: 1
+						id: "chalk:black_chalk"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1DB11CD33CFD4CF5"
+				item: {
+					Count: 1
+					id: "chalk:white_chalk"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "{quest.1.chalk.title}"
+			x: 2.5d
+			y: 19.0d
+		}
+	]
+	title: "{quest.chapter_1.title}"
+}

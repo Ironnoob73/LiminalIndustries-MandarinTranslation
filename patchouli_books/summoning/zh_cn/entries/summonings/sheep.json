@@ -1,0 +1,20 @@
+{
+    "name": "召唤一只羊",
+    "icon": "minecraft:sheep_spawn_egg",
+    "category": "patchouli:lesser_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:sheep",
+			"name": "召唤一只羊",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:lesser_soul_gem",
+			"input2": "minecraft:white_wool",
+			"input3": "minecraft:grass",
+			"input4": "eidolon:lesser_soul_gem"
+		}
+]}

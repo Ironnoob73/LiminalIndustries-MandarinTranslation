@@ -1,0 +1,733 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sector_21"
+	group: ""
+	icon: "create:steam_engine"
+	id: "63270855244ED0BB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["541234B688B98E86"]
+			description: [
+				"{quest.2.ashes.desc0}"
+				""
+				"{quest.2.ashes.desc1}"
+			]
+			icon: "supplementaries:ash"
+			id: "22FF287969C58B70"
+			rewards: [{
+				count: 10
+				id: "0F48B1CD708333BF"
+				item: "supplementaries:ash"
+				type: "item"
+			}]
+			shape: "circle"
+			subtitle: "{quest.2.ashes.subtitle}"
+			tasks: [
+				{
+					id: "4560621272125845"
+					item: {
+						Count: 1
+						id: "minecraft:flint_and_steel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09BE5840BA51E445"
+					item: {
+						Count: 1
+						id: "minecraft:stone_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2A98592022F3D424"
+					item: { Count: 5, id: "supplementaries:ash" }
+					type: "item"
+				}
+			]
+			title: "{quest.2.ashes.title}"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"22FF287969C58B70"
+				"541234B688B98E86"
+			]
+			id: "14AF78F1E790FC36"
+			rewards: [{
+				id: "61B8EB29939587CB"
+				item: "create:wrench"
+				type: "item"
+			}]
+			subtitle: "{quest.2.ash_alloy.subtitle}"
+			tasks: [{
+				id: "08A7B6A04AE342A6"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["594A42AEFA0A83BA"]
+			icon: "create:crushing_wheel"
+			id: "1A5679134A610FF2"
+			shape: "gear"
+			tasks: [
+				{
+					count: 2L
+					id: "64279A17589CDD10"
+					item: "create:crushing_wheel"
+					type: "item"
+				}
+				{
+					id: "15D4A57CED9E7327"
+					item: "create:belt_connector"
+					type: "item"
+				}
+			]
+			title: "{quest.2.crushing_wheel.title}"
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"1BFE1926B47FD92D"
+				"06DADC2BB0854FB1"
+			]
+			description: [
+				"{quest.2.steam_age.desc0}"
+				""
+				"{quest.2.steam_age.desc1}"
+				""
+				"{quest.2.steam_age.desc2}"
+				""
+				"{quest.2.steam_age.desc3}"
+				""
+				"{quest.2.steam_age.desc4}"
+				""
+				"{quest.2.steam_age.desc5}"
+				""
+				""
+				"{image:kubejs:textures/quests/steam_engine.png width:200 height:100 align:center}"
+			]
+			icon: "create:steam_engine"
+			id: "594A42AEFA0A83BA"
+			rewards: [
+				{
+					id: "7B9FF4CD15F22D1F"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "528BBD2E556BE484"
+					item: "create:goggles"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.2.steam_age.subtitle}"
+			tasks: [
+				{
+					id: "0D13D3BFC3429D9F"
+					item: "create:steam_engine"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "55E3F0676C10222E"
+					item: { Count: 4, id: "create:fluid_tank" }
+					type: "item"
+				}
+				{
+					id: "73D70B8AE2F77131"
+					item: "createlowheated:basic_burner"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "549465DA939C6347"
+					item: { Count: 3, id: "create:fluid_pipe" }
+					type: "item"
+				}
+				{
+					id: "19DAB05B45BD6463"
+					item: "create:mechanical_pump"
+					type: "item"
+				}
+				{
+					id: "596D8CE6FF67748D"
+					item: "create:hand_crank"
+					type: "item"
+				}
+			]
+			title: "{quest.2.steam_age.title}"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"0D014F9EC35B1333"
+				"06DADC2BB0854FB1"
+			]
+			icon: "create:copper_nugget"
+			id: "1BFE1926B47FD92D"
+			tasks: [
+				{
+					count: 3L
+					id: "6715118D2D6FBD2F"
+					item: "create:fluid_pipe"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "43E74BE23E369443"
+					item: { Count: 5, id: "create:copper_nugget" }
+					type: "item"
+				}
+			]
+			title: "{quest.2.copper.title}"
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["14AF78F1E790FC36"]
+			icon: "create:mechanical_press"
+			id: "0D014F9EC35B1333"
+			rewards: [{
+				count: 3
+				id: "61B2C6D2D4F2269B"
+				item: "supplementaries:pancake"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.0d
+			tasks: [
+				{
+					id: "2EBC0F856411C837"
+					item: "create:mechanical_press"
+					type: "item"
+				}
+				{
+					id: "3CB05BDB2BF3E53A"
+					item: "create:basin"
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14AF78F1E790FC36"]
+			id: "06DADC2BB0854FB1"
+			rewards: [{
+				id: "62470CB9E64072BC"
+				item: "woodenhopper:wooden_hopper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3933B16D8B5B8473"
+				item: "createlowheated:basic_burner"
+				type: "item"
+			}]
+			title: "{quest.2.burner.title}"
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14AF78F1E790FC36"]
+			icon: "immersiveengineering:coke_oven"
+			id: "5782203B2280911B"
+			rewards: [{
+				id: "62D66E5C5A3009C5"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.2.coke_oven.subtitle}"
+			tasks: [
+				{
+					id: "5542F176D47F2C41"
+					item: "immersiveengineering:cokebrick"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6757C61362897546"
+					item: { Count: 8, id: "immersiveengineering:treated_wood_horizontal" }
+					type: "item"
+				}
+				{
+					id: "15B8F415ACA758A5"
+					item: "immersiveengineering:coke_oven"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "{quest.2.coke_oven.title}"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5782203B2280911B"]
+			description: [
+				"{quest.2.better_fuel.desc0}"
+				""
+				"{quest.2.better_fuel.desc1}"
+			]
+			icon: "thermal:charcoal_block"
+			id: "2301997FBD95F04C"
+			tasks: [{
+				id: "72317B15FCD063EC"
+				item: "thermal:charcoal_block"
+				type: "item"
+			}]
+			title: "{quest.2.better_fuel.title}"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"{quest.2.nether.desc0}"
+				""
+				"{quest.2.nether.desc1}"
+			]
+			id: "021C50BEE88E0B07"
+			rewards: [{
+				id: "36AFB541A92C8E45"
+				item: "minecraft:music_disc_pigstep"
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "{quest.2.nether.subtitle}"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "29B5E3BFD5FBF7D5"
+				title: "{quest.2.nether.check}"
+				type: "dimension"
+			}]
+			x: 9.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["021C50BEE88E0B07"]
+			icon: "supplementaries:checker_block"
+			id: "780450B76916CDB7"
+			shape: "square"
+			subtitle: "{quest.2.checker_block.subtitle}"
+			tasks: [
+				{
+					id: "2936C3ED16FB1828"
+					item: "supplementaries:checker_block"
+					type: "item"
+				}
+				{
+					id: "29EF2A8D122D178C"
+					item: "minecraft:quartz"
+					type: "item"
+				}
+				{
+					id: "3AA0551231908748"
+					item: "actuallyadditions:black_quartz"
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"780450B76916CDB7"
+				"571118233A7F0DA3"
+			]
+			id: "5A988566BC220234"
+			tasks: [{
+				id: "16C2A7EC029D4146"
+				item: "immersiveengineering:component_electronic"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["203FC15B09EAA27F"]
+			id: "541234B688B98E86"
+			size: 3.0d
+			tasks: [{
+				id: "55DF6C1569B150BA"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			title: "{quest.2.cobblestone.title}"
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"5A988566BC220234"
+				"1A5679134A610FF2"
+			]
+			description: ["{quest.2.smeltery.desc0}"]
+			icon: "tconstruct:smeltery_controller"
+			id: "60DCFFC671BBD126"
+			rewards: [
+				{
+					id: "30C8C255AB9470AB"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "61BCAF221BCCC746"
+					item: "minecraft:music_disc_otherside"
+					type: "item"
+				}
+				{
+					id: "3CA71AF2DF9FE03B"
+					item: "refurbished_furniture:light_fridge"
+					type: "item"
+				}
+				{
+					id: "1FBD035CF15ABAF1"
+					item: {
+						Count: 1
+						id: "fairylights:pennant_bunting"
+						tag: {
+							color: 1481884
+							pattern: [{
+								Count: 1b
+								id: "fairylights:triangle_pennant"
+								tag: {
+									color: 1481884
+								}
+							}]
+							text: {
+								styling: [I; ]
+								value: ""
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 3.0d
+			subtitle: "{quest.2.smeltery.subtitle}"
+			tasks: [
+				{
+					id: "18D0C2E2D411293A"
+					item: "tconstruct:smeltery_controller"
+					type: "item"
+				}
+				{
+					id: "5D1A844F35BC20F7"
+					item: "tconstruct:seared_drain"
+					type: "item"
+				}
+				{
+					id: "139972A5FE7888B0"
+					item: "tconstruct:seared_faucet"
+					type: "item"
+				}
+				{
+					id: "1D1994D0F7461108"
+					item: "tconstruct:seared_table"
+					type: "item"
+				}
+				{
+					id: "7D740EBC95632C6F"
+					item: "tconstruct:seared_fuel_tank"
+					type: "item"
+				}
+			]
+			title: "{quest.2.smeltery.title}"
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["541234B688B98E86"]
+			description: [""]
+			id: "1773F3D3ECBC4923"
+			rewards: [{
+				id: "04F52658209EF665"
+				item: "botania:lexicon"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.2.apothecary.subtitle}"
+			tasks: [{
+				id: "0E093878C6AA093A"
+				item: "botania:apothecary_default"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["495E194ACEFD9CD7"]
+			id: "2B462CBD198F53F7"
+			tasks: [{
+				id: "0BE20FD7C74DA1E5"
+				item: "botania:pure_daisy"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"5782203B2280911B"
+				"2B462CBD198F53F7"
+			]
+			description: ["{quest.2.livingwood.desc0}"]
+			icon: "botania:livingwood"
+			id: "4EFCB9F8F9EDC5EB"
+			tasks: [{
+				count: 8L
+				id: "1CC0DB91848B0BFC"
+				item: "botania:livingwood"
+				type: "item"
+			}]
+			title: "{quest.2.livingwood.title}"
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4EFCB9F8F9EDC5EB"]
+			id: "571118233A7F0DA3"
+			shape: "gear"
+			tasks: [{
+				id: "177001536B1F99A0"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1773F3D3ECBC4923"]
+			id: "60885F74323E143A"
+			tasks: [
+				{
+					id: "1258CCBED9626C98"
+					item: "thermal:redstone_mushroom_spores"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "47FA42D7346B3C5F"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"1773F3D3ECBC4923"
+				"22FF287969C58B70"
+			]
+			description: [
+				"{quest.2.fertilizer.desc0}"
+				""
+				"{quest.2.fertilizer.desc1}"
+			]
+			icon: "botania:fertilizer"
+			id: "495E194ACEFD9CD7"
+			rewards: [
+				{
+					count: 5
+					id: "582C501AB1860969"
+					item: "botania:fertilizer"
+					type: "item"
+				}
+				{
+					id: "75C4CA1A7F3D3F42"
+					item: "botania:flower_bag"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.2.fertilizer.subtitle}"
+			tasks: [
+				{
+					id: "6C87F9E5B39111AD"
+					item: "berry_good:sweet_berry_pips"
+					type: "item"
+				}
+				{
+					id: "0B2ABB2BB3C850AC"
+					item: "supplementaries:ash"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "04772AEB0EDB9BB5"
+					item: { Count: 2, id: "minecraft:yellow_dye" }
+					type: "item"
+				}
+				{
+					id: "1D8D76EAA77D721A"
+					item: "botania:fertilizer"
+					type: "item"
+				}
+			]
+			title: "{quest.2.fertilizer.title}"
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1A5679134A610FF2"]
+			description: [
+				"{quest.2.sugar_cane.desc0}"
+				""
+				"{quest.2.sugar_cane.desc1}"
+				""
+				"{quest.2.sugar_cane.desc2}"
+			]
+			icon: "minecraft:sugar_cane"
+			id: "2A93ADA6EAA0C7EB"
+			tasks: [
+				{
+					id: "1D1B056BCACA1685"
+					item: "minecraft:sugar_cane"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "391152D4E83414B7"
+					item: { Count: 5, id: "snad:snad" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"1BFE1926B47FD92D"
+				"2A93ADA6EAA0C7EB"
+			]
+			description: [
+				"{quest.2.liminal_jam.desc0}"
+				""
+				"{quest.2.liminal_jam.desc1}"
+			]
+			icon: "brewinandchewin:sweet_berry_jam"
+			id: "347FB9BA17B5C66C"
+			rewards: [
+				{
+					count: 3
+					id: "5FC9403C7D55E44E"
+					item: "brewinandchewin:sweet_berry_jam"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "17A1A221FE5B4639"
+					item: "brewinandchewin:coaster"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "263E3E78F0C20DD0"
+					item: "refurbished_furniture:sweet_berry_jam_toast"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.2.liminal_jam.subtitle}"
+			tasks: [
+				{
+					id: "225D62380594BB5A"
+					item: "miners_delight:copper_pot"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "26EC23B48D974895"
+					item: "minecraft:sweet_berries"
+					type: "item"
+				}
+				{
+					id: "77F4A59277554934"
+					item: "minecraft:sugar"
+					type: "item"
+				}
+				{
+					id: "7566EDF33A22D38E"
+					item: "minecraft:glass_bottle"
+					type: "item"
+				}
+				{
+					id: "33C7B97B21FB8994"
+					item: "brewinandchewin:sweet_berry_jam"
+					type: "item"
+				}
+			]
+			title: "{quest.2.liminal_jam.title}"
+			x: -5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["021C50BEE88E0B07"]
+			description: [
+				"{quest.2.lost_eye.desc0}"
+				"{quest.2.lost_eye.desc1}"
+				""
+				"{quest.2.lost_eye.desc2}"
+				""
+				""
+				"{image:kubejs:textures/quests/lost_eye.png width:200 height:100 align:center}"
+			]
+			id: "12F6EDB7B3074DBA"
+			shape: "hexagon"
+			subtitle: "{quest.2.lost_eye.subtitle}"
+			tasks: [{
+				id: "0E50ED4115F134D3"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4EFCB9F8F9EDC5EB"]
+			description: [
+				"{quest.2.renewable_coal.desc0}"
+				"{quest.2.renewable_coal.desc1}"
+				""
+				"{quest.2.renewable_coal.desc2}"
+			]
+			icon: "immersiveengineering:coal_coke"
+			id: "2138ADDDF2575A11"
+			tasks: [{
+				id: "15D84F269B0AF727"
+				title: "Completed"
+				type: "checkmark"
+			}]
+			title: "{quest.2.renewable_coal.title}"
+			x: 2.5d
+			y: 7.5d
+		}
+	]
+	title: "{quest.chapter_2.title}"
+}

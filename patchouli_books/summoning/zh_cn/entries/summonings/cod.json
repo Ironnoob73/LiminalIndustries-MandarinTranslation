@@ -1,0 +1,20 @@
+{
+    "name": "召唤鳕鱼",
+    "icon": "minecraft:cod_spawn_egg",
+    "category": "patchouli:basic_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:cod",
+			"name": "召唤鳕鱼",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:soul_shard",
+			"input2": "actuallyadditions:water_bowl",
+			"input3": "minecraft:bone_meal",
+			"input4": "eidolon:soul_shard"
+		}
+]}

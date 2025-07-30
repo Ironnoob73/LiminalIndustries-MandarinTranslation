@@ -1,0 +1,20 @@
+{
+    "name": "召唤一个烈焰人",
+    "icon": "minecraft:blaze_spawn_egg",
+    "category": "patchouli:lesser_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:blaze",
+			"name": "召唤一个烈焰人",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:lesser_soul_gem",
+			"input2": "kubejs:hot_steel",
+			"input3": "immersiveengineering:heavy_engineering",
+			"input4": "eidolon:lesser_soul_gem"
+		}
+]}

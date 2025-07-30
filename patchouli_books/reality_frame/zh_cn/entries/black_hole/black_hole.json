@@ -1,0 +1,16 @@
+{
+    "name": "黑洞中的扭曲",
+    "icon": "kubejs:data_chip_infinity",
+    "category": "patchouli:multiblock",
+    "pages": [
+	    {
+            "type": "patchouli:spotlight",
+            "item": "kubejs:data_chip_infinity",
+			"title": "黑洞中的扭曲",
+			"text": "通过对数据芯片进行修改，您应该能够将黑洞扭曲到后室。$(br2)当用奇点右键单击黑洞时，它将吞噬奇点并掉落3个反物质球作为回报。"
+		},
+		{
+            "type": "patchouli:crafting",
+			"recipe": "backrooms:data_chip_infinity"
+		}
+]}

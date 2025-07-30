@@ -1,0 +1,1051 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sector_4"
+	group: ""
+	icon: "kubejs:reality_controller_running"
+	id: "1EC448FE2169EFF9"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"6425A4B344A3E70F"
+				"16BED30DF56C2600"
+			]
+			description: [
+				"{quest.5.osmium.desc0}"
+				""
+				"{quest.5.osmium.desc1}"
+			]
+			id: "2A8B73B53DE73CC6"
+			tasks: [{
+				id: "4E23BA1760FD6CF1"
+				item: "mekanism:ingot_osmium"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["16BED30DF56C2600"]
+			description: [
+				"{quest.5.miner.desc0}"
+				""
+				"{quest.5.miner.desc1}"
+			]
+			icon: "minecraft:diamond"
+			id: "441BC926A39965BD"
+			subtitle: "{quest.5.miner.subtitle}"
+			tasks: [
+				{
+					id: "69C59761E498F70E"
+					item: "minecraft:raw_iron"
+					type: "item"
+				}
+				{
+					id: "2F8099411E8EA054"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					id: "262BB622224DD2D5"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "755F8FA2F8446233"
+					item: "minecraft:raw_gold"
+					type: "item"
+				}
+				{
+					id: "3329E24B0533FD8E"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			title: "{quest.5.miner.title}"
+			x: -6.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["2A8B73B53DE73CC6"]
+			id: "5F3345E00BDA38CF"
+			shape: "gear"
+			tasks: [{
+				id: "11EEA87ABB4EA12E"
+				item: "mekanism:metallurgic_infuser"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 32.5d
+		}
+		{
+			dependencies: [
+				"03AF09793F287C2A"
+				"5F3345E00BDA38CF"
+			]
+			id: "1F3DF761E4C0D011"
+			tasks: [{
+				id: "419E9FBF53B1B06D"
+				item: "mekanism:basic_control_circuit"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 36.5d
+		}
+		{
+			dependencies: [
+				"34D7245BC72FBAD5"
+				"2CDEB4F4349A736A"
+				"5FA33D2B4072B54F"
+			]
+			id: "4D4A26DE9CDBAA45"
+			tasks: [{
+				id: "5DB2D38D7E10209B"
+				item: "mekanism:advanced_control_circuit"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 62.0d
+		}
+		{
+			dependencies: ["08AA2EDF465DE029"]
+			id: "528C282937D0FA29"
+			size: 2.0d
+			tasks: [{
+				id: "7E1E18A64CA3022E"
+				item: "enderio:ensouled_chassis"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7293389236F492AE"]
+			id: "0469BCAF1F2A490F"
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "0DE1A48509E4D7CD"
+				item: "mekanism:steel_casing"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 57.0d
+		}
+		{
+			dependencies: [
+				"6869825F195DBB12"
+				"20BB0A14D35143A3"
+			]
+			icon: "kubejs:ai"
+			id: "7293389236F492AE"
+			rewards: [{
+				id: "3E374583C76D1F44"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5FE7B8C466EC1B64"
+					item: "refurbished_furniture:television"
+					type: "item"
+				}
+				{
+					id: "5F0088D4A43E7C72"
+					item: "enderio:guardian_diode"
+					type: "item"
+				}
+				{
+					id: "15E283E29A76BCA1"
+					item: "thermal:blizz_rod"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6DEE01821B4D3BAF"
+					item: { Count: 4, id: "enderio:end_steel_ingot" }
+					type: "item"
+				}
+				{
+					id: "0603C206480EF7F9"
+					item: "kubejs:ai"
+					type: "item"
+				}
+			]
+			title: "{quest.5.ai.title}"
+			x: 0.0d
+			y: 52.0d
+		}
+		{
+			dependencies: ["020D04D0081B0376"]
+			id: "6991AF4506CB5086"
+			tasks: [{
+				id: "7D07E48E6B48F53A"
+				item: "mekanism:elite_control_circuit"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 73.5d
+		}
+		{
+			dependencies: ["16BED30DF56C2600"]
+			description: ["{quest.5.ender_dust.desc0}"]
+			icon: "ae2:ender_dust"
+			id: "6DA0C1A9A1E1AC7B"
+			rewards: [{
+				id: "6878828383326CE8"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 10L
+					id: "4F3E3A15C8391F4F"
+					item: { Count: 10, id: "minecraft:end_stone" }
+					type: "item"
+				}
+				{
+					id: "7E397DF460176B0E"
+					item: "ae2:ender_dust"
+					type: "item"
+				}
+			]
+			title: "{quest.5.ender_dust.title}"
+			x: 0.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0469BCAF1F2A490F"]
+			id: "5FA33D2B4072B54F"
+			shape: "gear"
+			tasks: [{
+				id: "01F6003F94884B88"
+				item: "mekanism:electrolytic_separator"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 59.5d
+		}
+		{
+			dependencies: ["0469BCAF1F2A490F"]
+			id: "2CDEB4F4349A736A"
+			shape: "gear"
+			tasks: [{
+				id: "1FDA23A516726877"
+				item: "mekanism:purification_chamber"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 59.5d
+		}
+		{
+			dependencies: ["4D4A26DE9CDBAA45"]
+			id: "7EBD9990CD506CE0"
+			shape: "gear"
+			tasks: [{
+				id: "6D4C065958B697C3"
+				item: "mekanism:osmium_compressor"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["4A2B6760346C34A6"]
+			id: "2CE95C36B45CCF4B"
+			tasks: [{
+				id: "24B41054897943FA"
+				item: "mekanism:combiner"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 85.0d
+		}
+		{
+			dependencies: ["6991AF4506CB5086"]
+			id: "1C652ACF84E2883C"
+			tasks: [{
+				id: "57D514C6452FA443"
+				item: "mekanism:chemical_injection_chamber"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 76.0d
+		}
+		{
+			dependencies: ["3BDAAFC3E00E1C72"]
+			description: [
+				"{quest.5.froglights.desc0}"
+				""
+				"{quest.5.froglights.desc1}"
+			]
+			icon: "minecraft:ochre_froglight"
+			id: "34D7245BC72FBAD5"
+			rewards: [
+				{
+					id: "0360E3B0698DEB5F"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:fairy_light"
+								tag: {
+									color: 16701501
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "343527B24A2C3F8F"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:fairy_light"
+								tag: {
+									color: 16351261
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79E6C8AE63DCC3AB"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:fairy_light"
+								tag: {
+									color: 11546150
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "42ABD6B70E47B6E2"
+					item: "tconstruct:magma_bucket"
+					type: "item"
+				}
+				{
+					id: "0607DA73C34C69F3"
+					item: "minecraft:ochre_froglight"
+					type: "item"
+				}
+			]
+			title: "{quest.5.froglights.title}"
+			x: 8.0d
+			y: 57.5d
+		}
+		{
+			dependencies: ["08AA2EDF465DE029"]
+			description: ["{quest.5.frog.desc0}"]
+			icon: "minecraft:frogspawn"
+			id: "3BDAAFC3E00E1C72"
+			tasks: [
+				{
+					count: 2L
+					id: "22FF514F3B9301ED"
+					item: { Count: 2, id: "kubejs:moderate_soul_gem" }
+					type: "item"
+				}
+				{
+					id: "12CB3CC0600A9C92"
+					item: "minecraft:slime_ball"
+					type: "item"
+				}
+				{
+					id: "2E806AF12707CDE5"
+					item: "minecraft:mud"
+					type: "item"
+				}
+			]
+			title: "{quest.5.frog.title}"
+			x: 8.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["6474DAB2246BD65F"]
+			id: "4A2B6760346C34A6"
+			tasks: [{
+				id: "072E76906C94A4B7"
+				item: "mekanism:ultimate_control_circuit"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 82.5d
+		}
+		{
+			dependencies: [
+				"6DA0C1A9A1E1AC7B"
+				"26F8FABDCAB3E581"
+			]
+			id: "39C823B4B448FB39"
+			rewards: [{
+				id: "5EECA24864AD6A47"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "2B20EB659ED6EC20"
+				item: "enderio:void_chassis"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["39C823B4B448FB39"]
+			id: "03AF09793F287C2A"
+			rewards: [{
+				id: "2918DC281D136FDE"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "7571AB375D47B099"
+				item: "enderio:alloy_smelter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["39C823B4B448FB39"]
+			id: "5AD5455845B236FA"
+			shape: "gear"
+			tasks: [{
+				id: "4DA9E2D52C072E9A"
+				item: "enderio:sag_mill"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["5EE912358F2227BA"]
+			description: [
+				"{quest.5.moderate_summoning.desc0}"
+				""
+				"{quest.5.moderate_summoning.desc1}"
+			]
+			icon: "kubejs:moderate_soul_gem"
+			id: "08AA2EDF465DE029"
+			rewards: [{
+				count: 2
+				id: "7971960BAF8D9C94"
+				item: "kubejs:moderate_soul_gem"
+				type: "item"
+			}]
+			subtitle: "{quest.5.moderate_summoning.subtitle}"
+			tasks: [
+				{
+					id: "13641B3DF8F4318F"
+					item: "eidolon:necrotic_focus"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "20B52DBF82A26666"
+					item: "kubejs:moderate_soul_gem"
+					type: "item"
+				}
+			]
+			title: "{quest.5.moderate_summoning.title}"
+			x: 0.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["08AA2EDF465DE029"]
+			description: [
+				"{quest.5.wither.desc0}"
+				""
+				"{quest.5.wither.desc1}"
+			]
+			icon: {
+				Count: 1
+				id: "endrem:wither_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "557617650FFA7BF8"
+			shape: "hexagon"
+			tasks: [
+				{
+					count: 3L
+					id: "18286EDC65C5BBE0"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "70A79CEC678EF097"
+					item: { Count: 4, id: "minecraft:soul_sand" }
+					type: "item"
+				}
+				{
+					id: "686B284457AF5359"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					id: "69A265380C115567"
+					item: {
+						Count: 1
+						id: "endrem:wither_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "{quest.5.wither.title}"
+			x: -8.0d
+			y: 47.0d
+		}
+		{
+			dependencies: [
+				"7EBD9990CD506CE0"
+				"1C7A15BF5B8AF3FB"
+				"46BDA25C56FAA3E0"
+			]
+			id: "020D04D0081B0376"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "67A860BBD22A2AFE"
+				item: "botania:alfheim_portal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 71.0d
+		}
+		{
+			dependencies: ["6425A4B344A3E70F"]
+			icon: "kubejs:reality_controller_running"
+			id: "16BED30DF56C2600"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "7DAFF95C2AEEACC0"
+				item: "kubejs:reality_controller"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1F3DF761E4C0D011"]
+			id: "5EE912358F2227BA"
+			shape: "gear"
+			tasks: [{
+				id: "02BE4FD8E554635B"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["528C282937D0FA29"]
+			id: "20BB0A14D35143A3"
+			shape: "gear"
+			tasks: [{
+				id: "3A885038F49FDBEA"
+				item: "enderio:soul_binder"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 49.5d
+		}
+		{
+			dependencies: ["528C282937D0FA29"]
+			id: "6869825F195DBB12"
+			shape: "gear"
+			tasks: [{
+				id: "19DAB8A38A0E190C"
+				item: "enderio:slice_and_splice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 49.5d
+		}
+		{
+			dependencies: ["2C65A876EF00F270"]
+			description: [
+				"{quest.5.cryptic_eye.desc0}"
+				""
+				"{quest.5.cryptic_eye.desc1}"
+			]
+			icon: {
+				Count: 1
+				id: "endrem:cryptic_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7C74C4D1572E5A39"
+			shape: "hexagon"
+			size: 2.0d
+			subtitle: "{quest.5.cryptic_eye.subtitle}"
+			tasks: [
+				{
+					id: "514A7F9CB6DB9A7D"
+					item: "create:experience_block"
+					type: "item"
+				}
+				{
+					id: "2B0C3FEFBAEFEF8B"
+					item: "minecraft:enchanted_book"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "75D80BF381103E9D"
+					item: {
+						Count: 1
+						id: "endrem:cryptic_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "{quest.5.cryptic_eye.title}"
+			x: 0.0d
+			y: 93.0d
+		}
+		{
+			dependencies: [
+				"020D04D0081B0376"
+				"71B9B26E6BA141F3"
+			]
+			id: "245653B3451C76FA"
+			shape: "hexagon"
+			tasks: [{
+				id: "50556F28F4B6EB20"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 73.5d
+		}
+		{
+			dependencies: ["20BB0A14D35143A3"]
+			id: "269181DBEA37A739"
+			shape: "hexagon"
+			tasks: [{
+				id: "17A2A0AAC8632E97"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 52.0d
+		}
+		{
+			dependencies: ["4D4A26DE9CDBAA45"]
+			id: "1C7A15BF5B8AF3FB"
+			shape: "gear"
+			tasks: [{
+				id: "6183DBD92D769449"
+				item: "mekanism:pressurized_reaction_chamber"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["16BED30DF56C2600"]
+			icon: "kubejs:error_item"
+			id: "2EB9B21080B383F3"
+			tasks: [
+				{
+					id: "1C32F4FB0E078E28"
+					item: "kubejs:error_item"
+					type: "item"
+				}
+				{
+					id: "1B6DA6A16FB00F5C"
+					item: "kubejs:data_chip_error"
+					type: "item"
+				}
+			]
+			title: "{quest.5.error.title}"
+			x: 3.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["16BED30DF56C2600"]
+			description: ["{quest.5.blaze_cake.desc0}"]
+			icon: "create:blaze_cake"
+			id: "7321D8BB155B472C"
+			rewards: [{
+				id: "1C5EB1F56CF89BFC"
+				item: "minecraft:cake"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4B3A4C0351DCB132"
+					item: "minecraft:netherrack"
+					type: "item"
+				}
+				{
+					id: "1AD583DD19B53866"
+					item: "minecraft:sugar"
+					type: "item"
+				}
+				{
+					id: "55D0877F7ACFE0EA"
+					item: "create:blaze_cake"
+					type: "item"
+				}
+			]
+			title: "{quest.5.blaze_cake.title}"
+			x: 6.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["2C65A876EF00F270"]
+			id: "1D6D27D8FBF358F3"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "4111747B9EE22203"
+				item: {
+					Count: 1
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 91.0d
+		}
+		{
+			dependencies: [
+				"2C65A876EF00F270"
+				"285A77D18A6A95CF"
+			]
+			id: "665DBC2127655305"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "168F40207A0E9C9C"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 91.0d
+		}
+		{
+			dependencies: ["46BDA25C56FAA3E0"]
+			id: "202EF641B48B92A1"
+			tasks: [{
+				id: "7084EC441CB9CDBB"
+				item: {
+					Count: 1
+					id: "tempad:tempad"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "{quest.5.tempad.title}"
+			x: -6.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["7321D8BB155B472C"]
+			description: ["{quest.5.dark.desc0}"]
+			icon: "create:shadow_steel"
+			id: "26F8FABDCAB3E581"
+			rewards: [{
+				count: 10
+				id: "58E82D3AB702184D"
+				item: "minecraft:experience_bottle"
+				type: "item"
+			}]
+			subtitle: "{quest.5.dark.subtitle}"
+			tasks: [
+				{
+					id: "77CAA64BAE3A37EA"
+					item: "create_enchantment_industry:disenchanter"
+					type: "item"
+				}
+				{
+					id: "592A48EB247E0DF9"
+					item: {
+						Count: 1
+						id: "create:chromatic_compound"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "4E6EABF2BDCD844C"
+					item: "eidolon:shadow_gem_block"
+					type: "item"
+				}
+				{
+					id: "0F595675976BCD12"
+					item: "create:shadow_steel"
+					type: "item"
+				}
+			]
+			title: "{quest.5.dark.title}"
+			x: 6.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["20BB0A14D35143A3"]
+			id: "115CD04307C62ED7"
+			shape: "hexagon"
+			tasks: [{
+				id: "280C1DCE4A2D9D8D"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 53.5d
+		}
+		{
+			dependencies: ["2CE95C36B45CCF4B"]
+			icon: "ae2:quantum_entangled_singularity"
+			id: "2C65A876EF00F270"
+			size: 2.0d
+			tasks: [
+				{
+					count: 2L
+					id: "5AA0937AB004EE36"
+					item: { Count: 2, id: "ae2:singularity" }
+					type: "item"
+				}
+				{
+					id: "08BF96D961A47F23"
+					item: "kubejs:quantum_string"
+					type: "item"
+				}
+				{
+					id: "6D1FF301DF09E368"
+					item: "ae2:quantum_entangled_singularity"
+					type: "item"
+				}
+			]
+			title: "{quest.5.string.title}"
+			x: 0.0d
+			y: 88.0d
+		}
+		{
+			description: ["{quest.5.dragon_breath.desc0}"]
+			icon: "minecraft:dragon_breath"
+			id: "285A77D18A6A95CF"
+			shape: "square"
+			subtitle: "{quest.5.dragon_breath.subtitle}"
+			tasks: [
+				{
+					count: 9L
+					id: "15FBDB35B6BEFC55"
+					item: { Count: 9, id: "minecraft:glass_bottle" }
+					type: "item"
+				}
+				{
+					id: "70540CA8AF33A53F"
+					item: "minecraft:dragon_breath"
+					type: "item"
+				}
+			]
+			title: "{quest.5.dragon_breath.title}"
+			x: -3.0d
+			y: 88.0d
+		}
+		{
+			dependencies: ["4D4A26DE9CDBAA45"]
+			icon: "ae2:singularity"
+			id: "46BDA25C56FAA3E0"
+			subtitle: "{quest.5.singularity.subtitle}"
+			tasks: [
+				{
+					id: "415ACB92B1624F57"
+					item: "ae2:condenser"
+					type: "item"
+				}
+				{
+					id: "2C326DAEB8B0383E"
+					item: "ae2:singularity"
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["46BDA25C56FAA3E0"]
+			id: "218587C0C569873D"
+			shape: "hexagon"
+			tasks: [{
+				id: "77DC77A35BFEC582"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 71.0d
+		}
+		{
+			dependencies: ["03AF09793F287C2A"]
+			id: "33647CB39EC6757F"
+			tasks: [{
+				id: "294C38C784B4977B"
+				item: "enderio:item_conduit"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["1C652ACF84E2883C"]
+			description: [
+				"{quest.5.antimatter.desc0}"
+				""
+				"{quest.5.antimatter.desc1}"
+				""
+				"{quest.5.antimatter.desc2}"
+				"{quest.5.antimatter.desc3}"
+				""
+				"{quest.5.antimatter.desc4}"
+			]
+			icon: "kubejs:data_chip_infinity"
+			id: "6474DAB2246BD65F"
+			size: 2.0d
+			subtitle: "{quest.5.antimatter.subtitle}"
+			tasks: [
+				{
+					id: "2E8EB1BC8F68618F"
+					item: "kubejs:data_chip_infinity"
+					type: "item"
+				}
+				{
+					id: "2AE97C5C0A9594AE"
+					item: "ae2:singularity"
+					type: "item"
+				}
+				{
+					id: "069EB4455C5A628D"
+					item: "mekanism:pellet_antimatter"
+					type: "item"
+				}
+				{
+					id: "2324D373D2C5248A"
+					item: "mekanism:chemical_oxidizer"
+					type: "item"
+				}
+				{
+					id: "7E91B3CEC5016702"
+					item: "mekanism:antiprotonic_nucleosynthesizer"
+					type: "item"
+				}
+			]
+			title: "{quest.5.antimatter.title}"
+			x: 0.0d
+			y: 79.0d
+		}
+		{
+			dependencies: ["08AA2EDF465DE029"]
+			id: "542DAE1D5B46EAE6"
+			shape: "hexagon"
+			tasks: [{
+				id: "736139562FDD8E3B"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 47.0d
+		}
+		{
+			icon: "minecraft:beehive"
+			id: "71B9B26E6BA141F3"
+			rewards: [{
+				count: 3
+				id: "7848A53424C8FE3D"
+				item: "minecraft:honey_bottle"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7B480A6A299153B2"
+					item: "minecraft:beehive"
+					type: "item"
+				}
+				{
+					id: "1FA8EA43AC45B072"
+					item: "minecraft:honeycomb"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 71.0d
+		}
+	]
+	title: "{quest.chapter_5.title}"
+}

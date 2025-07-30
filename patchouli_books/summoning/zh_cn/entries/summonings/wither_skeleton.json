@@ -1,0 +1,20 @@
+{
+    "name": "召唤一具凋零骷髅",
+    "icon": "minecraft:wither_skeleton_spawn_egg",
+    "category": "patchouli:moderate_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:wither_skeleton",
+			"name": "召唤一具凋零骷髅",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "kubejs:moderate_soul_gem",
+			"input2": "minecraft:stone_sword",
+			"input3": "minecraft:coal",
+			"input4": "kubejs:moderate_soul_gem"
+		}
+]}

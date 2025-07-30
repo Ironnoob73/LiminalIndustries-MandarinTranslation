@@ -1,0 +1,8 @@
+{
+    "name": "book.summoning.name",
+    "landing_text": "book.summoning.desc",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false,
+	"model": "patchouli:book_red"
+}

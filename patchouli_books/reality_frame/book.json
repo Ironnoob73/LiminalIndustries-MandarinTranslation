@@ -1,0 +1,9 @@
+{
+    "name": "book.reality_frame.name",
+    "landing_text": "book.reality_frame.desc",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false,
+	"pamphlet": true,
+	"model": "patchouli:book_blue"
+}

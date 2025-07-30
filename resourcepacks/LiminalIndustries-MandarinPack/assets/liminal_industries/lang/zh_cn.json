@@ -1,0 +1,533 @@
+{
+    "quest.chapter_1.title":"第一章",
+
+    "quest.1.punching_chairs.title":"揍椅子",
+    "quest.1.punching_chairs.subtitle":"欢迎来到阈限工业！",
+    "quest.1.punching_chairs.desc0":"如果你还没有适应新的过渡环境，别担心，让我们一起打造自己的基地，让它更舒适一些。",
+    "quest.1.punching_chairs.desc1":"散落在后室的随机家具可能可以被拆成木板，以增加你的生存机会。",
+    "quest.1.punching_chairs.desc2":"让我们开始制作工作台吧。首先用椅子制作木板。",
+    
+    "quest.1.wooden_tools.title":"木制工具",
+    "quest.1.wooden_tools.subtitle":"成功前的准备",
+    "quest.1.wooden_tools.desc0":"木制工具对你的成功至关重要。你可以用刀子切开地毯，露出下面的混凝土砖...",
+
+    "quest.1.knowledge.check":"我渴求知识",
+
+    "quest.1.stay_safe.title":"保持安全",
+    "quest.1.stay_safe.check":"可能发生的最坏情况是什么？",
+    "quest.1.stay_safe.subtitle":"当你看到幽匿时转身离开",
+    "quest.1.stay_safe.desc0":"这些房间的某些部分似乎被幽匿感染。最好离这些东西远点。",
+    "quest.1.stay_safe.desc1":"封锁通往受感染房间的走廊也可能是一种有效的策略。",
+    "quest.1.stay_safe.desc2":"保持安全！",
+    
+    "quest.1.collecting_water.title":"收集水",
+    "quest.1.collecting_water.subtitle":"我喜欢我的地毯变湿",
+    "quest.1.collecting_water.desc0":"你可以用海绵右击潮湿的地毯来收集水。",
+    "quest.1.collecting_water.desc1":"整个后室里都能找到湿地毯。它比普通地毯颜色略深。",
+    "quest.1.collecting_water.desc2":"注意：你可以通过使用湿海绵右击干地毯来使地毯变湿。",
+    "quest.1.collecting_water.desc3":"这在以后会变得更加重要。",
+    
+    "quest.1.bags.title":"收拾行李",
+    "quest.1.bags.subtitle":"我们要去冒险了！",
+    "quest.1.bags.desc0":"你可以用任何斧头把墙纸从墙上刮下来。这可以用来做一个小背包。",
+    
+    "quest.1.sweeping.title":"这个地方需要清扫一下",
+    "quest.1.sweeping.subtitle":"不要吸入它们...",
+    "quest.1.sweeping.desc0":"你可以使用刷子清扫地毯来获得地毯灰。",
+    "quest.1.sweeping.desc1":"&o注意：长期接触地毯灰尘的影响尚不清楚。",
+    
+    "quest.1.chopping.title":"精心砍伐，收获更多木材",
+    "quest.1.chopping.subtitle":"反向木匠",
+    "quest.1.chopping.desc0":"你可以将木制家具放在砧板上，然后用斧头砍伐，从而获得额外的木材。",
+
+    "quest.1.vandalism.title":"毁坏公物",
+    "quest.1.vandalism.subtitle":"哈哈，它被毁了",
+    "quest.1.vandalism.desc0":"你可以用刀子切开地毯，露出下面一些奇怪的混凝土砖。",
+    "quest.1.vandalism.desc1":"使用木镐，你可以从新发现的混凝土砖中挖出小块混凝土。",
+
+    "quest.1.meal.title":"从技术上来说，这是一顿饭",
+    "quest.1.meal.subtitle":"刀片粉碎，榨汁效果更佳",
+    "quest.1.meal.desc0":"你现在可能已经了解了地毯上的这些生物。它们掉落的卵是很好的蛋白质来源。",
+    "quest.1.meal.desc1":"用刀杀死它们会掉落更多的卵。",
+    "quest.1.meal.desc2":"然而，他们有后天养成的口味...",
+
+    "quest.1.wooden_propeller.title":"木扇叶",
+    "quest.1.wooden_propeller.subtitle":"阈限泼溅",
+    "quest.1.wooden_propeller.desc0":"可以使用扇叶右击桶来制作鼓风机。",
+    "quest.1.wooden_propeller.desc1":"可以使用湿海绵进行清洗。",
+    "quest.1.wooden_propeller.desc2":"风扇会直接吹过它。",
+
+    "quest.1.berry.title":"浆果好",
+    "quest.1.berry.subtitle":"创办农场",
+    "quest.1.berry.desc0":"你在地毯中发现的种子可以得到很好的利用。",
+    "quest.1.berry.desc1":"它们可以种植在潮湿的地毯上。",
+    "quest.1.berry.desc2":"你可以通过使用湿海绵右击干地毯来使地毯变湿。",
+    "quest.1.berry.desc3":"请注意，它们需要充足的光照才能生长。所以一定要选择合适的地点。",
+    "quest.1.berry.desc4":"草莓是最难种植的，因为它们需要正上方放置光源才能生长。不过，食用草莓可以治愈你。",
+    
+    "quest.1.clay.title":"制作粘土",
+    "quest.1.clay.desc0":"可以用风扇和海绵清洗地毯灰来制作粘土。",
+
+    "quest.1.chalk.title":"找回你的路",
+    "quest.1.chalk.desc0":"如果你不想迷路，那么弄点粉笔是个好主意。",
+    "quest.1.chalk.desc1":"使用粉笔，你可以在任何你想要的地方画箭头。",
+    "quest.1.chalk.desc2":"如果按住 Shift 并用粉笔右击一个方块，你可以绘制符号，这些符号可以帮助你提醒自己要去哪里以及要远离哪里。",
+    
+    "quest.1.furnace.desc0":"你可以用混凝土块制作一个熔炉，满足你所有的冶炼需求。",
+    
+    "quest.1.alloy_smelter.title":"稍大一点的熔炉",
+    "quest.1.alloy_smelter.subtitle":"总是会有更大的熔炉",
+    "quest.1.alloy_smelter.desc0":"如果你不知道如何建造合金窑，请参阅工程师手册。",
+    
+    "quest.1.water.title":"流体水",
+    "quest.1.lava.title":"流体岩石",
+
+    "quest.1.cobblestone.title":"圆石生成器",
+    "quest.1.cobblestone.subtitle":"进入石器时代",
+
+    "quest.chapter_2.title":"第二章",
+
+    "quest.2.cobblestone.title":"圆石生成器",
+
+    "quest.2.ash_alloy.subtitle":"于尘土中重生",
+
+    "quest.2.ashes.title":"尘归尘",
+    "quest.2.ashes.subtitle":"土归土",
+    "quest.2.ashes.desc0":"点燃任何能着火的东西都能得到灰烬。方块燃烧后会产生灰烬，可以用铲子铲起。",
+    "quest.2.ashes.desc1":"烧什么完全取决于你。木材不太容易大量获取，地毯和墙纸也有一定的耐火性。不过，或许你可以找一些纸板做的东西...",
+
+    "quest.2.apothecary.subtitle":"是时候给这个地方带来更多生机了",
+    
+    "quest.2.burner.title":"无烈焰燃烧器",
+
+    "quest.2.coke_oven.title":"大熔炉",
+    "quest.2.coke_oven.subtitle":"无尽的木炭",
+    
+    "quest.2.fertilizer.title":"花肥",
+    "quest.2.fertilizer.subtitle":"品尝彩虹",
+    "quest.2.fertilizer.desc0":"可以将花肥用在湿地毯上，为这个单调的地方增添一些色彩。",
+    "quest.2.fertilizer.desc1":"任何染料都可以用于制作。黄色染料最容易获得，因为它可以通过清洗墙纸来提取。",
+
+    "quest.2.better_fuel.title":"制造更好的燃料",
+    "quest.2.better_fuel.desc0":"许多家具都可以变成木炭块。",
+    "quest.2.better_fuel.desc1":"这应该会成为即将到来的蒸汽时代的良好燃料来源。",
+
+    "quest.2.copper.title":"获得铜",
+
+    "quest.2.steam_age.title":"进入蒸汽时代",
+    "quest.2.steam_age.subtitle":"压力山大",
+    "quest.2.steam_age.desc0":"后室里没有风。",
+    "quest.2.steam_age.desc1":"但幸运的是，你现在可以制造自己的第一台蒸汽机了。",
+    "quest.2.steam_age.desc2":"它所需要的只是基本燃烧器中的一些燃料和充足的水。",
+    "quest.2.steam_age.desc3":"可以从无限水源中抽出水，如下图所示。",
+    "quest.2.steam_age.desc4":"蒸汽机会自己抽水；你只需用手摇曲柄启动它即可。",
+    "quest.2.steam_age.desc5":"需要注意的是，篝火没有足够的热量来驱动它。",
+    
+    "quest.2.livingwood.title":"木材的复兴",
+    "quest.2.livingwood.desc0":"你可以使用白雏菊将防腐木变成活木。",
+    
+    "quest.2.nether.check":"参观下界",
+    "quest.2.nether.subtitle":"还期待别的什么吗？",
+    "quest.2.nether.desc0":"你可以用十桶熔岩和一桶水来建造一个传送门。",
+    "quest.2.nether.desc1":"下界可以作为通往后室不同位置的捷径。请注意，必须始终建造一个从后室通往下界的传送门。",
+
+    "quest.2.crushing_wheel.title":"化为尘土",
+
+    "quest.2.renewable_coal.title":"可再生焦煤",
+    "quest.2.renewable_coal.desc0":"你可以使用焦炉将活木变成木炭。",
+    "quest.2.renewable_coal.desc1":"在那之后，木炭可以变成焦煤。",
+    "quest.2.renewable_coal.desc2":"这意味着，理论上，只要正确设置，每块木板都可以变成焦煤。",
+    
+    "quest.2.lost_eye.subtitle":"隐藏在无限图书馆中",
+    "quest.2.lost_eye.desc0":"在这座无尽图书馆的某个地方，藏有一只被遗忘的眼睛。",
+    "quest.2.lost_eye.desc1":"凝视着无尽的书籍。",
+    "quest.2.lost_eye.desc2":"在大量书籍和其他丢失的垃圾上进行搜索。",
+    
+    "quest.2.checker_block.subtitle":"下棋时间",
+
+    "quest.2.sugar_cane.desc0":"甘蔗在子沙(Snad)上生长得更快。",
+    "quest.2.sugar_cane.desc1":"这能被利用吗？你来判断吧。",
+    "quest.2.sugar_cane.desc2":"子沙不仅能加速生长。如果子沙方块被红石更新，它还能强制其上方的植物生长。",
+
+    "quest.2.liminal_jam.title":"阈限果酱",
+    "quest.2.liminal_jam.subtitle":"口感顺滑，味道有“限”",
+    "quest.2.liminal_jam.desc0":"你可以将甜浆果变成阈限果酱",
+    "quest.2.liminal_jam.desc1":"在你执行此操作之前，你需要从花药台那里获得甘蔗",
+    
+    "quest.2.smeltery.title":"建造冶炼厂",
+    "quest.2.smeltery.subtitle":"冶金",
+    "quest.2.smeltery.desc0":"金属家具可以通过熔化变成各种金属。",
+
+    "quest.chapter_3.title":"第三章",
+
+    "quest.3.lead.title":"呀——哈！",
+
+    "quest.3.diamond.title":"闪耀光芒",
+    "quest.3.diamond.subtitle":"钻石——义和团运动",
+    
+    "quest.3.gold.title":"并非一切都闪闪发光",
+
+    "quest.3.post_office.title":"开设邮局",
+    "quest.3.post_office.subtitle":"纸板战士",
+    "quest.3.post_office.desc0":"机械动力的包裹系统是可选的。它可以非常方便地管理你的物品。",
+    
+    "quest.3.iron.title":"收集铁锈",
+
+    "quest.3.walkie_talkie.title":"对讲机",
+
+    "quest.3.putty_knife.desc0":"刮刀将墙纸从墙上去除时不会损失耐久。",
+    "quest.3.putty_knife.desc1":"现在你需要决定是否发明一种装置来自动完成这项任务。",
+    
+    "quest.3.musket.title":"登船队伍来了",
+
+    "quest.3.brazier.title":"入圈",
+    "quest.3.brazier.subtitle":"我的朋友认为他是个巫师",
+    "quest.3.brazier.desc0":"火盆圈可以进行各种仪式。",
+    "quest.3.brazier.desc1":"其中最值得注意的是召唤怪物的能力。",
+    "quest.3.brazier.desc2":"请参阅《秘仪教典》和《召唤入门》以了解更多信息。",
+    
+    "quest.3.summoning_101.title":"召唤入门",
+    "quest.3.summoning_101.check":"我获得了知识",
+    "quest.3.summoning_101.desc0":"用魔法召唤怪物是至关重要的，因为它们不会自然产生。",
+    "quest.3.summoning_101.desc1":"JEI 对此并不是非常清楚，但幸运的是，有这本方便的指南可以为您指明正确的方向。",
+    "quest.3.summoning_101.desc2":"只需按照说明放下材料并点燃火盆上的木炭即可开始召唤过程。",
+
+    "quest.3.mana_pool.desc0":"使用火红莲、魔力发射器和魔力池，你可以产生魔力。",
+    "quest.3.mana_pool.desc1":"如果你不清楚其工作原理，请查阅《植物魔法辞典》以获取有关魔力生成的更多信息。",
+    
+    "quest.3.powertools.title":"电动工具",
+    "quest.3.powertools.subtitle":"嗡嗡嗡",
+
+    "quest.3.cod.title":"生成鳕鱼",
+    "quest.3.cod.desc0":"可以使用召唤仪式来召唤鳕鱼。",
+    "quest.3.cod.desc1":"请参阅《召唤入门》以了解更多信息。",
+    
+    "quest.3.soul_shard.title":"灵魂碎片",
+    "quest.3.soul_shard.subtitle":"使亡灵结晶",
+    "quest.3.soul_shard.desc0":"灵魂碎片可以通过在亡灵生物附近进行灵魂结晶仪式来获得。幽匿化的尸壳或许是你最好的选择。",
+    "quest.3.soul_shard.desc1":"仪式需要用到骨粉。可以通过碾碎尸壳掉落的骨头或使用堆肥桶获得。",
+    "quest.3.soul_shard.desc2":"你可以查阅《秘仪教典》以获取更多详细信息。",
+    
+    "quest.3.time_bottle.title":"完美循环的时间",
+    "quest.3.time_bottle.subtitle":"这个整合包里最好的物品",
+    "quest.3.time_bottle.desc0":"有了时间之瓶，你可以利用背包中的时间量来加速单个方块。",
+    
+    "quest.3.crucible.desc0":"坩埚需要相当高的精度。",
+    "quest.3.crucible.desc1":"强烈建议你阅读《秘仪教典》中的条目，以获得足够的信息来正确掌握制作方法。",
+    "quest.3.crucible.desc2":"想要立即掌握制作流程可能比较困难。所以一定要多准备一些材料作为备用。",
+    
+    "quest.3.runic_altar.desc0":"你现在可以用新生成的魔力来使用符文祭坛了。只需使用魔力发射器将魔力池中储存的魔力转移到符文祭坛即可。",
+    "quest.3.runic_altar.desc1":"在《植物魔法辞典》中，你可以阅读有关如何使用符文祭坛制作符文的更多信息。",
+    
+    "quest.3.light_engineering.title":"轻工业",
+
+    "quest.3.vandalism_2.title":"毁坏公物2",
+    "quest.3.vandalism_2.subtitle":"熄灯",
+    "quest.3.vandalism_2.desc0":"向天花板上的灯扔砖头可能会产生一些即将到来的工业革命需要的重要部件。",
+    
+    "quest.3.leather.title":"制作背包的皮革",
+    "quest.3.leather.desc0":"背包可以用坩埚制作的皮革制成。",
+
+    "quest.3.lapis_lazuil.title":"蓝魔法",
+
+    "quest.3.scrubber.subtitle":"清洁模拟器",
+    "quest.3.scrubber.desc0":"为了使幽匿洗涤器发挥作用，必须将其放置在幽匿块上方。",
+    "quest.3.scrubber.desc1":"正确完成此操作后，可以右击激活机器。",
+    "quest.3.scrubber.desc2":"一旦激活，它就会开始吸收残骸，留下一块奇怪但安全的多孔石头。",
+    "quest.3.scrubber.desc3":"需要注意的是，任何东西都不能直接放在幽匿块上，即使是幽匿洗涤器也不行。为了把它放到正确的位置，你需要把它放在非幽匿块的一侧。",
+    
+    "quest.3.restoring.title":"恢复后室",
+    "quest.3.restoring.subtitle":"救赎的弧光",
+    "quest.3.restoring.desc0":"你可以通过以下方式修复对后室造成的损害：",
+    "quest.3.restoring.desc1":"· 使用地毯右击地砖",
+    "quest.3.restoring.desc2":"· 使用壁纸右击去皮的壁纸",
+    "quest.3.restoring.desc3":"· 使用日光灯管右击损坏的顶灯",
+    "quest.3.restoring.desc4":"如果你喜欢混凝土砖的美感，你也可以用一块混凝土右击它们，将其变成完整的方块。这也能防止砖块再次长出地毯。",
+    "quest.3.restoring.desc5":"所有这些听起来可能像是一个疯狂的想法，但重新打开灯也许并不是那么糟糕。",
+    
+    "quest.3.soulfire_wand.subtitle":"阿瓦达——",
+    "quest.3.soulfire_wand.desc0":"你可以用魔杖射击地板上的物品形式的红砖，从而将红砖变成地狱砖。",
+    
+    "quest.3.alternator.title":"交替",
+    "quest.3.alternator.subtitle":"无限的原始力量",
+    "quest.3.alternator.desc0":"是时候开始发电了。",
+    "quest.3.alternator.desc1":"你可以使用沉浸工程的电线连接你的机器，但你也可以使用热力膨胀的能量管道。",
+    
+    "quest.3.rock_gen.desc0":"造石机可用于生成许多不同的物品。",
+    "quest.3.rock_gen.desc1":"机器必须始终位于熔岩旁边，其他相邻的方块将决定输出。",
+    "quest.3.rock_gen.desc2":"目前最值得关注的资源是：",
+    "quest.3.rock_gen.desc3":"&l圆石&r",
+    "quest.3.rock_gen.desc4":"熔岩和水",
+    "quest.3.rock_gen.desc5":"&l胶水&r",
+    "quest.3.rock_gen.desc6":"熔岩和去皮墙纸",
+    "quest.3.rock_gen.desc7":"这些配方也可以在 JEI 里找到。",
+    
+    "quest.3.endless_lava.title":"无尽的圆石变成无尽的熔岩",
+    "quest.3.endless_lava.desc0":"合金炉无法自动化，但还有另一种方法可以用装满圆石的桶来制造无限量的熔岩。这完全是可选的，但当你发现自己总是燃料耗尽时，一定要记住这一点。",
+    
+    "quest.3.soul_fuse.title":"灵魂保险丝",
+    "quest.3.soul_fuse.subtitle":"被困住的灵魂",
+    "quest.3.soul_fuse.desc0":"你可以使用魂火魔杖将空保险丝转换为灵魂保险丝。",
+    "quest.3.soul_fuse.desc1":"只需将空的保险丝扔到地上，然后用魂火魔杖击打它们。",
+    
+    "quest.3.glue.title":"胶水提取器",
+
+    "quest.3.bamboo.title":"可再生木头",
+    "quest.3.bamboo.desc0":"使用竹子，你现在可以制造无限的木材，而不必依赖当地的椅子。",
+    "quest.3.bamboo.desc1":"竹子块也可以变成木炭。这应该可以为非常耗费燃料的蒸汽机提供燃料。",
+    "quest.3.bamboo.desc2":"请记住，这种植物可以在子沙上生长，因此，你不需要建造大型农场来获得适量的竹子。",
+
+    "quest.3.carbon.title":"可再生碳",
+    "quest.3.carbon.desc0":"可以使用焦炉将竹块变成木炭。",
+    "quest.3.carbon.desc1":"这也使得焦煤完全可再生。",
+    
+    "quest.3.crystallizer.desc0":"结晶器可以生长一系列重要的晶体。",
+    "quest.3.crystallizer.desc1":"最重要的输出是：",
+    "quest.3.crystallizer.desc2":"· 赛特斯石英",
+    "quest.3.crystallizer.desc3":"· 福鲁伊克斯水晶",
+    "quest.3.crystallizer.desc4":"· 玫瑰石英",
+    "quest.3.crystallizer.desc5":"· 小型灵魂宝石",
+    
+    "quest.3.adv_blast_furnace.title":"强化高炉",
+    "quest.3.adv_blast_furnace.desc0":"强化高炉的速度要快得多。它可以使用动力预热器，从而进一步加快炼钢过程。",
+    "quest.3.adv_blast_furnace.desc1":"此外，它还支持自动输入和输出。只需确保在输出口前放置一个箱子，热钢就会自动掉落到那里。",
+    
+    "quest.3.steel.title":"趁热打铁",
+    "quest.3.steel.subtitle":"引导你内心的矮人",
+    "quest.3.steel.desc0":"高炉可以生产热钢。为了冷却钢锭，你需要用热钢右击装水的炼药锅。",
+    "quest.3.steel.desc1":"请注意，钢锭有10",
+    "quest.3.steel.desc.comment":"这里断开是为了防止百分号导致的格式错误。",
+    "quest.3.steel.desc2":"的几率会开裂。开裂的钢锭可以在高炉中重新加热，变成新的热钢。",
+    
+    "quest.3.forged_eye.desc0":"解锁酒桶和高炉后，即可制作锻造之眼。",
+    "quest.3.forged_eye.desc1":"强烈建议你等到游戏中后期再进行制作，因为它需要大量资源来锻造。",
+    
+    "quest.3.keg.title":"发酵致醉",
+    "quest.3.keg.desc0":"使用酒桶，你可以种植大量特殊孢子。这些孢子可以转化为非常有用的资源。",
+    "quest.3.keg.desc1":"完全自动化酒桶可能是一个非常好的主意，因为当必须一遍又一遍地手动移动孢子时，该过程可能会非常缓慢。",
+    "quest.3.keg.desc2":"当然，它也能让你喝得酩酊大醉。",
+    
+    "quest.3.redstone.title":"可再生红石",
+    "quest.3.glowstone.title":"可再生荧石",
+    
+    "quest.3.echo_shard.title":"暗中回响",
+
+    "quest.3.mixer.title":"工业搅拌机",
+    "quest.3.mixer.subtitle":"用力搅拌！",
+    "quest.3.mixer.desc0":"工业搅拌机可用于生产红石酸。这种酸是制造玫瑰石英的化学反应所必需的。",
+    "quest.3.mixer.desc1":"确保过滤机器的输出，因为如果没有产生红石酸，则会从输出中提取输入的水。",
+    
+    "quest.3.auto_sweeping.title":"这个地方可以进行一些自动清扫",
+
+    "quest.3.me_chest.subtitle":"数码存储",
+    "quest.3.me_chest.desc0":"早期的ME系统设置起来可能相当有价值。请记住，没有ME控制器的系统最多只能连接8个设备，因此请谨慎使用你的频道。",
+    
+    "quest.3.renewable_lead.title":"可再生铅",
+    "quest.3.renewable_lead.check":"我已经自动化了铅",
+    "quest.3.renewable_lead.subtitle":"将毒药转化为铅",
+    "quest.3.renewable_lead.desc0":"壁纸可以溶解在红石酸中，产生其中的有毒铅尘。",
+    "quest.3.renewable_lead.desc1":"为此，你需要自动化墙纸。",
+    "quest.3.renewable_lead.desc2":"幸运的是，随着时间的推移，剥落的壁纸会神奇地重新长出来...",
+    
+    "quest.3.dirt.desc0":"将地毯和糖放在酒桶里发酵，可以产生泥土。",
+
+    "quest.3.cooking.title":"阈限大厨",
+    "quest.3.cooking.subtitle":"欢迎来到风味小镇",
+    "quest.3.cooking.desc0":"通过在砧板上刷掉污垢、泥土和地毯灰，可以获得各种不同的种子和蔬菜。",
+    
+    "quest.3.heavy_engineering.desc0":"重型工程框架标志着重型机器建造的开始。它们将构成正在建设的巨型工厂的基础。",
+
+    "quest.chapter_4.title":"第四章",
+
+    "quest.4.me_drive.desc0":"ME驱动器可以容纳多个存储元件，是对你存储网络的强大升级。",
+
+    "quest.4.fermenter.title":"工业发酵机",
+    "quest.4.fermenter.subtitle":"工业酒桶",
+    "quest.4.fermenter.desc0":"工业发酵机可以生产炼油厂制造酚醛树脂所需的乙醇。",
+    
+    "quest.4.refinery.title":"炼油厂",
+    "quest.4.refinery.desc0":"炼油厂可以利用工业发酵罐中的乙醇生产酚醛树脂。",
+    "quest.4.refinery.desc1":"需要一块银板来催化反应。银板不会被消耗。",
+    
+    "quest.4.catalyst.subtitle":"等价交换",
+    "quest.4.catalyst.desc0":"&o炼金术：理解、解构和重构物质的科学。然而，它并非无所不能的艺术。",
+    "quest.4.catalyst.desc1":"&o不可能凭空创造，无中生有。想要得到什么，就必须付出同等价值的东西。",
+    "quest.4.catalyst.desc2":"&o这是等价交换的法则，也是所有炼金术的基础。根据这条法则，炼金术士之间有一条禁忌。严禁进行人体炼金。",
+    "quest.4.catalyst.desc3":"&o什么能与人类灵魂的价值相等？",
+    
+    "quest.4.burner.subtitle":"有感知力的壁炉",
+    "quest.4.burner.desc0":"使用重型工程块，你现在可以使用火盆召唤烈焰人。",
+    
+    "quest.4.battery.title":"三A电池",
+
+    "quest.4.copper.title":"可再生铜",
+    "quest.4.copper.desc0":"通过这种体系，你可以制造可再生铜。",
+    "quest.4.copper.desc1":"建议建立一个穿过下界的火车网络，然后返回后室拾取辉绿岩。",
+    
+    "quest.4.zinc.title":"可再生锌",
+    "quest.4.zinc.desc0":"通过这种体系，你可以制造可再生锌。",
+    "quest.4.zinc.desc1":"建议建立一个穿过下界的火车网络以拾取皓蓝石。",
+    
+    "quest.4.iron.title":"可再生铁",
+    "quest.4.iron.desc0":"通过这种体系，你可以制造可再生铁。",
+    "quest.4.iron.desc1":"建议建立一个穿过下界的火车网络以拾取绯红岩。",
+    
+    "quest.4.fibreboard.subtitle":"更强的木头",
+    "quest.4.fibreboard.desc0":"纤维块可以用炼油厂和发酵机制作。它是黄铜机壳的基本部件。",
+    
+    "quest.4.brass_age.title":"黄铜时代",
+    "quest.4.brass_age.desc0":"使用黄铜外壳，你现在可以制作所有黄铜组件来创建和启动你自己的阈限运输网络。",
+    
+    "quest.4.stabilizer.subtitle":"加载您未观察到的内容",
+    "quest.4.stabilizer.desc0":"使用维度稳定锚，你可以远程加载区块。",
+    "quest.4.stabilizer.desc1":"这对于建立采矿前哨站至关重要。",
+    "quest.4.stabilizer.desc2":"你需要就地发电。热传导发电机可以很好地解决这个问题。",
+
+    "quest.4.track.title":"阈限运输",
+
+    "quest.4.reconstructor.desc0":"原子重构器可以在原子层面上重塑材料，形成特殊的晶体。",
+    "quest.4.reconstructor.desc1":"首先需要虚空水晶。它们可以用黑石英制作。",
+    
+    "quest.4.machine_frame.title":"制作一个机器框架",
+    "quest.4.machine_frame.desc0":"可以通过制作底部和顶部两半并将它们连接在一起来制作机器框架。",
+    "quest.4.machine_frame.desc1":"这个过程可以手动完成，也可以自动化。",
+
+    "quest.4.pyrolyzer.desc0":"热解炉可用于将沥青转化为焦油。",
+    "quest.4.pyrolyzer.desc1":"需要焦油来增强虚空水晶的力量。",
+    
+    "quest.4.thermal_refinery.desc0":"流体精炼机可以将原油转化为沥青，当将该机器与热解炉结合使用时，可以产生焦油。",
+    "quest.4.thermal_refinery.desc1":"此外，流体精炼机还可以用来生产精炼油。精炼油可以转化为蒸汽机所需的大量动力或热量。",
+    
+    "quest.4.smelter.desc0":"感应炉可用于制造许多高级物品。",
+    "quest.4.smelter.desc1":"它对于自动制造日光灯管和真空管特别有用。",
+    "quest.4.smelter.desc2":"这两个物品都是电子元件和高级电子元件所需要的。",
+    "quest.4.smelter.desc3":"",
+    
+    "quest.4.empowerer.subtitle":"更强的水晶",
+    "quest.4.empowerer.desc0":"充能器需要四个展示台环绕，分别位于各个主要方向。当它们被适量的能量充能时，可以为你后期所需的各种水晶赋能。",
+    
+    "quest.4.void.title":"虚空回响",
+
+    "quest.4.oil.title":"地毯油",
+    "quest.4.oil.subtitle":"黑金",
+    "quest.4.oil.desc0":"用海绵右击原油浸透的地毯，即可无限次地提取石油。",
+    "quest.4.oil.desc1":"右击后，石油将从地毯中喷出，可供拾取。",
+    "quest.4.oil.desc2":"建议你自动化这个过程。",
+    
+    "quest.4.refined_oil.title":"精炼油",
+    "quest.4.refined_oil.desc0":"你可以将轻油转化为精炼油。",
+    "quest.4.refined_oil.desc1":"当你给烈焰人燃烧室插上吸管，并注入精炼油时，它就会变得过热。这会让你的蒸汽机燃烧得更旺盛。",
+
+    "quest.4.centrifuge.title":"离心分离机",
+    
+    "quest.4.gold.title":"可再生金",
+    "quest.4.gold.check":"我已经建造了这个装置",
+    "quest.4.gold.subtitle":"无需贤者之石",
+    "quest.4.gold.desc0":"使用混乱粉和坩埚，你可以将铅转化为金。",
+    "quest.4.gold.desc1":"实现坩埚自动化所需的装置可能需要一些改进，但这是可能的。",
+    
+    "quest.4.tree.title":"日光灯下的树",
+
+    "quest.4.ae_press.title":"搜寻远古科技",
+    "quest.4.ae_press.desc0":"密室里散落着许多流星般的陨石。在它们的核心，你应该能找到一个包含所有四个压印模板的神秘立方体。",
+    
+    "quest.4.electrode.title":"电弧炉准备",
+
+    "quest.4.old_eye.title":"远古之眼",
+
+    "quest.4.terra_plate.desc0":"制作现实框架需要少量的泰拉钢。所以现在该进行植物魔法了。",
+
+    "quest.4.reality_charge.desc0":"现实充能器是现实框架的能量源。",
+    "quest.4.reality_charge.desc1":"框架生成完成后，现实充能器将需要再次充能，因此建立一个混乱粉农场是一个非常好的主意。",
+    
+    "quest.4.arc_furnace.title":"电弧炉",
+    
+    "quest.4.steel.title":"可靠钢材",
+    "quest.4.steel.subtitle":"不再破裂",
+    "quest.4.steel.desc0":"使用电弧炉可以炼钢，而不用担心钢会开裂。",
+    "quest.4.steel.desc1":"终于...",
+    
+    "quest.4.reality_frame.title":"制造一个现实框架",
+    "quest.4.reality_frame.check":"我现在有资格了",
+    "quest.4.reality_frame.desc0":"构建现实框架的指南为你提供了一个方便的可视化工具，以帮助你构建多方块结构。",
+    
+    "quest.4.abducting.title":"劫持维度",
+    "quest.4.abducting.subtitle":"绑架主世界",
+    "quest.4.abducting.desc0":"使用现实框架，你可以根据芯片上写入的种子从地上劫持地形。",
+    "quest.4.abducting.desc1":"这对于你的逃脱至关重要，因为地形中含有锇等矿石，你需要它们来制作最后的眼睛。",
+    
+    "quest.chapter_5.title":"第五章",
+    
+    "quest.5.miner.title":"现实矿工",
+    "quest.5.miner.subtitle":"你的矿现在是“挖”的了",
+    "quest.5.miner.desc0":"一些现实芯片会生成相当有价值的矿石。",
+    "quest.5.miner.desc1":"建立一些自动化采矿可能是个好主意。",
+    
+    "quest.5.osmium.desc0":"在一些现实芯片中可以发现锇。",
+    "quest.5.osmium.desc1":"由你来查明是哪一个...",
+    
+    "quest.5.ender_dust.title":"石归尘",
+    "quest.5.ender_dust.desc0":"其中一个现实芯片会生成末地石。末地石可以被粉碎，从而产生末影粉。",
+    
+    "quest.5.error.title":"除以零",
+    
+    "quest.5.blaze_cake.title":"它为什么辣？？？",
+    "quest.5.blaze_cake.desc0":"一些现实芯片中含有下界岩。可以用来制作烈焰蛋糕。",
+    
+    "quest.5.dark.title":"黑魔法",
+    "quest.5.dark.subtitle":"超越你理解的力量",
+    "quest.5.dark.desc0":"当使用异彩化合物右击暗影宝石块时，它将变成暗影钢。",
+    
+    "quest.5.moderate_summoning.title":"中等召唤",
+    "quest.5.moderate_summoning.subtitle":"值得的牺牲",
+    "quest.5.moderate_summoning.desc0":"要召唤更复杂的怪物，你需要获得中型灵魂宝石。",
+    "quest.5.moderate_summoning.desc1":"必须牺牲生命值才能完成仪式。可以使用任何生物的生命值。如果附近没有其他生物，则改为从最近的玩家身上获取生命值。",
+
+    "quest.5.wither.title":"三重头颅",
+    "quest.5.wither.desc0":"凋灵骷髅可以被召唤。它们总是会像其他召唤出来的怪物一样掉落它们的头骨。",
+    "quest.5.wither.desc1":"天然煤可以通过现实框架获得。",
+    
+    "quest.5.frog.title":"蛙卵",
+    "quest.5.frog.desc0":"需要召唤青蛙才能开始制作蛙明灯。",
+    
+    "quest.5.ai.title":"人工智能",
+
+    "quest.5.froglights.title":"蛙明灯",
+    "quest.5.froglights.desc0":"放置一桶岩浆将会召唤一个小的岩浆怪。",
+    "quest.5.froglights.desc1":"如果岩浆怪被青蛙吃掉，它会掉落一盏蛙明灯。",
+    
+    "quest.5.tempad.title":"永恒。永远。",
+
+    "quest.5.singularity.subtitle":"喂养奇点",
+    
+    "quest.5.antimatter.title":"这些方程式里有怪物",
+    "quest.5.antimatter.subtitle":"黑洞中的扭曲",
+    "quest.5.antimatter.desc0":"现实框架可用于扭曲出一个黑洞。",
+    "quest.5.antimatter.desc1":"流程与正常流程相同。不过，需要使用修改后的数据芯片而非普通芯片来启动扭曲。",
+    "quest.5.antimatter.desc2":"当黑洞形成后，你可以用奇点右键单击它。",
+    "quest.5.antimatter.desc3":"奇点将被消耗，而黑洞则会吐出反物质球。",
+    "quest.5.antimatter.desc4":"可以查阅现实框架信息手册来获取更多信息。",
+    
+    "quest.5.dragon_breath.title":"龙之呼吸",
+    "quest.5.dragon_breath.subtitle":"火生吐息中",
+    "quest.5.dragon_breath.desc0":"你可以使用召唤火盆召唤龙息。你需要快速拾取它，所以准备好你的瓶子。",
+
+    "quest.5.string.title":"弦理论",
+
+    "quest.5.cryptic_eye.title":"神秘之眼",
+    "quest.5.cryptic_eye.subtitle":"吸收知识",
+    "quest.5.cryptic_eye.desc0":"可以通过右击经验块上的大量附魔书来制造神秘之眼。",
+    "quest.5.cryptic_eye.desc1":"随着时间的推移，它慢慢地获得更多的感知能力这一事实似乎并没有真正困扰你...",
+    
+    "quest.escaping.title":"逃脱",
+    "quest.esc.portal.title":"通往主世界的传送门",
+    "quest.esc.portal.subtitle":"打开传送门",
+    "quest.esc.portal.desc0":"为了回到主世界，必须收集所有十二只眼睛并将其放置在传送门框架中。",
+    "quest.esc.portal.desc1":"只会有一个房间生成传送门框架。房间有四个入口，内部回荡着不祥的心跳声。",
+    "quest.esc.portal.desc2":"如果你感到困惑，请回顾任务书以了解如何获得不同的眼睛。",
+    
+    "book.summoning.name":"召唤入门",
+    "book.summoning.desc":"这是关于如何将不同实体召唤到后室的指南。",
+    "book.reality_frame.name":"建造一个现实框架",
+    "book.reality_frame.desc":"如何构建现实框架多方块结构的指南"
+}

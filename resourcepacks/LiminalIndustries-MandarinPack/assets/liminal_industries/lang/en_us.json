@@ -1,0 +1,533 @@
+{
+    "quest.chapter_1.title":"Chapter 1",
+
+    "quest.1.punching_chairs.title":"Punching Chairs",
+    "quest.1.punching_chairs.subtitle":"Welcome to Liminal Industries!",
+    "quest.1.punching_chairs.desc0":"If you have not yet adjusted to your new liminal environment. Then don't worry, let us make our own base and make it a bit more cozy.",
+    "quest.1.punching_chairs.desc1":"The random furniture scattered across the backrooms could probably be repurposed into planks to increase your chance of survival.",
+    "quest.1.punching_chairs.desc2":"Let's get started with making a crafting table. Start with crafting a chair into planks.",
+
+    "quest.1.wooden_tools.title":"Wooden Tools",
+    "quest.1.wooden_tools.subtitle":"The setup for succes",
+    "quest.1.wooden_tools.desc0":"Wooden tools are essential to your succes. You can use knifes to cut up the carpet, revealing the concrete tiles underneath...",
+
+    "quest.1.knowledge.check":"I wish for knowlege",
+
+    "quest.1.stay_safe.title":"Stay Safe",
+    "quest.1.stay_safe.check":"Whats the worst that could happen?",
+    "quest.1.stay_safe.subtitle":"Turn away when you see sculk",
+    "quest.1.stay_safe.desc0":"Some parts of these rooms seem to be infected with sculk. It's probably best to stay as far away from the stuff as possible.",
+    "quest.1.stay_safe.desc1":"Barricading corridors to infected rooms might also prove an effective tactic.",
+    "quest.1.stay_safe.desc2":"Stay safe!",
+    
+    "quest.1.collecting_water.title":"Collecting Water",
+    "quest.1.collecting_water.subtitle":"I like my Carpet Soggy",
+    "quest.1.collecting_water.desc0":"You can collect water by right-clicking Soggy Carpet with a sponge.",
+    "quest.1.collecting_water.desc1":"Soggy Carpet can be found all throughout the backrooms. It is slightly darker than normal carpet.",
+    "quest.1.collecting_water.desc2":"Note: That you can make carpet soggy by right-clicking wet sponges on dry carpet.",
+    "quest.1.collecting_water.desc3":"This will become more important later on.",
+    
+    "quest.1.bags.title":"Pack your bags",
+    "quest.1.bags.subtitle":"We are going on an Adventure!",
+    "quest.1.bags.desc0":"You can scrape the wallpaper off the walls using any axe. This can provide the resources to make a small backpack.",
+    
+    "quest.1.sweeping.title":"This Place could use some Sweeping",
+    "quest.1.sweeping.subtitle":"Do not Inhale this...",
+    "quest.1.sweeping.desc0":"You can use brushes to sweep up the carpet for carpet dust.",
+    "quest.1.sweeping.desc1":"&oNote: The effects of long term carpet dust exposure are unknown.",
+    
+    "quest.1.chopping.title":"More Wood With Careful Chopping",
+    "quest.1.chopping.subtitle":"Reverse Carpenter",
+    "quest.1.chopping.desc0":"You can gain additional wood by placing wooden furniture on top of a chopping board and chopping it with an axe.",
+
+    "quest.1.vandalism.title":"Vandalism",
+    "quest.1.vandalism.subtitle":"Haha, its destroyed",
+    "quest.1.vandalism.desc0":"You can cut open the carpet using a knife, revealing some strange concrete tiles underneath.",
+    "quest.1.vandalism.desc1":"With a wooden pickaxe you can mine your newly discovered concrete tiles for small pieces of concrete.",
+
+    "quest.1.meal.title":"Technically a Meal",
+    "quest.1.meal.subtitle":"Crush with Blade, Releases Juice Better",
+    "quest.1.meal.desc0":"You might have found out about the carpet inhabitants by now. The eggs they drop are a good source of protiene.",
+    "quest.1.meal.desc1":"Killing them with a knife will drop additional eggs.",
+    "quest.1.meal.desc2":"They have an aquired taste, however...",
+
+    "quest.1.wooden_propeller.title":"Wooden Propeller",
+    "quest.1.wooden_propeller.subtitle":"Liminal Splashing",
+    "quest.1.wooden_propeller.desc0":"A Mechanical Fan can be created by right-clicking a barrel with a propeller.",
+    "quest.1.wooden_propeller.desc1":"You can use wet sponges as a source of washing. ",
+    "quest.1.wooden_propeller.desc2":"The fan will blow right through it.",
+
+    "quest.1.berry.title":"Berry Good",
+    "quest.1.berry.subtitle":"Starting a Farm",
+    "quest.1.berry.desc0":"The seeds that you found in the carpet can be put to good use.",
+    "quest.1.berry.desc1":"They can be planted on Soggy Carpet.",
+    "quest.1.berry.desc2":"You can make carpet soggy by right-clicking a wet sponge on dry carpet.",
+    "quest.1.berry.desc3":"Do note that they need sufficient light in order to grow. So make sure you pick the right spot.",
+    "quest.1.berry.desc4":"Strawberries are the most difficult to farm since they need a light source placed right above them in order for them to grow. They, however, will heal you upon consumption.",
+    
+    "quest.1.clay.title":"Making Clay",
+    "quest.1.clay.desc0":"Clay can be made by washing Carpet Dust with a Encased Fan and a Sponge.",
+
+    "quest.1.chalk.title":"Finding Your Way Back",
+    "quest.1.chalk.desc0":"If you don't feel like getting lost, then it is a good idea to make some chalk.",
+    "quest.1.chalk.desc1":"With Chalk you can draw arrows anywhere you want.",
+    "quest.1.chalk.desc2":"If you shift+right-click with a piece of chalk on a block, you can draw symbols that can help you remind yourself where to go and where to stay very far away from.",
+    
+    "quest.1.furnace.desc0":"You can make a furnace out of concrete pieces for all your smelting needs.",
+    
+    "quest.1.alloy_smelter.title":"Slightly Bigger Furnace",
+    "quest.1.alloy_smelter.subtitle":"There is Always a Bigger Furnace",
+    "quest.1.alloy_smelter.desc0":"If you are lost on how to construct an Alloy Kiln, then please refer to the Engineers Manual.",
+    
+    "quest.1.water.title":"Liquid Water",
+    "quest.1.lava.title":"Liquid Rock",
+
+    "quest.1.cobblestone.title":"Cobblestone Generator",
+    "quest.1.cobblestone.subtitle":"Entering the Stone Age",
+    
+    "quest.chapter_2.title":"Chapter 2",
+
+    "quest.2.cobblestone.title":"Cobblestone Generator",
+
+    "quest.2.ash_alloy.subtitle":"Be reborn from the ashes",
+
+    "quest.2.ashes.title":"Ashes to Ashes",
+    "quest.2.ashes.subtitle":"Dust to Dust",
+    "quest.2.ashes.desc0":"Ashes can be obtained by lighting anything that can catch fire. After the block burns up, it will make ash that can be picked up using a shovel.",
+    "quest.2.ashes.desc1":"What to burn is entirely up to you. Wood is not super easy to come by in big quantities and the carpet and wallpaper are somehow resistant to the flames. But perhaps you can find something made out of cardboard...",
+
+    "quest.2.apothecary.subtitle":"Time to bring some more life to this place",
+    
+    "quest.2.burner.title":"Burner without Blaze",
+
+    "quest.2.coke_oven.title":"Big Furnace",
+    "quest.2.coke_oven.subtitle":"Endless Charcoal",
+    
+    "quest.2.fertilizer.title":"Floral Fertilizer",
+    "quest.2.fertilizer.subtitle":"Taste the Rainbow",
+    "quest.2.fertilizer.desc0":"Soggy carpet can be used in combination with Floral Fertiliser to bring some colour to this monochrome place.",
+    "quest.2.fertilizer.desc1":"Any dye can be used to make it in the Petal Apothecary. Yellow dye is the easiest to obtain since it can be extracted from wallpaper by washing it with an Encased Fan.",
+
+    "quest.2.better_fuel.title":"Making Better Fuel",
+    "quest.2.better_fuel.desc0":"A lot of furniture can be turned into Blocks of Charcoal.",
+    "quest.2.better_fuel.desc1":"That should be a good source of fuel for the upcoming steamage.",
+
+    "quest.2.copper.title":"Getting Copper",
+
+    "quest.2.steam_age.title":"Entering the Steam Age",
+    "quest.2.steam_age.subtitle":"Under Pressure",
+    "quest.2.steam_age.desc0":"There is no wind in the Backrooms.",
+    "quest.2.steam_age.desc1":"But luckily for you, you can now make your first steam engine.",
+    "quest.2.steam_age.desc2":"All it needs is some fuel in the basic burners and a good supply of water.",
+    "quest.2.steam_age.desc3":"Water can be pumped out of an infinite water source, as shown in the image below.",
+    "quest.2.steam_age.desc4":"The steam engine will need to pump its own water; you just need to kickstart it with a Hand Crank.",
+    "quest.2.steam_age.desc5":"It should be noted that campfires do not have enough heat to power the engine.",
+    
+    "quest.2.livingwood.title":"Reviving wood",
+    "quest.2.livingwood.desc0":"You can turn Treated wood into Livingwood using the pure daisy.",
+    
+    "quest.2.nether.check":"Visit the Nether",
+    "quest.2.nether.subtitle":"Expected Something Else?",
+    "quest.2.nether.desc0":"You can cast a portal with ten buckets of lava and one bucket of water.",
+    "quest.2.nether.desc1":"The nether can be used as a shortcut to diffrent places in the backrooms. Do note that a portal must always be constructed from the Backrooms to the Nether.",
+
+    "quest.2.crushing_wheel.title":"Become Dust",
+
+    "quest.2.renewable_coal.title":"Renewable Coal Coke",
+    "quest.2.renewable_coal.desc0":"You can turn Livingwood into Charcoal using the coke oven.",
+    "quest.2.renewable_coal.desc1":"After that, Charcoal can be turned into Coal Coke.",
+    "quest.2.renewable_coal.desc2":"Which means that every plank can, in theory, be turned into Coal Coke with the right setup.",
+    
+    "quest.2.lost_eye.subtitle":"Hidden within an Infinite Library",
+    "quest.2.lost_eye.desc0":"Somewhere within the infinite library sits a forgotten eye. ",
+    "quest.2.lost_eye.desc1":"Staring at endless books.",
+    "quest.2.lost_eye.desc2":"Search on top of the giant piles of books and other lost junk.",
+    
+    "quest.2.checker_block.subtitle":"Time for Chess",
+
+    "quest.2.sugar_cane.desc0":"Sugarcane grows ways faster on snad. ",
+    "quest.2.sugar_cane.desc1":"Can this be exploited?, you be the judge.",
+    "quest.2.sugar_cane.desc2":"Snad not only allows for faster growth. If a block of Snad is updated by redstone it will force the plant on top of it to grow.",
+
+    "quest.2.liminal_jam.title":"Liminal Jam",
+    "quest.2.liminal_jam.subtitle":"Smooth with Limited Taste",
+    "quest.2.liminal_jam.desc0":"You can turn sweet berries into Liminal Jam.",
+    "quest.2.liminal_jam.desc1":"Before you can do this you need to obtain Sugar Cane from the Petal Apothecary",
+    
+    "quest.2.smeltery.title":"Building a Smeltery",
+    "quest.2.smeltery.subtitle":"Metallurgy",
+    "quest.2.smeltery.desc0":"Metal furniture can be melted to gain all kinds of metals.",
+    
+    "quest.chapter_3.title":"Chapter 3",
+
+    "quest.3.lead.title":"Ya-harr!",
+
+    "quest.3.diamond.title":"Shine Bright",
+    "quest.3.diamond.subtitle":"Diamonds - The Boxer Rebellion",
+    
+    "quest.3.gold.title":"Not all that Glitters",
+
+    "quest.3.post_office.title":"Starting a Post Office",
+    "quest.3.post_office.subtitle":"Cardboard Warrior",
+    "quest.3.post_office.desc0":"Using the package system from Create is optional. It can be a very convenient way of managing your items. ",
+    
+    "quest.3.iron.title":"Collecting Rust",
+
+    "quest.3.walkie_talkie.title":"Walkie-Talkie",
+
+    "quest.3.putty_knife.desc0":"The putty knife can remove wallpaper from the walls without losing durability.",
+    "quest.3.putty_knife.desc1":"Now it is up to you to invent a contraption to automate this task.",
+    
+    "quest.3.musket.title":"The Boarding Party is Here",
+
+    "quest.3.brazier.title":"Enter the Circle",
+    "quest.3.brazier.subtitle":"My Friend Thinks he is a Wizard",
+    "quest.3.brazier.desc0":"The Brazier Circle can do all kinds of rituals.",
+    "quest.3.brazier.desc1":"One of the most noteworthy is the abillity to summon mobs.",
+    "quest.3.brazier.desc2":"Consult the \"Ars Eccelecia\" and \"Summoning 101\" for more information.",
+    
+    "quest.3.summoning_101.title":"Summoning 101",
+    "quest.3.summoning_101.check":"I have acquired knowlege",
+    "quest.3.summoning_101.desc0":"Summoning mobs with magic is essential since they will not spawn naturally.",
+    "quest.3.summoning_101.desc1":"JEI is not super clear about this, but luckily there is this handy guidebook to point you in the right direction.",
+    "quest.3.summoning_101.desc2":"Simply put the ingedients down as discribed and ignite the charcoal on the brazier in order to start the summoning process.",
+
+    "quest.3.mana_pool.desc0":"Using the endoflame, mana spreader and mana pool you can generate mana.",
+    "quest.3.mana_pool.desc1":"If you are confused on how this works then consult the Lexa Botania for more information on mana generation.",
+    
+    "quest.3.powertools.title":"Powertools",
+    "quest.3.powertools.subtitle":"Bzzzzzzz",
+
+    "quest.3.cod.title":"Summoning Cod",
+    "quest.3.cod.desc0":"Cod can be summoned using a summoning ritual.",
+    "quest.3.cod.desc1":"Consult \"Summoning 101\" for more information.",
+    
+    "quest.3.soul_shard.title":"Soul Shards",
+    "quest.3.soul_shard.subtitle":"Crystallise the Undead",
+    "quest.3.soul_shard.desc0":"Soulshards can be obtained by performing a soul crystallization ritual near undead mobs. Skulked Husks are probably your best option for this.",
+    "quest.3.soul_shard.desc1":"Bonemeal will be needed for the ritual. It can be obtained by crushing bones dropped by husks, or by using the composter.",
+    "quest.3.soul_shard.desc2":"You can consult the Ars Ecclesia for more detailed information.",
+    
+    "quest.3.time_bottle.title":"Perfectly Looped Time",
+    "quest.3.time_bottle.subtitle":"The Best Item in the Pack",
+    "quest.3.time_bottle.desc0":"With the Time in a Bottle, you can accelerate single blocks using the amount of time you have had the Bottle in your inventory.",
+    
+    "quest.3.crucible.desc0":"The Crucible requires quite a bit of precision. ",
+    "quest.3.crucible.desc1":"It is highly recommended that you read the entry on it in the Ars Ecclesia to have enough information to get the crafting method correct.",
+    "quest.3.crucible.desc2":"It might be tough to get the crafting process right straight away. So make sure you always make some extra ingredients as a backup.",
+    
+    "quest.3.runic_altar.desc0":"With your newly generated mana you can now use a Runic Altar. Simply redirect the stored mana in the manapool towards the Runic Altar using a Mana Spreader.",
+    "quest.3.runic_altar.desc1":"In the Lexa Botania you can read more on how to make runes with the Runic Altar.",
+    
+    "quest.3.light_engineering.title":"Light Engineering",
+
+    "quest.3.vandalism_2.title":"Vandalism 2.0",
+    "quest.3.vandalism_2.subtitle":"Lights Out",
+    "quest.3.vandalism_2.desc0":"Throwing bricks at the ceiling lamps might yield some important compontens for the upcomming industrial revolution.",
+    
+    "quest.3.leather.title":"Leather for Backpacks",
+    "quest.3.leather.desc0":"Backpacks can be made using leather crafted from the Crucible.",
+
+    "quest.3.lapis_lazuil.title":"Blue Magic",
+
+    "quest.3.scrubber.subtitle":"Cleaning Simulator",
+    "quest.3.scrubber.desc0":"In order for the Sculk Scrubber to function, it must be placed above a block of Sculk.",
+    "quest.3.scrubber.desc1":"When you have done this correctly, it can be right-clicked in order to activate the machine.",
+    "quest.3.scrubber.desc2":"Upon activation it will start absorbing the sculk, leaving a strange but safe porous stone behind.",
+    "quest.3.scrubber.desc3":"It should be noted that nothing can be placed directly on the sculk, not even the sculk scrubber. In order to get it in the right position, you need to place it on the side of a non-sculk block. ",
+    
+    "quest.3.restoring.title":"Restoring The Backrooms",
+    "quest.3.restoring.subtitle":"Redemption Arc",
+    "quest.3.restoring.desc0":"You can also restore the damage you have brought to the backrooms by:",
+    "quest.3.restoring.desc1":"- Right-clicking floor tiles with carpet",
+    "quest.3.restoring.desc2":"- Right-clicking stripped wallpaper with wallpaper",
+    "quest.3.restoring.desc3":"- Right-clicking broken ceiling lamps with fluorescent tubes",
+    "quest.3.restoring.desc4":"If you like the aesthetic of the concrete tiles you can also turn the concrete tiles into full blocks by right-clicking them with a piece of concrete. This will also prevent the tiles from growing their carpet back.",
+    "quest.3.restoring.desc5":"All of this may sound like an insane idea, but turning the lights back on might not be so bad.",
+    
+    "quest.3.soulfire_wand.subtitle":"Avadaaaaa...",
+    "quest.3.soulfire_wand.desc0":"Using the wand you can turn Bricks into Netherbricks by firing the wand at bricks that are on the floor in item form.",
+    
+    "quest.3.alternator.title":"Alternating",
+    "quest.3.alternator.subtitle":"Unlimited Raw Power",
+    "quest.3.alternator.desc0":"It is time to get some power generation going. ",
+    "quest.3.alternator.desc1":"You can connect your machines using the wires from Immersive Engineering, but you can also use the Fluxducts from Thermal Expansion.",
+    
+    "quest.3.rock_gen.desc0":"The Igneous Extruder can be used to generate a lot of different items.",
+    "quest.3.rock_gen.desc1":"The machine must always be next to lava, other adjacent blocks will decide the output.",
+    "quest.3.rock_gen.desc2":"The most noteworthy for now resources are:",
+    "quest.3.rock_gen.desc3":"&lCobblestone&r",
+    "quest.3.rock_gen.desc4":"Lava and Water",
+    "quest.3.rock_gen.desc5":"&lGlue&r",
+    "quest.3.rock_gen.desc6":"Lava and Stripped Wallpaper",
+    "quest.3.rock_gen.desc7":"These recipes can also be found in JEI.",
+    
+    "quest.3.endless_lava.title":"Endless Cobblestone into Endless Lava",
+    "quest.3.endless_lava.desc0":"The Alloy Klin can't be automated but there is another way to make infinite lava using Buckets filled with Cobblestone. This is entirely optional but something to keep in mind for when you find yourself running out of fuel all the time.",
+    
+    "quest.3.soul_fuse.title":"Soul Fuse",
+    "quest.3.soul_fuse.subtitle":"Trapped Souls",
+    "quest.3.soul_fuse.desc0":"You can convert Empty Fuses into Soul Fuses using the soul wand.",
+    "quest.3.soul_fuse.desc1":"Simply drop the Empty Fuses on the ground and hit them with the soul wand.",
+    
+    "quest.3.glue.title":"Glue Extractor",
+
+    "quest.3.bamboo.title":"Renewable Wood",
+    "quest.3.bamboo.desc0":"Using bamboo, you can now make infinite wood without having to rely on your local chairs.",
+    "quest.3.bamboo.desc1":"A block of bamboo can also be turned into charcoal. This should help with feeding the fuel-hungry steam engine.",
+    "quest.3.bamboo.desc2":"Remember the plant can grow on snad and that, therefore, you don't need to build a megafarm in order to obtain a moderate amount of bamboo.",
+
+    "quest.3.carbon.title":"Renewable Carbon",
+    "quest.3.carbon.desc0":"Blocks of Bamboo can be turned into Charcoal using the coke oven.",
+    "quest.3.carbon.desc1":"This also makes Coal Coke fully renewable.",
+    
+    "quest.3.crystallizer.desc0":"The Crystalliser can grow an array of important crystals.",
+    "quest.3.crystallizer.desc1":"The most important outputs are:",
+    "quest.3.crystallizer.desc2":"- Certus Quartz",
+    "quest.3.crystallizer.desc3":"- Fluix Crystals",
+    "quest.3.crystallizer.desc4":"- Rose Quartz",
+    "quest.3.crystallizer.desc5":"- Lesser Soulgems",
+    
+    "quest.3.adv_blast_furnace.title":"Advanced Blast Furnace",
+    "quest.3.adv_blast_furnace.desc0":"The Advanced Blast Furnace is a lot faster. It can use powered preheaters to make the steel-making process even faster.",
+    "quest.3.adv_blast_furnace.desc1":"Additionally, it supports automatic inputs and outputs. Just make sure you have a chest placed in front of its output, and the hot steel will be dropped automatically in there.",
+    
+    "quest.3.steel.title":"Forge it while its Hot",
+    "quest.3.steel.subtitle":"Channel you inner Dwarf",
+    "quest.3.steel.desc0":"The Blast furnace can produce Hot Steel. In order to cool the ingots down, you need to right-click the Hot Steel on a cauldron filled with water.",
+    "quest.3.steel.desc1":"Do note that there is a 10",
+    "quest.3.steel.desc.comment":"The reason for the break here is to prevent format errors caused by the percent sign.",
+    "quest.3.steel.desc2":" chance for the steel to crack. Cracked Steel can be reheated in the blast furnace to turn it into new Hot Steel.",
+    
+    "quest.3.forged_eye.desc0":"The Forged Eye can be created after you unlock the Keg and the blast furnace. ",
+    "quest.3.forged_eye.desc1":"It is highly recommended you wait until mid- to late-game with making it since it requires a lot of resources to forge.",
+    
+    "quest.3.keg.title":"Fermentation for Intoxication",
+    "quest.3.keg.desc0":"Using the Keg, you can farm up a lot of the special spores. These spores can be turned into very useful resources.",
+    "quest.3.keg.desc1":"Fully automating the keg might be a really good idea since the process can be quite slow when having to move the spores manually over and over again.",
+    "quest.3.keg.desc2":"Of course it also allows you to get completely drunk on alcoholic beverages.",
+    
+    "quest.3.redstone.title":"Renewable Redstone",
+    "quest.3.glowstone.title":"Renewable Glowstone",
+    
+    "quest.3.echo_shard.title":"Echoes in the Dark",
+
+    "quest.3.mixer.title":"Industrial Mixer",
+    "quest.3.mixer.subtitle":"Mix Harder!",
+    "quest.3.mixer.desc0":"The Industrial Mixer can be used to produce Redstone Acid. This acid is essential in the chemical reaction to make Rose Quartz.",
+    "quest.3.mixer.desc1":"Make sure to filter the output of the machine since the input water can be extracted from the output if no Redstone Acid is being made.",
+    
+    "quest.3.auto_sweeping.title":"This place could use some Automated Sweeping",
+
+    "quest.3.me_chest.subtitle":"Digital Storage",
+    "quest.3.me_chest.desc0":"An early ME system might be quite rewarding to set up. Remember that systems without an ME Controller can only have up to 8 devices, so use your channels sparingly.",
+    
+    "quest.3.renewable_lead.title":"Renewable Lead",
+    "quest.3.renewable_lead.check":"I have automated the Lead",
+    "quest.3.renewable_lead.subtitle":"Turning Poison Back Into Lead",
+    "quest.3.renewable_lead.desc0":"Wallpaper can be dissolved in Redstone Acid to yield the poisonous lead dust within.",
+    "quest.3.renewable_lead.desc1":"For this you will need to automate Wallpaper. ",
+    "quest.3.renewable_lead.desc2":"Luckily for you, stripped wallpaper magically regrows its wallpaper back over time...",
+    
+    "quest.3.dirt.desc0":"Dirt can be created by fermenting carpet in a keg combined with sugar.",
+
+    "quest.3.cooking.title":"Liminal Chef",
+    "quest.3.cooking.subtitle":"Welcome to Flavortown",
+    "quest.3.cooking.desc0":"All kinds of different seeds and vegetables can be obtained by brushing Dirt, Mud and carpet Dust on a Cutting Board.",
+    
+    "quest.3.heavy_engineering.desc0":"The Heavy Engineering Frame marks the start of the construction of the heavier machines. They will form the foundation for the megafactory that is being constructed.",
+
+    "quest.chapter_4.title":"Chapter 4",
+
+    "quest.4.me_drive.desc0":"The ME Drive can hold multiple Storage Cells and is a powerful upgrade to your storage network.",
+
+    "quest.4.fermenter.title":"Industrial Fermenter",
+    "quest.4.fermenter.subtitle":"Industrial Keg",
+    "quest.4.fermenter.desc0":"The Industrial Fermenter can produce the Ethanol that will be needed to make Phenolic Resin in the Refinery.",
+    
+    "quest.4.refinery.title":"Refinery",
+    "quest.4.refinery.desc0":"The Refinery can produce Phenolic Resin using the Ethanol from the Industrial Fermenter. ",
+    "quest.4.refinery.desc1":"A silver plate is needed to catalyse the reaction. The plate will not be consumed.",
+    
+    "quest.4.catalyst.subtitle":"Equivalent Exchange",
+    "quest.4.catalyst.desc0":"&oAlchemy: the science of understanding, deconstructing, and reconstructing matter. However, it is not an all-powerful art. ",
+    "quest.4.catalyst.desc1":"&oIt is impossible to create something out of nothing. If one wishes to obtain something, something of equal value must be given. ",
+    "quest.4.catalyst.desc2":"&oThis is the law of equivalent exchange; the basis of all alchemy. In accordance to this law, there is a taboo among alchemists. Human transmutation is strictly forbidden. ",
+    "quest.4.catalyst.desc3":"&oFor what could equal the value of a human soul?",
+    
+    "quest.4.burner.subtitle":"Sentient Fireplace",
+    "quest.4.burner.desc0":"With Heavy Engineering Blocks you can now summon blazes using the brazier.",
+    
+    "quest.4.battery.title":"AAA battery",
+
+    "quest.4.copper.title":"Renewable Copper",
+    "quest.4.copper.desc0":"With this setup you can make renewable copper.",
+    "quest.4.copper.desc1":"It might be recommended to make a train network through the nether and then back into the backrooms to pick up the Veridium.",
+    
+    "quest.4.zinc.title":"Renewable Zinc",
+    "quest.4.zinc.desc0":"With this setup you can make renewable zinc.",
+    "quest.4.zinc.desc1":"It might be recommended to make a train network through the nether to pick up the Asurine.",
+    
+    "quest.4.iron.title":"Renewable Iron",
+    "quest.4.iron.desc0":"With this setup you can make renewable iron.",
+    "quest.4.iron.desc1":"It might be recommended to make a train network through the nether to pick up the Crimsite.",
+    
+    "quest.4.fibreboard.subtitle":"Stronger Wood",
+    "quest.4.fibreboard.desc0":"Fiberboard can be made using the Refinery and the Fermenter. It is the base component for brass casings.",
+    
+    "quest.4.brass_age.title":"Brass Age",
+    "quest.4.brass_age.desc0":"Using Brass Casings you can now make all the brass components for create and start your own liminal transport network.",
+    
+    "quest.4.stabilizer.subtitle":"Loading what you are not observing",
+    "quest.4.stabilizer.desc0":"With the Dimensional Stabiliser you can load chunks remotely. ",
+    "quest.4.stabilizer.desc1":"This is essential for setting up a mining outpost.",
+    "quest.4.stabilizer.desc2":"You will need local power generation. The Thermoelectric Generator can be a good solution to this problem.",
+
+    "quest.4.track.title":"Liminal Transport",
+
+    "quest.4.reconstructor.desc0":"The Atomic Reconstructor can reform materials on the atomic level to form special crystals.",
+    "quest.4.reconstructor.desc1":"Void Crystals will be needed first. They can be made from Black Quartz.",
+    
+    "quest.4.machine_frame.title":"Making a Machine Frame",
+    "quest.4.machine_frame.desc0":"The Machine Frame can be made by making the bottom and the top half and attaching the segments together.",
+    "quest.4.machine_frame.desc1":"This process can be done manually by hand, or it can be automated.",
+
+    "quest.4.pyrolyzer.desc0":"The Pyrolizer can be used to turn Bitumen into Tar.",
+    "quest.4.pyrolyzer.desc1":"Tar will be needed to empower the Void Crystals.",
+    
+    "quest.4.thermal_refinery.desc0":"The Fractionating Still can turn Crude Oil into Bitumen leading to the creation of Tar when using this machine in combination with the Pyroliser.",
+    "quest.4.thermal_refinery.desc1":"Additionally, the Fractionating Still can also be used to make Refined Fuel. This can be turned into a good amount of power or heat for the Steam Engine.",
+    
+    "quest.4.smelter.desc0":"The Induction Smelter can be used to create a lot of advanced items.",
+    "quest.4.smelter.desc1":"It is especially useful for the automatic creation of Fluorecent Lights and Vacuum Tubes. ",
+    "quest.4.smelter.desc2":"These two items are both needed for Electronic Components and ",
+    "quest.4.smelter.desc3":"Advanced Electronic Components.",
+    
+    "quest.4.empowerer.subtitle":"Even Stronger Crystals",
+    "quest.4.empowerer.desc0":"The Empowerer needs to be surrounded by four Display Stands in all cardinal directions. When powered by the right amount of energy, they can empower all kinds of crystals that you will need for the late-game.",
+    
+    "quest.4.void.title":"Echoes in the Void",
+
+    "quest.4.oil.title":"Carpet Oil",
+    "quest.4.oil.subtitle":"Black Gold",
+    "quest.4.oil.desc0":"Oil can be tapped out of Crude Oil Soaked Carpet endlessly by right-clicking it with a sponge.",
+    "quest.4.oil.desc1":"Uppon right-clicking Crude Oil will erupt from the carpet, ready to be picked up.",
+    "quest.4.oil.desc2":"It is recommended that you automate this process.",
+    
+    "quest.4.refined_oil.title":"Refined Fuel",
+    "quest.4.refined_oil.desc0":"You can turn Light Oil into Refined Fuel.",
+    "quest.4.refined_oil.desc1":"Blazes will get superheated when you give them a straw and pump Refined Fuel into them. This will make your steam engine burn a whole lot brighter.",
+
+    "quest.4.centrifuge.title":"Centrifugal Separator",
+    
+    "quest.4.gold.title":"Renewable Gold",
+    "quest.4.gold.check":"I have build this contraption",
+    "quest.4.gold.subtitle":"No need for a Philosopher's Stone",
+    "quest.4.gold.desc0":"With confusing powder and a Crucible you can convert lead into gold.",
+    "quest.4.gold.desc1":"The contraption needed to automate the Crucible might take some tinkering, but it is possible.",
+    
+    "quest.4.tree.title":"A Tree Under Fluorescent Tubes ",
+
+    "quest.4.ae_press.title":"Searching for Ancient Tech",
+    "quest.4.ae_press.desc0":"There are meteors of Sky Stone scattered throughout the backrooms. At the core of them, you should be able to find a mysterious cube containing all four presses.",
+    
+    "quest.4.electrode.title":"Arc Furnace Prep",
+
+    "quest.4.old_eye.title":"Old Eye",
+
+    "quest.4.terra_plate.desc0":"A small amount of terrasteel is needed to make the Reality Frame. So it is time to catch up on Botania.",
+
+    "quest.4.reality_charge.desc0":"The Reality Charge acts as the power source of the Reality Frame. ",
+    "quest.4.reality_charge.desc1":"After the Frame is done generating, the Reality Charge will need to be empowered again, so it is a very good idea to set up a Confusing Powder farm.",
+    
+    "quest.4.arc_furnace.title":"Arc Furnace",
+    
+    "quest.4.steel.title":"Reliable Steel",
+    "quest.4.steel.subtitle":"Without Cracks",
+    "quest.4.steel.desc0":"Using the Arc Furnace you can make steel without the risk of cracking it.",
+    "quest.4.steel.desc1":"Finally...",
+    
+    "quest.4.reality_frame.title":"Building a Reality Frame",
+    "quest.4.reality_frame.check":"I am qualified now",
+    "quest.4.reality_frame.desc0":"The guidebook on building the Reality Frame gives you a handy visualiser to aid in constructing the multiblock.",
+    
+    "quest.4.abducting.title":"Abducting Dimensions",
+    "quest.4.abducting.subtitle":"Abducting the Overworld",
+    "quest.4.abducting.desc0":"Using the Reality Frame, you can abduct terrain from the overworld based on the seed that is written on the chip.",
+    "quest.4.abducting.desc1":"This is essential for your escape since the terrain contains ores like Osmium that you need to craft the last eyes.",
+    
+    "quest.chapter_5.title":"Chapter 5",
+    
+    "quest.5.miner.title":"Reality Miner",
+    "quest.5.miner.subtitle":"Your Ores are Mine Now",
+    "quest.5.miner.desc0":"Some of the Reality Chips generate ores that are quite valuable. ",
+    "quest.5.miner.desc1":"Setting up some automated mining operation might be a good idea.",
+    
+    "quest.5.osmium.desc0":"Osmium can be found in some of the Reality Chips.",
+    "quest.5.osmium.desc1":"It is up to you to figure out which ones...",
+    
+    "quest.5.ender_dust.title":"Stone to Dust",
+    "quest.5.ender_dust.desc0":"One of the Reality Chips will generate Endstone. The Endstone can be crushed to yeild Ender Dust.",
+    
+    "quest.5.error.title":"Divided by Zero",
+    
+    "quest.5.blaze_cake.title":"Why is it Spicy???",
+    "quest.5.blaze_cake.desc0":"A few Reality Chips have Netherrack in them. This can be used to make Blaze Cakes.",
+    
+    "quest.5.dark.title":"Dark Magic",
+    "quest.5.dark.subtitle":"Powers Beyond your Comprehension",
+    "quest.5.dark.desc0":"When a Shadowgem Block is right-clicked with Chromatic Compound, it will turn into Shadow Steel.",
+    
+    "quest.5.moderate_summoning.title":"Moderate Summoning",
+    "quest.5.moderate_summoning.subtitle":"A Worthy Sacrifice",
+    "quest.5.moderate_summoning.desc0":"To summon more complicated mobs you will need to get Moderate Soul Gems.",
+    "quest.5.moderate_summoning.desc1":"A health sacrifice must be made to complete the ritual. Health from any mob can be used. If no other mob is nearby then the health will be taken from the nearest player instead.",
+
+    "quest.5.wither.title":"Tripple Skulls",
+    "quest.5.wither.desc0":"Wither skeletons can be summoned in. They will always drop their skull exactly like other summoned mobs.",
+    "quest.5.wither.desc1":"Natural coal can be obtained with the Reality Frame.",
+    
+    "quest.5.frog.title":"Frogspawn",
+    "quest.5.frog.desc0":"Frogs need to be summoned into existence in order to start making froglights.",
+    
+    "quest.5.ai.title":"Artificial Intelligence",
+
+    "quest.5.froglights.title":"Froglights",
+    "quest.5.froglights.desc0":"Placing a bucket of magma will summon a small magma cube.",
+    "quest.5.froglights.desc1":"If the magma cube is eaten by a frog it will drop a froglight.",
+    
+    "quest.5.tempad.title":"For All Time. Always.",
+
+    "quest.5.singularity.subtitle":"Feed the Singularity",
+    
+    "quest.5.antimatter.title":"Inside these Equations there are Monsters",
+    "quest.5.antimatter.subtitle":"Warping in a Black Hole",
+    "quest.5.antimatter.desc0":"The reality Frame can be used to warp in a black hole.",
+    "quest.5.antimatter.desc1":"The process is the same as normal. However, the modified data chip should be used instead of a normal one to start the warping.",
+    "quest.5.antimatter.desc2":"When the back hole has formed you can right-click it with a singularity.",
+    "quest.5.antimatter.desc3":"The singularity will be consumed and the back hole will spit out pieces of antimatter in return.",
+    "quest.5.antimatter.desc4":"The Reality Frame information book can be consulted for more information.",
+    
+    "quest.5.dragon_breath.title":"Dragon's Breath",
+    "quest.5.dragon_breath.subtitle":"Fire comes from the Breath",
+    "quest.5.dragon_breath.desc0":"You can summon Dragon's Breath using the summoning brazier. You need to be quick to pick it up, so have your bottles ready.",
+
+    "quest.5.string.title":"String Theory",
+
+    "quest.5.cryptic_eye.title":"Cryptic Eye",
+    "quest.5.cryptic_eye.subtitle":"Absorbing Knowlege",
+    "quest.5.cryptic_eye.desc0":"The Cryptic Eye can be created by right-clicking a lot of enchanted books on a block of experience.",
+    "quest.5.cryptic_eye.desc1":"The fact that it slowly gains more sentience over time does not really seem to bother you...",
+    
+    "quest.escaping.title":"Escaping",
+    "quest.esc.portal.title":"Portal to the Overworld",
+    "quest.esc.portal.subtitle":"Opening the Portal",
+    "quest.esc.portal.desc0":"In order to get back to the overworld, all 12 eyes must be collected and placed in the portal frame. ",
+    "quest.esc.portal.desc1":"Only a single room is generated with a portal frame. The room has 4 entrances and an ominous heartbeat echoing from within.",
+    "quest.esc.portal.desc2":"If you are ever confused, look back in the questbook on how to obtain the different eyes.",
+
+    "book.summoning.name":"Summoning 101",
+    "book.summoning.desc":"This is a guide about how you summon different entities into the backrooms.",
+    "book.reality_frame.name":"Building a Reality Frame",
+    "book.reality_frame.desc":"A guide in how to construct a reality frame multiblock"
+}

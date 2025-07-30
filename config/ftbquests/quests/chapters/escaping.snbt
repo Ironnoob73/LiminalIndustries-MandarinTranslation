@@ -1,0 +1,257 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "escaping"
+	group: ""
+	icon: "ae2:quantum_entangled_singularity"
+	id: "0AB22B8732D34B8D"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"28FD2F25F3A3D432"
+				"33C688A963B8FBF9"
+				"35A57599FB9A7E5B"
+				"229B08F0B29117B0"
+				"091F72AFE305BBD3"
+				"00890E05CBC407AE"
+				"7785043DD739D542"
+				"7226884848AD49CD"
+				"7CE6AA241BA3ED5A"
+				"094715E56FE38460"
+				"1B93D99B01B813DE"
+				"7176C957BE2530E0"
+			]
+			description: [
+				"{quest.esc.portal.desc0}"
+				""
+				"{quest.esc.portal.desc1}"
+				""
+				"{quest.esc.portal.desc2}"
+			]
+			icon: "endrem:ancient_portal_frame"
+			id: "54C2818EE0D113D9"
+			shape: "hexagon"
+			size: 5.0d
+			subtitle: "{quest.esc.portal.subtitle}"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "461BF68B1EB33759"
+				type: "dimension"
+			}]
+			title: "{quest.esc.portal.title}"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["245653B3451C76FA"]
+			id: "7785043DD739D542"
+			tasks: [{
+				id: "1B07BA2FD827B2F6"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1D6D27D8FBF358F3"]
+			id: "091F72AFE305BBD3"
+			tasks: [{
+				id: "7E5DE4238F17E555"
+				item: {
+					Count: 1
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["557617650FFA7BF8"]
+			id: "7176C957BE2530E0"
+			tasks: [{
+				id: "136DBDC7EB41D734"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["12F6EDB7B3074DBA"]
+			id: "00890E05CBC407AE"
+			tasks: [{
+				id: "4A4A235C5027D080"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["542DAE1D5B46EAE6"]
+			id: "1B93D99B01B813DE"
+			tasks: [{
+				id: "700932197E8B59FB"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["115CD04307C62ED7"]
+			id: "33C688A963B8FBF9"
+			tasks: [{
+				id: "7B43D149F64FA014"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7C74C4D1572E5A39"]
+			id: "35A57599FB9A7E5B"
+			shape: "hexagon"
+			tasks: [{
+				id: "780B92ED31AF9FEB"
+				item: {
+					Count: 1
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["218587C0C569873D"]
+			id: "28FD2F25F3A3D432"
+			tasks: [{
+				id: "3C48E1E6DE8290DE"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6C0922865829A7FE"]
+			id: "7226884848AD49CD"
+			shape: "hexagon"
+			tasks: [{
+				id: "1F9893D01747EA5F"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["665DBC2127655305"]
+			id: "229B08F0B29117B0"
+			shape: "hexagon"
+			tasks: [{
+				id: "5060BD1F5390A685"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28DF9CE983663C3C"]
+			id: "7CE6AA241BA3ED5A"
+			shape: "hexagon"
+			tasks: [{
+				id: "3EB7F41BA70C8BA8"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["269181DBEA37A739"]
+			id: "094715E56FE38460"
+			tasks: [{
+				id: "1C24C74FC3F3D482"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -6.0d
+		}
+	]
+	title: "{quest.escaping.title}"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "召唤一头猪",
+    "icon": "minecraft:pig_spawn_egg",
+    "category": "patchouli:lesser_summoning",
+    "pages": [
+	    {
+            "type": "patchouli:entity",
+            "entity": "minecraft:pig",
+			"name": "召唤一头猪",
+			"scale": 1.0,
+			"rotate": false
+        },
+		{
+			"type": "patchouli:brazier",
+			"input1": "eidolon:lesser_soul_gem",
+			"input2": "minecraft:potato",
+			"input3": "minecraft:beetroot",
+			"input4": "eidolon:lesser_soul_gem"
+		}
+]}

@@ -1,0 +1,1837 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sector_2"
+	group: ""
+	icon: "immersiveengineering:component_electronic"
+	id: "296F2DB9D43A576E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["552D47F0044BE5E4"]
+			description: [
+				"{quest.3.steel.desc0}"
+				""
+				"{quest.3.steel.desc1}%{quest.3.steel.desc2}"
+			]
+			icon: "immersiveengineering:blast_furnace"
+			id: "5D74C2FDCBAA0FC7"
+			rewards: [
+				{
+					id: "0ACF2091E9C6462E"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5A7FCED1C34D7441"
+					item: "kubejs:hot_steel"
+					type: "item"
+				}
+				{
+					id: "56D0668DF2159E47"
+					item: {
+						Count: 1
+						id: "immersiveengineering:stick_steel"
+						tag: {
+							display: {
+								Lore: ["{\"text\":\"Don't drop this\"}"]
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.3.steel.subtitle}"
+			tasks: [
+				{
+					count: 27L
+					id: "087711302DC22977"
+					item: "immersiveengineering:blastbrick"
+					type: "item"
+				}
+				{
+					id: "7ED67EAC65F83528"
+					item: {
+						Count: 1
+						id: "immersiveengineering:hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1EACEFEF6E611EA7"
+					item: "minecraft:cauldron"
+					type: "item"
+				}
+				{
+					id: "3E10BCAC02463ECC"
+					item: "kubejs:hot_steel"
+					type: "item"
+				}
+				{
+					id: "269E5421B2ECA371"
+					item: "immersiveengineering:blast_furnace"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "{quest.3.steel.title}"
+			x: 0.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["7C0EE6F4BEE559C3"]
+			description: ["{quest.3.heavy_engineering.desc0}"]
+			id: "78F13758BBD911A0"
+			rewards: [
+				{
+					id: "3CC49BBDE0D95FEC"
+					item: {
+						Count: 1
+						id: "fairylights:pennant_bunting"
+						tag: {
+							color: 11546150
+							pattern: [{
+								Count: 1b
+								id: "fairylights:triangle_pennant"
+								tag: {
+									color: 11546150
+								}
+							}]
+							text: {
+								styling: [I; ]
+								value: ""
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02BFF400B3F054FC"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "580EEC0F030A51DB"
+					item: "farmersdelight:roast_chicken_block"
+					type: "item"
+				}
+				{
+					id: "6F5FF24398F4C5B1"
+					item: "berry_good:music_disc_fox"
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [
+				{
+					id: "56E8E33407531F61"
+					item: "kubejs:heavy_engineering_empty"
+					type: "item"
+				}
+				{
+					id: "71B37BC5508CF8E6"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 43.0d
+		}
+		{
+			dependencies: ["2ABD7837E63FB024"]
+			description: [
+				"{quest.3.alternator.desc0}"
+				""
+				"{quest.3.alternator.desc1}"
+			]
+			icon: "createaddition:alternator"
+			id: "54E961EC3F8CC4D9"
+			rewards: [
+				{
+					id: "0904620D92482BE4"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:fairy_light"
+								tag: {
+									color: 11546150
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E19D660F03AEA05"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:fairy_light"
+								tag: {
+									color: 8439583
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34FDB159A047C6AF"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:fairy_light"
+								tag: {
+									color: 3847130
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.3.alternator.subtitle}"
+			tasks: [
+				{
+					id: "61F8174A1CFB3963"
+					item: "createaddition:alternator"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7D32B24C8848AF38"
+					item: { Count: 6, id: "thermal:energy_duct" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.alternator.title}"
+			x: 0.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["151585622A7F23C3"]
+			description: ["{quest.3.dirt.desc0}"]
+			id: "4CB1AA5F6B49AC6E"
+			rewards: [{
+				id: "5293BEA140994846"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "51829F68D3AF175F"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["5D74C2FDCBAA0FC7"]
+			description: [
+				"{quest.3.adv_blast_furnace.desc0}"
+				""
+				"{quest.3.adv_blast_furnace.desc1}"
+			]
+			icon: "immersiveengineering:advanced_blast_furnace"
+			id: "296A0E8602688002"
+			shape: "gear"
+			tasks: [
+				{
+					count: 27L
+					id: "1FC459CD33FD1ECE"
+					item: "immersiveengineering:blastbrick_reinforced"
+					type: "item"
+				}
+				{
+					id: "1DC6BFDE623305D5"
+					item: "minecraft:hopper"
+					type: "item"
+				}
+				{
+					id: "1C65D863F7664744"
+					item: {
+						Count: 1
+						id: "immersiveengineering:hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "60EBAD5C2D5D5929"
+					item: { Count: 2, id: "immersiveengineering:blastfurnace_preheater" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.adv_blast_furnace.title}"
+			x: -2.5d
+			y: 27.0d
+		}
+		{
+			dependencies: [
+				"65D2BC79CD4D885B"
+				"070593BCE7387349"
+			]
+			id: "7C0EE6F4BEE559C3"
+			tasks: [{
+				id: "0432357F061847C7"
+				item: "create:electron_tube"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["4CB1AA5F6B49AC6E"]
+			description: ["{quest.3.cooking.desc0}"]
+			icon: "farmersdelight:cabbage_seeds"
+			id: "6FDBD3A1B63D8498"
+			rewards: [{
+				id: "730B47494A746DA5"
+				item: {
+					Count: 1
+					id: "farmersdelight:stuffed_pumpkin_block"
+					tag: { }
+				}
+				type: "item"
+			}]
+			subtitle: "{quest.3.cooking.subtitle}"
+			tasks: [
+				{
+					id: "5A9303D98226924D"
+					item: "minecraft:wheat_seeds"
+					type: "item"
+				}
+				{
+					id: "5DC7826E04DE7664"
+					item: "minecraft:beetroot_seeds"
+					type: "item"
+				}
+				{
+					id: "3512AC32C9D42551"
+					item: "farmersdelight:cabbage_seeds"
+					type: "item"
+				}
+				{
+					id: "4669083C49751A5E"
+					item: "minecraft:pumpkin_seeds"
+					type: "item"
+				}
+				{
+					id: "1A61A9C6B91D2702"
+					item: "minecraft:melon_seeds"
+					type: "item"
+				}
+				{
+					id: "310DD3FAECB91729"
+					item: "farmersdelight:cooking_pot"
+					type: "item"
+				}
+			]
+			title: "{quest.3.cooking.title}"
+			x: 5.0d
+			y: 37.0d
+		}
+		{
+			dependencies: ["32A38D7CD715768D"]
+			description: [
+				"{quest.3.bamboo.desc0}"
+				""
+				"{quest.3.bamboo.desc1}"
+				""
+				"{quest.3.bamboo.desc2}"
+			]
+			icon: "minecraft:bamboo"
+			id: "55B7C4D0E5890406"
+			rewards: [{
+				id: "4A2B7E4AF189B3D7"
+				item: {
+					Count: 1
+					id: "supplementaries:flute"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [
+				{
+					id: "7BC4E73E77237AC6"
+					item: "minecraft:bamboo"
+					type: "item"
+				}
+				{
+					id: "578D74826E819116"
+					item: "minecraft:bamboo_block"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0B7CA2A3659AF27D"
+					item: { Count: 4, id: "minecraft:bamboo_planks" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.bamboo.title}"
+			x: 8.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["151585622A7F23C3"]
+			icon: "thermal:redstone_mushroom_spores"
+			id: "38A6BDA2AE2D13BE"
+			tasks: [
+				{
+					id: "793219F0CD6EC931"
+					item: "brewinandchewin:keg"
+					type: "item"
+				}
+				{
+					id: "475BE19954A2E3C6"
+					item: "brewinandchewin:heating_cask"
+					type: "item"
+				}
+				{
+					id: "031A4CF7CABFE500"
+					item: "thermal:redstone_mushroom_spores"
+					type: "item"
+				}
+				{
+					id: "57AEEE1F6F3B0E2E"
+					item: "minecraft:sugar"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "2C80CE1AFC1E72EB"
+					item: { Count: 4, id: "minecraft:redstone" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.redstone.title}"
+			x: 8.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["3DB2E63B62BA0311"]
+			icon: "refurbished_furniture:light_stove"
+			id: "3F5758647B93803C"
+			tasks: [
+				{
+					id: "77AE8111728C33E8"
+					item: "refurbished_furniture:light_stove"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0623A2305E415BF9"
+					item: "refurbished_furniture:light_fridge"
+					optional_task: true
+					type: "item"
+				}
+				{
+					amount: 1000L
+					fluid: "tconstruct:molten_iron"
+					id: "1EB33E4B44C9B0E8"
+					optional_task: true
+					type: "fluid"
+				}
+				{
+					id: "01A2A395789E1158"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			title: "{quest.3.iron.title}"
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			description: ["{quest.3.vandalism_2.desc0}"]
+			icon: "kubejs:fluorescent_tube"
+			id: "3EEB10E1DC378F7A"
+			shape: "square"
+			subtitle: "{quest.3.vandalism_2.subtitle}"
+			tasks: [
+				{
+					count: 3L
+					id: "074AA5AE3A6FFA7A"
+					item: "minecraft:brick"
+					type: "item"
+				}
+				{
+					id: "6EFC9A269934A311"
+					item: "kubejs:fluorescent_tube"
+					type: "item"
+				}
+			]
+			title: "{quest.3.vandalism_2.title}"
+			x: 8.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"3F5758647B93803C"
+				"3EEB10E1DC378F7A"
+			]
+			id: "2ABD7837E63FB024"
+			rewards: [
+				{
+					id: "29F4FC7294559F98"
+					item: "kubejs:party_popper"
+					type: "item"
+				}
+				{
+					id: "5E2CB57024DFB08C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							Parent: {
+								Items: [ ]
+								Size: 23
+							}
+						}
+						id: "immersiveengineering:toolbox"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1B95EA560303C40B"
+					item: "kubejs:light_engineering_empty"
+					type: "item"
+				}
+				{
+					id: "4732C386C8438230"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+			]
+			title: "{quest.3.light_engineering.title}"
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["2ABD7837E63FB024"]
+			description: [
+				"{quest.3.rock_gen.desc0}"
+				"{quest.3.rock_gen.desc1}"
+				""
+				"{quest.3.rock_gen.desc2}"
+				""
+				"{quest.3.rock_gen.desc3}"
+				"{quest.3.rock_gen.desc4}"
+				""
+				"{quest.3.rock_gen.desc5}"
+				"{quest.3.rock_gen.desc6}"
+				""
+				"{quest.3.rock_gen.desc7}"
+			]
+			id: "451A79187DD84C9A"
+			shape: "gear"
+			tasks: [{
+				id: "1119B1A5274105BD"
+				item: "thermal:device_rock_gen"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["451A79187DD84C9A"]
+			id: "32A38D7CD715768D"
+			tasks: [
+				{
+					count: 5L
+					id: "3E253DA1738337F3"
+					item: { Count: 5, id: "thermal:rubber" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "0930B403FA9BCB2C"
+					item: { Count: 5, id: "thermal:cured_rubber" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.glue.title}"
+			x: 5.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["0D7F62210B243747"]
+			description: [
+				"{quest.3.soul_shard.desc0}"
+				""
+				"{quest.3.soul_shard.desc1}"
+				""
+				"{quest.3.soul_shard.desc2}"
+			]
+			icon: "eidolon:soul_shard"
+			id: "0E75315018995DB6"
+			subtitle: "{quest.3.soul_shard.subtitle}"
+			tasks: [
+				{
+					id: "201B8879CE0612C5"
+					item: "minecraft:bone_meal"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "75602215F1FD6138"
+					item: { Count: 2, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					id: "0318EDC1E7C05032"
+					item: "eidolon:soul_shard"
+					type: "item"
+				}
+			]
+			title: "{quest.3.soul_shard.title}"
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7946525AFF6543C5"]
+			description: [
+				"{quest.3.brazier.desc0}"
+				""
+				"{quest.3.brazier.desc1}"
+				"{quest.3.brazier.desc2}"
+			]
+			icon: "eidolon:brazier"
+			id: "0D7F62210B243747"
+			rewards: [
+				{
+					id: "222C7887F9BCF5E4"
+					item: {
+						Count: 1
+						id: "eidolon:warlock_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "195840ED0E077703"
+					item: "eidolon:codex"
+					type: "item"
+				}
+				{
+					id: "17EE00E6021F0E6D"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "patchouli:summoning"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.3.brazier.subtitle}"
+			tasks: [
+				{
+					id: "0035CE29CA1EB46B"
+					item: "eidolon:brazier"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7A68BA5A7F59A962"
+					item: "eidolon:stone_hand"
+					type: "item"
+				}
+			]
+			title: "{quest.3.brazier.title}"
+			x: -5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"0E75315018995DB6"
+				"78D4CF60C217CDED"
+				"68DFDA75DA5FB0E9"
+			]
+			description: [
+				"{quest.3.crucible.desc0}"
+				""
+				"{quest.3.crucible.desc1}"
+				""
+				"{quest.3.crucible.desc2}"
+			]
+			id: "33C923AD98680D89"
+			rewards: [{
+				id: "516A4E464708EAA3"
+				item: {
+					Count: 1
+					id: "kubejs:sentimental_thaumium"
+					tag: {
+						display: {
+							Lore: ["{\"text\":\"Warning: Sentimental use only!\",\"color\":\"dark_purple\",\"bold\":true,\"italic\":false}"]
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "31C9D3FC5640E0FF"
+				item: "eidolon:crucible"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["3DB2E63B62BA0311"]
+			icon: "cfm_circuit_breaker:circuit_breaker"
+			id: "68905617A5751CBB"
+			tasks: [
+				{
+					id: "3313F83A86A4A453"
+					item: "cfm_circuit_breaker:circuit_breaker"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5D3C3DC1266DB43F"
+					item: "refurbished_furniture:light_electricity_generator"
+					optional_task: true
+					type: "item"
+				}
+				{
+					amount: 1000L
+					fluid: "tconstruct:molten_gold"
+					id: "4A60BF6D235E4AB4"
+					optional_task: true
+					type: "fluid"
+				}
+				{
+					id: "64AB24251302FBE0"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+			]
+			title: "{quest.3.gold.title}"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3DB2E63B62BA0311"]
+			icon: "supplementaries:cannonball"
+			id: "7946525AFF6543C5"
+			rewards: [{
+				id: "2EAB1CA316871D80"
+				item: "supplementaries:music_disc_heave_ho"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "549F9AED12167295"
+					item: "supplementaries:cannonball"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "318F6B148DA52DFF"
+					item: "mekanism:radioactive_waste_barrel"
+					optional_task: true
+					type: "item"
+				}
+				{
+					amount: 1000L
+					fluid: "tconstruct:molten_lead"
+					id: "3119D4A74C9F7686"
+					optional_task: true
+					type: "fluid"
+				}
+				{
+					id: "3FA9BA8E63582EE5"
+					item: "thermal:lead_ingot"
+					type: "item"
+				}
+			]
+			title: "{quest.3.lead.title}"
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"0D7F62210B243747"
+				"0E75315018995DB6"
+			]
+			description: [
+				"{quest.3.cod.desc0}"
+				""
+				"{quest.3.cod.desc1}"
+			]
+			id: "68DFDA75DA5FB0E9"
+			rewards: [{
+				id: "2FE3FB4DBD842CC5"
+				item: "farmersdelight:fish_stew"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D228A8CB5F03B89"
+				item: "minecraft:cod"
+				type: "item"
+			}]
+			title: "{quest.3.cod.title}"
+			x: -6.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["33C923AD98680D89"]
+			description: ["{quest.3.soulfire_wand.desc0}"]
+			icon: {
+				Count: 1
+				id: "eidolon:soulfire_wand"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "552D47F0044BE5E4"
+			rewards: [
+				{
+					count: 3
+					id: "34DB1B9236A4AC09"
+					item: "eidolon:grape_candy"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7949329F4499DD9D"
+					item: "eidolon:red_candy"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.3.soulfire_wand.subtitle}"
+			tasks: [
+				{
+					id: "40C6AB291E6B2779"
+					item: {
+						Count: 1
+						id: "eidolon:soulfire_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29E2CC8D9FCF3039"
+					item: "minecraft:brick"
+					type: "item"
+				}
+				{
+					id: "101CF0343C1D1EAB"
+					item: "minecraft:nether_brick"
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 20.0d
+		}
+		{
+			dependencies: [
+				"3F5758647B93803C"
+				"02553A61954B8BE9"
+			]
+			description: [
+				"{quest.3.runic_altar.desc0}"
+				""
+				"{quest.3.runic_altar.desc1}"
+			]
+			id: "78D4CF60C217CDED"
+			rewards: [{
+				id: "56F4E334743C0ACE"
+				item: "botania:monocle"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "466F9C2A77810A9B"
+				item: "botania:runic_altar"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["60DCFFC671BBD126"]
+			id: "3DB2E63B62BA0311"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "56D5F49C5A7C9543"
+				item: "tconstruct:smeltery_controller"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68905617A5751CBB"]
+			description: [
+				"{quest.3.mana_pool.desc0}"
+				""
+				"{quest.3.mana_pool.desc1}"
+			]
+			icon: "botania:diluted_pool"
+			id: "02553A61954B8BE9"
+			tasks: [
+				{
+					id: "44A460D746D06546"
+					item: "botania:mana_pool"
+					type: "item"
+				}
+				{
+					id: "491A9F59FE3D8858"
+					item: "botania:mana_spreader"
+					type: "item"
+				}
+				{
+					id: "25CF7B8717C2E919"
+					item: "botania:endoflame"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["65D2BC79CD4D885B"]
+			description: ["{quest.3.me_chest.desc0}"]
+			icon: "ae2:chest"
+			id: "754899C65C2540E0"
+			rewards: [
+				{
+					count: 3
+					id: "589DB142A8826676"
+					item: "supplementaries:confetti_popper"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7EB46B543ACD25F3"
+					item: {
+						Count: 1
+						id: "fairylights:hanging_lights"
+						tag: {
+							pattern: [{
+								Count: 1b
+								id: "fairylights:meteor_light"
+								tag: {
+									color: 8991416
+								}
+							}]
+							string: "fairylights:black_string"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "{quest.3.me_chest.subtitle}"
+			tasks: [
+				{
+					id: "1757AE495DF47591"
+					item: "ae2:chest"
+					type: "item"
+				}
+				{
+					id: "44FDCBE4D6095982"
+					item: "ae2:energy_acceptor"
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["54E961EC3F8CC4D9"]
+			description: [
+				"{quest.3.crystallizer.desc0}"
+				""
+				"{quest.3.crystallizer.desc1}"
+				""
+				"{quest.3.crystallizer.desc2}"
+				"{quest.3.crystallizer.desc3}"
+				"{quest.3.crystallizer.desc4}"
+				"{quest.3.crystallizer.desc5}"
+			]
+			id: "65D2BC79CD4D885B"
+			shape: "gear"
+			tasks: [{
+				id: "6F98C2499AF89ACB"
+				item: "thermal:machine_crystallizer"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["754899C65C2540E0"]
+			id: "628045C24DB98BFA"
+			tasks: [{
+				id: "570D1D22D6CC1C91"
+				item: "ae2:crafting_terminal"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 37.0d
+		}
+		{
+			dependencies: ["2ABD7837E63FB024"]
+			description: [
+				"{quest.3.scrubber.desc0}"
+				""
+				"{quest.3.scrubber.desc1}"
+				""
+				"{quest.3.scrubber.desc2}"
+				""
+				"{quest.3.scrubber.desc3}"
+			]
+			icon: "kubejs:sculk_scrubber"
+			id: "21DFDC2132AC4257"
+			shape: "gear"
+			subtitle: "{quest.3.scrubber.subtitle}"
+			tasks: [{
+				id: "31E4E088F9C965B0"
+				item: "kubejs:sculk_scrubber"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["32A38D7CD715768D"]
+			description: [
+				"{quest.3.keg.desc0}"
+				""
+				"{quest.3.keg.desc1}"
+				""
+				"{quest.3.keg.desc2}"
+			]
+			id: "151585622A7F23C3"
+			rewards: [
+				{
+					count: 3
+					id: "4EE86A0EE5C577FB"
+					item: "brewinandchewin:beer"
+					type: "item"
+				}
+				{
+					id: "794DC08A03224A03"
+					item: "brewinandchewin:coaster"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "0846CF42BA14F3FF"
+				item: "brewinandchewin:keg"
+				type: "item"
+			}]
+			title: "{quest.3.keg.title}"
+			x: 5.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["33C923AD98680D89"]
+			icon: "minecraft:lapis_lazuli"
+			id: "2403865A39044ECF"
+			tasks: [
+				{
+					id: "0E7FE871C8E5A11C"
+					item: "thermal:sulfur_dust"
+					type: "item"
+				}
+				{
+					id: "2038E2FA73C03F91"
+					item: "minecraft:blue_dye"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "26067B78B222ABCF"
+					item: { Count: 5, id: "minecraft:lapis_lazuli" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.lapis_lazuil.title}"
+			x: -3.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["151585622A7F23C3"]
+			icon: "thermal:glowstone_mushroom_spores"
+			id: "0BC818BEB9B40456"
+			tasks: [
+				{
+					id: "72B9A67B2FA4505A"
+					item: "brewinandchewin:keg"
+					type: "item"
+				}
+				{
+					id: "42700DDDCF9B82EB"
+					item: "brewinandchewin:heating_cask"
+					type: "item"
+				}
+				{
+					id: "496D8CF97564C6D3"
+					item: "thermal:glowstone_mushroom_spores"
+					type: "item"
+				}
+				{
+					id: "06B595F27DA9CAC4"
+					item: "minecraft:sugar"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6B84E1ED56613810"
+					item: { Count: 3, id: "minecraft:glowstone_dust" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.glowstone.title}"
+			x: 8.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["5D74C2FDCBAA0FC7"]
+			description: [
+				"{quest.3.mixer.desc0}"
+				""
+				"{quest.3.mixer.desc1}"
+			]
+			icon: "immersiveengineering:mixer"
+			id: "070593BCE7387349"
+			rewards: [{
+				id: "6C9106C9AA3F0750"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
+			shape: "gear"
+			subtitle: "{quest.3.mixer.subtitle}"
+			tasks: [
+				{
+					count: 3L
+					id: "5A24676899E82150"
+					item: { Count: 3, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5CC5D7386F78DB87"
+					item: { Count: 4, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1B52E21927CBE21E"
+					item: { Count: 4, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					id: "66FD822DC7B78754"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2F594FB3B759A01B"
+					item: { Count: 5, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					id: "135E21D9D67DE410"
+					item: "immersiveengineering:steel_fence"
+					type: "item"
+				}
+				{
+					id: "3528212ACDCED90B"
+					item: "immersiveengineering:mixer"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "711D42BB677A521F"
+					item: "create:smart_fluid_pipe"
+					type: "item"
+				}
+				{
+					id: "09006B2354632FAA"
+					item: "create:filter"
+					type: "item"
+				}
+			]
+			title: "{quest.3.mixer.title}"
+			x: 0.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["7946525AFF6543C5"]
+			icon: {
+				Count: 1
+				id: "musketmod:musket"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "57888898128E9621"
+			rewards: [
+				{
+					count: 5
+					id: "5B61ABF899977AF9"
+					item: "minecraft:gunpowder"
+					type: "item"
+				}
+				{
+					count: 20
+					id: "2FBAAE0DC87B9BA6"
+					item: "musketmod:cartridge"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "40E07B7EFA506284"
+					item: {
+						Count: 1
+						id: "musketmod:musket"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "201B3005107B9ACA"
+					item: { Count: 3, id: "musketmod:cartridge" }
+					type: "item"
+				}
+			]
+			title: "{quest.3.musket.title}"
+			x: -8.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["33C923AD98680D89"]
+			description: ["{quest.3.leather.desc0}"]
+			icon: "sophisticatedbackpacks:backpack"
+			id: "20CA5E31A6BC6960"
+			rewards: [
+				{
+					id: "469EB7AEC1EE8012"
+					item: "sophisticatedbackpacks:advanced_jukebox_upgrade"
+					type: "item"
+				}
+				{
+					id: "448C208C5E454147"
+					item: "sophisticatedbackpacks:pickup_upgrade"
+					type: "item"
+				}
+				{
+					id: "355706B93C7F1166"
+					item: "sophisticatedbackpacks:deposit_upgrade"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 3L
+					id: "4EF694C2C87272F0"
+					item: { Count: 3, id: "minecraft:leather" }
+					type: "item"
+				}
+				{
+					id: "01DCD5B62C93BBD5"
+					item: "sophisticatedbackpacks:backpack"
+					type: "item"
+				}
+			]
+			title: "{quest.3.leather.title}"
+			x: -6.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["3F5758647B93803C"]
+			icon: {
+				Count: 1
+				id: "simpleradio:transceiver"
+				tag: { }
+			}
+			id: "7208B78FDAE62026"
+			tasks: [{
+				id: "4C48ECBA75F58706"
+				item: {
+					Count: 1
+					id: "simpleradio:transceiver"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "{quest.3.walkie_talkie.title}"
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["0D7F62210B243747"]
+			description: [
+				"{quest.3.summoning_101.desc0}"
+				"{quest.3.summoning_101.desc1}"
+				""
+				"{quest.3.summoning_101.desc2}"
+			]
+			icon: "eidolon:research_notes"
+			id: "07122161E18E96C1"
+			rewards: [{
+				id: "41FA113A05A6DF2A"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "patchouli:summoning"
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "50A47622AC51ADE4"
+				title: "{quest.3.summoning_101.check}"
+				type: "checkmark"
+			}]
+			title: "{quest.3.summoning_101.title}"
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5D74C2FDCBAA0FC7"]
+			icon: "minecraft:echo_shard"
+			id: "0D675FF9AB9EB351"
+			rewards: [{
+				id: "593F3814AD0A52FF"
+				item: "minecraft:echo_shard"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2672C94C5A741F77"
+					item: "kubejs:sculked_sculk_scrubber"
+					type: "item"
+				}
+				{
+					id: "2450765960E83D07"
+					item: "minecraft:echo_shard"
+					type: "item"
+				}
+			]
+			title: "{quest.3.echo_shard.title}"
+			x: 2.5d
+			y: 29.5d
+		}
+		{
+			dependencies: [
+				"151585622A7F23C3"
+				"5D74C2FDCBAA0FC7"
+			]
+			description: [
+				"{quest.3.forged_eye.desc0}"
+				""
+				"{quest.3.forged_eye.desc1}"
+			]
+			id: "6C0922865829A7FE"
+			shape: "hexagon"
+			tasks: [{
+				id: "5E262A9B18586176"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 27.0d
+		}
+		{
+			dependencies: ["0D675FF9AB9EB351"]
+			icon: "thermal:device_collector"
+			id: "2294336C340C6F4F"
+			rewards: [{
+				count: 10
+				id: "5657946C643B13AB"
+				item: "kubejs:carpet_dust"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "18BA54F9B03AEEBF"
+					item: "thermal:device_collector"
+					type: "item"
+				}
+				{
+					id: "3F8AC0A331D175B8"
+					item: "thermal:device_rock_gen"
+					type: "item"
+				}
+				{
+					id: "56FEF910A74B621E"
+					item: "minecraft:lava_bucket"
+					type: "item"
+				}
+			]
+			title: "{quest.3.auto_sweeping.title}"
+			x: 2.5d
+			y: 31.0d
+		}
+		{
+			dependencies: ["33C923AD98680D89"]
+			description: ["{quest.3.time_bottle.desc0}"]
+			id: "54A8A17145E7BBD0"
+			subtitle: "{quest.3.time_bottle.subtitle}"
+			tasks: [{
+				id: "1B4B79A0B1BA4478"
+				item: {
+					Count: 1
+					id: "tiab:time_in_a_bottle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "{quest.3.time_bottle.title}"
+			x: -8.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["151585622A7F23C3"]
+			id: "7F2474F2049B94FB"
+			tasks: [{
+				id: "29602F8BEDB11497"
+				item: "thermal:slime_mushroom_spores"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["3F5758647B93803C"]
+			description: [""]
+			icon: {
+				Count: 1
+				id: "thermal:flux_drill"
+				tag: { }
+			}
+			id: "18E6448D80D029CF"
+			rewards: [{
+				count: 3
+				id: "32386DE88F6BB26D"
+				item: "thermal:area_radius_augment"
+				type: "item"
+			}]
+			subtitle: "{quest.3.powertools.subtitle}"
+			tasks: [
+				{
+					id: "6A6A8D6820D9F7F0"
+					item: "thermal:tinker_bench"
+					type: "item"
+				}
+				{
+					id: "4B753E9930F1E423"
+					item: {
+						Count: 1
+						id: "thermal:flux_saw"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "5738C60A01394398"
+					item: {
+						Count: 1
+						id: "thermal:flux_drill"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "{quest.3.powertools.title}"
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"3F5758647B93803C"
+				"68905617A5751CBB"
+			]
+			description: ["{quest.3.post_office.desc0}"]
+			icon: "create:stock_ticker"
+			id: "1FF2EB0F973B393B"
+			rewards: [
+				{
+					count: 3
+					id: "3254AA6971D2536E"
+					item: "create:package_frogport"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "03459D979FD40382"
+					item: "create:packager"
+					type: "item"
+				}
+				{
+					id: "4E09369B05C3E6AF"
+					item: {
+						Count: 1
+						id: "create:cardboard_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3E735BA4698396CC"
+					item: {
+						Count: 1
+						id: "create:cardboard_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "438F139B1438EB18"
+					item: {
+						Count: 1
+						id: "create:cardboard_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "435076DC961A4666"
+					item: {
+						Count: 1
+						id: "create:cardboard_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "249623175590E64A"
+					item: "create:cardboard_sword"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.3.post_office.subtitle}"
+			tasks: [
+				{
+					id: "603BFEA945910111"
+					item: "create:stock_ticker"
+					type: "item"
+				}
+				{
+					id: "4D638B682A873D02"
+					item: "create:stock_link"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "5F736D17BA264163"
+					item: { Count: 8, id: "create:item_vault" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7863309E105F364B"
+					item: { Count: 2, id: "create:packager" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0DA24FE16EDFBED2"
+					item: { Count: 2, id: "create:package_frogport" }
+					type: "item"
+				}
+				{
+					id: "64B10E127AA07FD3"
+					item: "create:chain_conveyor"
+					type: "item"
+				}
+			]
+			title: "{quest.3.post_office.title}"
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["552D47F0044BE5E4"]
+			description: [
+				"{quest.3.soul_fuse.desc0}"
+				""
+				"{quest.3.soul_fuse.desc1}"
+			]
+			icon: "kubejs:soul_fuse"
+			id: "34E24CF953EB8B77"
+			rewards: [{
+				id: "34F121CFF1CAB083"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
+			subtitle: "{quest.3.soul_fuse.subtitle}"
+			tasks: [
+				{
+					id: "495CA98D59DAA689"
+					item: "kubejs:empty_fuse"
+					type: "item"
+				}
+				{
+					id: "62E627900291E0D3"
+					item: "kubejs:soul_fuse"
+					type: "item"
+				}
+			]
+			title: "{quest.3.soul_fuse.title}"
+			x: -5.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["3EEB10E1DC378F7A"]
+			description: [
+				"{quest.3.restoring.desc0}"
+				""
+				"{quest.3.restoring.desc1}"
+				""
+				"{quest.3.restoring.desc2}"
+				""
+				"{quest.3.restoring.desc3}"
+				""
+				"{quest.3.restoring.desc4}"
+				""
+				""
+				"{quest.3.restoring.desc5}"
+			]
+			icon: {
+				Count: 1
+				id: "immersiveengineering:hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "240D7B64E63FCE4F"
+			subtitle: "{quest.3.restoring.subtitle}"
+			tasks: [
+				{
+					id: "77BA9C13CBC2B1B7"
+					item: "kubejs:fluorescent_tube"
+					type: "item"
+				}
+				{
+					id: "0EFA283BF071CBDF"
+					item: "kubejs:cut_carpet"
+					type: "item"
+				}
+				{
+					id: "2FEB48503476AD71"
+					item: "kubejs:wallpaper"
+					type: "item"
+				}
+			]
+			title: "{quest.3.restoring.title}"
+			x: 11.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["070593BCE7387349"]
+			description: [
+				"{quest.3.renewable_lead.desc0}"
+				""
+				"{quest.3.renewable_lead.desc1}"
+				"{quest.3.renewable_lead.desc2}"
+			]
+			icon: "thermal:lead_ingot"
+			id: "69C338CC94D0129F"
+			subtitle: "{quest.3.renewable_lead.subtitle}"
+			tasks: [
+				{
+					id: "4320019E3B2DD7EE"
+					title: "{quest.3.renewable_lead.check}"
+					type: "checkmark"
+				}
+				{
+					id: "32874CED3C00136F"
+					item: "thermal:lead_dust"
+					type: "item"
+				}
+			]
+			title: "{quest.3.renewable_lead.title}"
+			x: 2.5d
+			y: 35.0d
+		}
+		{
+			dependencies: ["3F5758647B93803C"]
+			description: [
+				"{quest.3.putty_knife.desc0}"
+				""
+				"{quest.3.putty_knife.desc1}"
+			]
+			icon: "kubejs:putty_knife"
+			id: "383ABAC05F6FC6F0"
+			tasks: [{
+				id: "313AC7881A8B9B53"
+				item: "kubejs:putty_knife"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["451A79187DD84C9A"]
+			description: ["{quest.3.endless_lava.desc0}"]
+			icon: "kubejs:cobblestone_bucket"
+			id: "3A9977E34730F5AB"
+			rewards: [{
+				count: 3
+				id: "639FB2F7E2B9EAE7"
+				item: "minecraft:bucket"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6F8E7944297490E6"
+					item: "minecraft:bucket"
+					type: "item"
+				}
+				{
+					id: "035866028DEFF9CF"
+					item: "minecraft:cobblestone"
+					type: "item"
+				}
+				{
+					id: "01BE9593EA428489"
+					item: "kubejs:cobblestone_bucket"
+					type: "item"
+				}
+				{
+					id: "5A5A6055E95E2FF3"
+					item: "minecraft:lava_bucket"
+					type: "item"
+				}
+			]
+			title: "{quest.3.endless_lava.title}"
+			x: 8.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["3DB2E63B62BA0311"]
+			icon: "minecraft:jukebox"
+			id: "5D6B1E47B0B431EF"
+			subtitle: "{quest.3.diamond.subtitle}"
+			tasks: [
+				{
+					id: "15ADEA9F69B2672C"
+					item: "minecraft:jukebox"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6AE7F6506A734389"
+					item: "refurbished_furniture:computer"
+					optional_task: true
+					type: "item"
+				}
+				{
+					amount: 1000L
+					fluid: "tconstruct:molten_diamond"
+					id: "17653A58B8E4D93F"
+					optional_task: true
+					type: "fluid"
+				}
+				{
+					id: "059CBB7422A9BF95"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			title: "{quest.3.diamond.title}"
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["55B7C4D0E5890406"]
+			description: [
+				"{quest.3.carbon.desc0}"
+				""
+				"{quest.3.carbon.desc1}"
+			]
+			icon: "minecraft:charcoal"
+			id: "68E4B9DBC0F448C7"
+			tasks: [
+				{
+					id: "5E63774D79DBDB55"
+					item: "minecraft:bamboo_block"
+					type: "item"
+				}
+				{
+					id: "2E6E916680E55D7D"
+					item: "minecraft:charcoal"
+					type: "item"
+				}
+			]
+			title: "{quest.3.carbon.title}"
+			x: 11.0d
+			y: 23.0d
+		}
+	]
+	title: "{quest.chapter_3.title}"
+}

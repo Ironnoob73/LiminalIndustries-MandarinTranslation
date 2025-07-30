@@ -1,0 +1,26 @@
+{
+  "item.endrem.old_eye.description": "§7§o它包含完美循环的时间",
+  "item.endrem.rogue_eye.description": "§7§o一只末影人包含于奇点内",
+  "item.endrem.nether_eye": "锻造之眼",
+  "item.endrem.nether_eye.description": "§7§o精心制作",
+  "item.endrem.cold_eye.description": "§7§o零开尔文",
+  "item.endrem.magical_eye.description": "§7§o仅由精灵制作",
+  "item.endrem.black_eye.description": "§7§o内含无尽空间",
+  "item.endrem.lost_eye.description": "§7§o迷失在无尽的图书馆里",
+  "item.endrem.wither_eye.description": "§7§o它见证了毁灭",
+  "item.endrem.cursed_eye": "龙之眼",
+  "item.endrem.cursed_eye.description": "§7§o回响着黑暗巨龙的咆哮",
+
+  "item.endrem.corrupted_eye.description": "§7§o逝于孤独的贪婪国王之眼。传说它会带来无尽的财富",
+  "item.endrem.witch_eye.description": "§7§o据说它看到了失传的古老酿造配方",
+  "item.endrem.undead_soul": "不死者之魂",
+
+  "item.endrem.exotic_eye": "异域之眼",
+  "item.endrem.exotic_eye.description": "§7§o那些跟随这只眼睛的人再也没有出现过。传言说，他们找到了亚特兰蒂斯，又或者在寻觅的途中迷失了方向。",
+  "item.endrem.evil_eye": "邪恶之眼",
+  "item.endrem.evil_eye.description": "§7§o据说能保护主人免受厄运侵袭的圣符",
+  "item.endrem.undead_eye": "不死之眼",
+  "item.endrem.undead_eye.description": "§7§o追忆不死者的生前岁月",
+  "item.endrem.cryptic_eye": "神秘之眼",
+  "item.endrem.cryptic_eye.description": "§7§o§khttps://www.bilibili.com/video/BV1GJ411x7h7"
+}
