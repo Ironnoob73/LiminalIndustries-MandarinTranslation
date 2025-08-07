@@ -119,7 +119,6 @@
 				""
 				"{quest.2.steam_age.desc5}"
 				""
-				""
 				"{image:kubejs:textures/quests/steam_engine.png width:200 height:100 align:center}"
 			]
 			icon: "create:steam_engine"
@@ -319,13 +318,60 @@
 				title: "{quest.2.nether.check}"
 				type: "dimension"
 			}]
-			x: 9.5d
-			y: 5.0d
+			x: 10.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["021C50BEE88E0B07"]
 			icon: "supplementaries:checker_block"
 			id: "780450B76916CDB7"
+			rewards: [{
+				id: "4A625113C256BB24"
+				item: {
+					Count: 1
+					id: "table_top_craft:oak_chess"
+					tag: {
+						BlockEntityTag: {
+							ChessValues: {
+								AttackMoveColor: "255/1/1/100"
+								BlackCheckMate: 0b
+								BlackPiecesColor: "51/51/51/255"
+								BlackTilesColor: "139/86/57/255"
+								BoardFEN: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 0"
+								CastleMoveColor: "125/1/255/100"
+								DisplayParticles: 1
+								FirstMoves: "0/1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/48/49/50/51/52/53/54/55/56/57/58/59/60/61/62/63"
+								HumanMovedPiece: -1
+								InvalidMoveColor: "255/255/1/100"
+								IsBlackCastled: 0b
+								IsWhiteCastled: 0b
+								LegalMoveColor: "1/255/1/100"
+								MoveLog: [ ]
+								PieceSet: 1
+								PlayPieceAnimations: 1
+								PreviousMoveColor: "1/150/125/100"
+								PromotionCoordinate: -1b
+								ShowAvailableMoves: 0
+								ShowPreviousMove: 0
+								ShowTileInfo: 0
+								SourceTile: -1
+								TileInfoColor: "255/255/255/255"
+								UseCustomPlate: 0
+								WaitingForPromotion: 0
+								WhiteCheckMate: 0b
+								WhitePiecesColor: "210/188/161/255"
+								WhiteTilesColor: "208/177/141/255"
+							}
+							ForgeCaps: { }
+							id: "table_top_craft:chess"
+						}
+						display: {
+							Lore: ["\"(+NBT)\""]
+						}
+					}
+				}
+				type: "item"
+			}]
 			shape: "square"
 			subtitle: "{quest.2.checker_block.subtitle}"
 			tasks: [
@@ -345,7 +391,7 @@
 					type: "item"
 				}
 			]
-			x: 9.5d
+			x: 10.0d
 			y: 7.5d
 		}
 		{
@@ -360,7 +406,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 12.5d
+			y: 13.0d
 		}
 		{
 			dependencies: ["203FC15B09EAA27F"]
@@ -533,7 +579,7 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
+			x: 7.5d
 			y: 1.0d
 		}
 		{
@@ -706,7 +752,7 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
+			x: 7.5d
 			y: 7.5d
 		}
 		{
@@ -727,6 +773,88 @@
 			title: "{quest.2.renewable_coal.title}"
 			x: 2.5d
 			y: 7.5d
+		}
+		{
+			dependencies: ["495E194ACEFD9CD7"]
+			description: [
+				"{quest.2.paint.desc0}"
+				""
+				"{quest.2.paint.desc1}"
+				""
+				"{quest.2.paint.desc2}"
+				""
+				"{quest.2.paint.desc3}"
+			]
+			icon: "xercapaint:item_easel"
+			id: "63B870600FBEBB1D"
+			rewards: [
+				{
+					count: 3
+					id: "5789C0B118C49A62"
+					item: "exposure:color_film"
+					type: "item"
+				}
+				{
+					id: "2B756AE011DB6C24"
+					item: "xercapaint:item_palette"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.2.paint.subtitle}"
+			tasks: [
+				{
+					id: "4C1121ADF7D94181"
+					item: "xercapaint:item_easel"
+					type: "item"
+				}
+				{
+					id: "180A2276E1F5CB5C"
+					item: "xercapaint:item_canvas"
+					type: "item"
+				}
+			]
+			title: "{quest.2.paint.title}"
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["021C50BEE88E0B07"]
+			description: ["{quest.2.leather.desc0}"]
+			icon: "sophisticatedbackpacks:backpack"
+			id: "20CA5E31A6BC6960"
+			rewards: [
+				{
+					id: "469EB7AEC1EE8012"
+					item: "sophisticatedbackpacks:advanced_jukebox_upgrade"
+					type: "item"
+				}
+				{
+					id: "448C208C5E454147"
+					item: "sophisticatedbackpacks:pickup_upgrade"
+					type: "item"
+				}
+				{
+					id: "355706B93C7F1166"
+					item: "sophisticatedbackpacks:deposit_upgrade"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 3L
+					id: "4EF694C2C87272F0"
+					item: { Count: 3, id: "minecraft:leather" }
+					type: "item"
+				}
+				{
+					id: "01DCD5B62C93BBD5"
+					item: "sophisticatedbackpacks:backpack"
+					type: "item"
+				}
+			]
+			title: "{quest.2.leather.title}"
+			x: 7.5d
+			y: 5.0d
 		}
 	]
 	title: "{quest.chapter_2.title}"

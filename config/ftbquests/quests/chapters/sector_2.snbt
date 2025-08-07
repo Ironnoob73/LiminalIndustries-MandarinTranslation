@@ -36,7 +36,7 @@
 						id: "immersiveengineering:stick_steel"
 						tag: {
 							display: {
-								Lore: ["{\"text\":\"Don't drop this\"}"]
+								Lore: ["{\"translate\":\"quest.3.steel.reward_tooltip\"}"]
 							}
 						}
 					}
@@ -700,7 +700,7 @@
 					id: "kubejs:sentimental_thaumium"
 					tag: {
 						display: {
-							Lore: ["{\"text\":\"Warning: Sentimental use only!\",\"color\":\"dark_purple\",\"bold\":true,\"italic\":false}"]
+							Lore: ["{\"translate\":\"quest.3.crucible.reward_tooltip\",\"color\":\"dark_purple\",\"bold\":true,\"italic\":false}"]
 						}
 					}
 				}
@@ -1097,7 +1097,7 @@
 				}
 			]
 			title: "{quest.3.lapis_lazuil.title}"
-			x: -3.5d
+			x: -6.5d
 			y: 15.5d
 		}
 		{
@@ -1254,45 +1254,6 @@
 			title: "{quest.3.musket.title}"
 			x: -8.0d
 			y: 8.0d
-		}
-		{
-			dependencies: ["33C923AD98680D89"]
-			description: ["{quest.3.leather.desc0}"]
-			icon: "sophisticatedbackpacks:backpack"
-			id: "20CA5E31A6BC6960"
-			rewards: [
-				{
-					id: "469EB7AEC1EE8012"
-					item: "sophisticatedbackpacks:advanced_jukebox_upgrade"
-					type: "item"
-				}
-				{
-					id: "448C208C5E454147"
-					item: "sophisticatedbackpacks:pickup_upgrade"
-					type: "item"
-				}
-				{
-					id: "355706B93C7F1166"
-					item: "sophisticatedbackpacks:deposit_upgrade"
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					count: 3L
-					id: "4EF694C2C87272F0"
-					item: { Count: 3, id: "minecraft:leather" }
-					type: "item"
-				}
-				{
-					id: "01DCD5B62C93BBD5"
-					item: "sophisticatedbackpacks:backpack"
-					type: "item"
-				}
-			]
-			title: "{quest.3.leather.title}"
-			x: -6.5d
-			y: 15.5d
 		}
 		{
 			dependencies: ["3F5758647B93803C"]
@@ -1658,8 +1619,10 @@
 				""
 				"{quest.3.restoring.desc4}"
 				""
-				""
 				"{quest.3.restoring.desc5}"
+				""
+				""
+				"{quest.3.restoring.desc6}"
 			]
 			icon: {
 				Count: 1

@@ -1,0 +1,21 @@
+{
+    "item.kubejs.data_chip1.tooltip":"Seed: 1000",
+    "item.kubejs.data_chip2.tooltip":"Seed: 0100",
+    "item.kubejs.data_chip3.tooltip":"Seed: 1100",
+    "item.kubejs.data_chip4.tooltip":"Seed: 0010",
+    "item.kubejs.data_chip5.tooltip":"Seed: 1010",
+    "item.kubejs.data_chip6.tooltip":"Seed: 0110",
+    "item.kubejs.data_chip7.tooltip":"Seed: 1110",
+    "item.kubejs.data_chip8.tooltip":"Seed: 0001",
+    "item.kubejs.data_chip9.tooltip":"Seed: 1001",
+    "item.kubejs.data_chip10.tooltip":"Seed: 0101",
+    "item.kubejs.data_chip_error.tooltip":"Data: 1000",
+
+    "escaped.title":"You have escaped",
+    "escaped.subtitle":"The Backrooms",
+
+    "chat.creative_mode_test":"You joined the world in creative. Click this text if you want to go to a superflat test world.",
+    "chat.out_of_backrooms.0":"You tried to build a portal to ungenerated terrain.",
+    "chat.out_of_backrooms.1":"Build a portal from the overworld to the nether",
+    "chat.out_of_backrooms.2":"to ensure a successful connection."
+}

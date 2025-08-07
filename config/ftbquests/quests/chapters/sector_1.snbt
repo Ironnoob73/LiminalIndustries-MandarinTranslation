@@ -631,24 +631,18 @@
 			id: "49C5EB9D0E33ACA4"
 			rewards: [
 				{
-					id: "192ECA8AC6CAD43B"
-					item: "camera:camera"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "2C283299D9E6E2A9"
-					item: "minecraft:paper"
+					id: "57A755D10FFCEF9A"
+					item: "exposure:black_and_white_film"
 					type: "item"
 				}
 				{
 					count: 3
-					id: "556A7EED287AA012"
-					item: "camera:image_frame"
+					id: "08EE601EEA31A722"
+					item: "exposure:photograph_frame"
 					type: "item"
 				}
 			]
-			shape: "square"
+			shape: "circle"
 			subtitle: "{quest.1.stay_safe.subtitle}"
 			tasks: [{
 				id: "7CC2D7594F90E20C"
@@ -656,12 +650,12 @@
 				type: "checkmark"
 			}]
 			title: "{quest.1.stay_safe.title}"
-			x: 2.5d
-			y: 5.5d
+			x: -5.0d
+			y: 3.5d
 		}
 		{
 			can_repeat: true
-			dependencies: ["2FD58013123EFE42"]
+			dependencies: ["74DC667B840746B0"]
 			icon: {
 				Count: 1
 				id: "eccentrictome:tome"
@@ -828,8 +822,8 @@
 				title: "{quest.1.knowledge.check}"
 				type: "checkmark"
 			}]
-			x: 2.5d
-			y: 4.0d
+			x: -2.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["307781E736AB9A56"]
@@ -956,6 +950,96 @@
 			title: "{quest.1.chalk.title}"
 			x: 2.5d
 			y: 19.0d
+		}
+		{
+			dependencies: ["74DC667B840746B0"]
+			description: [
+				"{quest.1.camera.desc0}"
+				""
+				"{quest.1.camera.desc1}"
+			]
+			icon: "exposure:camera"
+			id: "154EA3B6DA433B32"
+			rewards: [
+				{
+					id: "03E415941CBD3D4A"
+					item: "exposure:camera"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3AC4CECD61426E04"
+					item: "exposure:black_and_white_film"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4EBE7A2EA5A1643B"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:water"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0E509EC8B2D4C13E"
+					item: "minecraft:black_dye"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "03E25024C524F14D"
+					item: "exposure:photograph_frame"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.1.camera.subtitle}"
+			tasks: [{
+				id: "77163A3019953861"
+				item: "exposure:lightroom"
+				type: "item"
+			}]
+			title: "{quest.1.camera.title}"
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["74DC667B840746B0"]
+			description: [
+				"{quest.1.automate.desc0}"
+				""
+				"{quest.1.automate.desc1}"
+				""
+				"{quest.1.automate.desc2}"
+			]
+			icon: "thermal:iron_gear"
+			id: "43F1C034FE7AFD77"
+			rewards: [{
+				id: "326C52E81EE8CCF7"
+				item: {
+					Count: 1
+					id: "botania:tiny_potato"
+					tag: {
+						display: {
+							Lore: ["{\"text\":\"Tiny Potato believes you can do it!\"}"]
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "{quest.1.automate.subtitle}"
+			tasks: [{
+				id: "19C7F5178EA21585"
+				title: "{quest.1.automate.check}"
+				type: "checkmark"
+			}]
+			title: "{quest.1.automate.title}"
+			x: 2.5d
+			y: 3.5d
 		}
 	]
 	title: "{quest.chapter_1.title}"

@@ -7,19 +7,31 @@
     "quest.1.punching_chairs.desc1":"The random furniture scattered across the backrooms could probably be repurposed into planks to increase your chance of survival.",
     "quest.1.punching_chairs.desc2":"Let's get started with making a crafting table. Start with crafting a chair into planks.",
 
-    "quest.1.wooden_tools.title":"Wooden Tools",
-    "quest.1.wooden_tools.subtitle":"The setup for succes",
-    "quest.1.wooden_tools.desc0":"Wooden tools are essential to your succes. You can use knifes to cut up the carpet, revealing the concrete tiles underneath...",
-
-    "quest.1.knowledge.check":"I wish for knowlege",
-
     "quest.1.stay_safe.title":"Stay Safe",
     "quest.1.stay_safe.check":"Whats the worst that could happen?",
     "quest.1.stay_safe.subtitle":"Turn away when you see sculk",
     "quest.1.stay_safe.desc0":"Some parts of these rooms seem to be infected with sculk. It's probably best to stay as far away from the stuff as possible.",
     "quest.1.stay_safe.desc1":"Barricading corridors to infected rooms might also prove an effective tactic.",
     "quest.1.stay_safe.desc2":"Stay safe!",
+
+    "quest.1.knowledge.check":"I wish for knowlege",
     
+    "quest.1.automate.title":"Automate Everything!",
+    "quest.1.automate.check":"Liminality shall make room for automation",
+    "quest.1.automate.subtitle":"Yes, Everything",
+    "quest.1.automate.desc0":"It is very important that you automate as many tasks as possible. After chapter 2, automation is almost a must if you want to be able to progress efficiently.",
+    "quest.1.automate.desc1":"Taking the time to automate a task by making extra dedicated machines is almost always worth it compared to doing everything by hand.",
+    "quest.1.automate.desc2":"It is technically possible to do everything manually, but it is far from ideal and will take a very long time.",
+
+    "quest.1.camera.title":"Pose for the Camera!",
+    "quest.1.camera.subtitle":"Say, Cheeese!",
+    "quest.1.camera.desc0":"It might be good to document this liminal place by snapping some pictures. ",
+    "quest.1.camera.desc1":"You can take pictures and develop them using the Lightroom.",
+
+    "quest.1.wooden_tools.title":"Wooden Tools",
+    "quest.1.wooden_tools.subtitle":"The setup for succes",
+    "quest.1.wooden_tools.desc0":"Wooden tools are essential to your succes. You can use knifes to cut up the carpet, revealing the concrete tiles underneath...",
+
     "quest.1.collecting_water.title":"Collecting Water",
     "quest.1.collecting_water.subtitle":"I like my Carpet Soggy",
     "quest.1.collecting_water.desc0":"You can collect water by right-clicking Soggy Carpet with a sponge.",
@@ -111,6 +123,13 @@
     "quest.2.better_fuel.title":"Making Better Fuel",
     "quest.2.better_fuel.desc0":"A lot of furniture can be turned into Blocks of Charcoal.",
     "quest.2.better_fuel.desc1":"That should be a good source of fuel for the upcoming steamage.",
+    
+    "quest.2.paint.title":"Time to Paint",
+    "quest.2.paint.subtitle":"Taste the Rainbow!",
+    "quest.2.paint.desc0":"With Mystical Flowers you can make all the dyes. ",
+    "quest.2.paint.desc1":"This will allow you to start painting with other colours than just yellow.",
+    "quest.2.paint.desc2":"You can add dyes to your palette by crafting the palette and dyes together on a crafting table.",
+    "quest.2.paint.desc3":"It is now also possible to develop colour film in the Lightroom.",
 
     "quest.2.copper.title":"Getting Copper",
 
@@ -126,6 +145,9 @@
     "quest.2.livingwood.title":"Reviving wood",
     "quest.2.livingwood.desc0":"You can turn Treated wood into Livingwood using the pure daisy.",
     
+    "quest.2.leather.title":"Leather for Backpacks",
+    "quest.2.leather.desc0":"Backpacks can be made using leather crafted from scrapping books.",
+
     "quest.2.nether.check":"Visit the Nether",
     "quest.2.nether.subtitle":"Expected Something Else?",
     "quest.2.nether.desc0":"You can cast a portal with ten buckets of lava and one bucket of water.",
@@ -215,6 +237,7 @@
     "quest.3.crucible.desc0":"The Crucible requires quite a bit of precision. ",
     "quest.3.crucible.desc1":"It is highly recommended that you read the entry on it in the Ars Ecclesia to have enough information to get the crafting method correct.",
     "quest.3.crucible.desc2":"It might be tough to get the crafting process right straight away. So make sure you always make some extra ingredients as a backup.",
+    "quest.3.crucible.reward_tooltip":"Warning: Sentimental use only!",
     
     "quest.3.runic_altar.desc0":"With your newly generated mana you can now use a Runic Altar. Simply redirect the stored mana in the manapool towards the Runic Altar using a Mana Spreader.",
     "quest.3.runic_altar.desc1":"In the Lexa Botania you can read more on how to make runes with the Runic Altar.",
@@ -225,9 +248,6 @@
     "quest.3.vandalism_2.subtitle":"Lights Out",
     "quest.3.vandalism_2.desc0":"Throwing bricks at the ceiling lamps might yield some important compontens for the upcomming industrial revolution.",
     
-    "quest.3.leather.title":"Leather for Backpacks",
-    "quest.3.leather.desc0":"Backpacks can be made using leather crafted from the Crucible.",
-
     "quest.3.lapis_lazuil.title":"Blue Magic",
 
     "quest.3.scrubber.subtitle":"Cleaning Simulator",
@@ -242,8 +262,9 @@
     "quest.3.restoring.desc1":"- Right-clicking floor tiles with carpet",
     "quest.3.restoring.desc2":"- Right-clicking stripped wallpaper with wallpaper",
     "quest.3.restoring.desc3":"- Right-clicking broken ceiling lamps with fluorescent tubes",
-    "quest.3.restoring.desc4":"If you like the aesthetic of the concrete tiles you can also turn the concrete tiles into full blocks by right-clicking them with a piece of concrete. This will also prevent the tiles from growing their carpet back.",
-    "quest.3.restoring.desc5":"All of this may sound like an insane idea, but turning the lights back on might not be so bad.",
+    "quest.3.restoring.desc4":"- Right-clicking Timber Frames with wallpaper will create Fake Wallpaper",
+    "quest.3.restoring.desc5":"If you like the aesthetic of the concrete tiles you can also turn the concrete tiles into full blocks by right-clicking them with a piece of concrete. This will also prevent the tiles from growing their carpet back.",
+    "quest.3.restoring.desc6":"All of this may sound like an insane idea, but turning the lights back on might not be so bad.",
     
     "quest.3.soulfire_wand.subtitle":"Avadaaaaa...",
     "quest.3.soulfire_wand.desc0":"Using the wand you can turn Bricks into Netherbricks by firing the wand at bricks that are on the floor in item form.",
@@ -298,6 +319,7 @@
     "quest.3.steel.desc1":"Do note that there is a 10",
     "quest.3.steel.desc.comment":"The reason for the break here is to prevent format errors caused by the percent sign.",
     "quest.3.steel.desc2":" chance for the steel to crack. Cracked Steel can be reheated in the blast furnace to turn it into new Hot Steel.",
+    "quest.3.steel.reward_tooltip":"Don't drop this",
     
     "quest.3.forged_eye.desc0":"The Forged Eye can be created after you unlock the Keg and the blast furnace. ",
     "quest.3.forged_eye.desc1":"It is highly recommended you wait until mid- to late-game with making it since it requires a lot of resources to forge.",
@@ -388,6 +410,11 @@
     "quest.4.reconstructor.desc0":"The Atomic Reconstructor can reform materials on the atomic level to form special crystals.",
     "quest.4.reconstructor.desc1":"Void Crystals will be needed first. They can be made from Black Quartz.",
     
+    "quest.4.wall_piercer.title":"The Wall Piercer",
+    "quest.4.wall_piercer.subtitle":"Parry This!",
+    "quest.4.wall_piercer.desc0":"The Wall Piercer can be used to destroy the near-indestructible walls of the backrooms.",
+    "quest.4.wall_piercer.desc1":"Simply place a Wall Piercer on either side of a wall and right-click on one of them to remove the block that is between them.",
+
     "quest.4.machine_frame.title":"Making a Machine Frame",
     "quest.4.machine_frame.desc0":"The Machine Frame can be made by making the bottom and the top half and attaching the segments together.",
     "quest.4.machine_frame.desc1":"This process can be done manually by hand, or it can be automated.",

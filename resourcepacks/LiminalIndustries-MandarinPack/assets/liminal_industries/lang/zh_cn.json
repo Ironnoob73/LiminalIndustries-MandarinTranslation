@@ -7,12 +7,6 @@
     "quest.1.punching_chairs.desc1":"散落在后室的随机家具可能可以被拆成木板，以增加你的生存机会。",
     "quest.1.punching_chairs.desc2":"让我们开始制作工作台吧。首先用椅子制作木板。",
     
-    "quest.1.wooden_tools.title":"木制工具",
-    "quest.1.wooden_tools.subtitle":"成功前的准备",
-    "quest.1.wooden_tools.desc0":"木制工具对你的成功至关重要。你可以用刀子切开地毯，露出下面的混凝土砖...",
-
-    "quest.1.knowledge.check":"我渴求知识",
-
     "quest.1.stay_safe.title":"保持安全",
     "quest.1.stay_safe.check":"可能发生的最坏情况是什么？",
     "quest.1.stay_safe.subtitle":"当你看到幽匿时转身离开",
@@ -20,6 +14,24 @@
     "quest.1.stay_safe.desc1":"封锁通往受感染房间的走廊也可能是一种有效的策略。",
     "quest.1.stay_safe.desc2":"保持安全！",
     
+    "quest.1.knowledge.check":"我渴求知识",
+
+    "quest.1.automate.title":"自动化一切！",
+    "quest.1.automate.check":"限制性应为自动化腾出空间",
+    "quest.1.automate.subtitle":"是的，一切",
+    "quest.1.automate.desc0":"尽可能多地自动化任务非常重要。在第二章之后，如果你想高效地推进进度，自动化几乎是必须的。",
+    "quest.1.automate.desc1":"与手工完成所有工作相比，花时间通过制造额外的专用机器来实现任务自动化几乎总是值得的。",
+    "quest.1.automate.desc2":"从技术上来说，手动完成所有工作是可能的，但这远非理想，而且会花费很长时间。",
+
+    "quest.1.camera.title":"对着镜头摆姿势！",
+    "quest.1.camera.subtitle":"说，茄子！",
+    "quest.1.camera.desc0":"拍摄一些照片来记录这个阈限地带可能会很好。",
+    "quest.1.camera.desc1":"你可以拍摄照片并使用暗房进行冲洗。",
+
+    "quest.1.wooden_tools.title":"木制工具",
+    "quest.1.wooden_tools.subtitle":"成功前的准备",
+    "quest.1.wooden_tools.desc0":"木制工具对你的成功至关重要。你可以用刀子切开地毯，露出下面的混凝土砖...",
+
     "quest.1.collecting_water.title":"收集水",
     "quest.1.collecting_water.subtitle":"我喜欢我的地毯变湿",
     "quest.1.collecting_water.desc0":"你可以用海绵右击潮湿的地毯来收集水。",
@@ -112,6 +124,13 @@
     "quest.2.better_fuel.desc0":"许多家具都可以变成木炭块。",
     "quest.2.better_fuel.desc1":"这应该会成为即将到来的蒸汽时代的良好燃料来源。",
 
+    "quest.2.paint.title":"绘画时间",
+    "quest.2.paint.subtitle":"品尝彩虹！",
+    "quest.2.paint.desc0":"通过神秘花你可以得到所有染料。",
+    "quest.2.paint.desc1":"这将允许你开始使用黄色以外的其他颜色进行绘画。",
+    "quest.2.paint.desc2":"你可以通过在工作台上将调色板和染料合成来将染料添加到调色板中。",
+    "quest.2.paint.desc3":"现在还可以在暗房中冲洗彩色胶卷。",
+
     "quest.2.copper.title":"获得铜",
 
     "quest.2.steam_age.title":"进入蒸汽时代",
@@ -126,6 +145,9 @@
     "quest.2.livingwood.title":"木材的复兴",
     "quest.2.livingwood.desc0":"你可以使用白雏菊将防腐木变成活木。",
     
+    "quest.2.leather.title":"制作背包的皮革",
+    "quest.2.leather.desc0":"可以通过报废书获得的皮革来制作背包。",
+
     "quest.2.nether.check":"参观下界",
     "quest.2.nether.subtitle":"还期待别的什么吗？",
     "quest.2.nether.desc0":"你可以用十桶熔岩和一桶水来建造一个传送门。",
@@ -189,7 +211,7 @@
     "quest.3.summoning_101.title":"召唤入门",
     "quest.3.summoning_101.check":"我获得了知识",
     "quest.3.summoning_101.desc0":"用魔法召唤怪物是至关重要的，因为它们不会自然产生。",
-    "quest.3.summoning_101.desc1":"JEI 对此并不是非常清楚，但幸运的是，有这本方便的指南可以为您指明正确的方向。",
+    "quest.3.summoning_101.desc1":"JEI 对此表述得并不是非常清楚，但幸运的是，有这本方便的指南可以为您指明正确的方向。",
     "quest.3.summoning_101.desc2":"只需按照说明放下材料并点燃火盆上的木炭即可开始召唤过程。",
 
     "quest.3.mana_pool.desc0":"使用火红莲、魔力发射器和魔力池，你可以产生魔力。",
@@ -215,6 +237,7 @@
     "quest.3.crucible.desc0":"坩埚需要相当高的精度。",
     "quest.3.crucible.desc1":"强烈建议你阅读《秘仪教典》中的条目，以获得足够的信息来正确掌握制作方法。",
     "quest.3.crucible.desc2":"想要立即掌握制作流程可能比较困难。所以一定要多准备一些材料作为备用。",
+    "quest.3.crucible.reward_tooltip":"警告：仅供感伤之用！",
     
     "quest.3.runic_altar.desc0":"你现在可以用新生成的魔力来使用符文祭坛了。只需使用魔力发射器将魔力池中储存的魔力转移到符文祭坛即可。",
     "quest.3.runic_altar.desc1":"在《植物魔法辞典》中，你可以阅读有关如何使用符文祭坛制作符文的更多信息。",
@@ -224,9 +247,6 @@
     "quest.3.vandalism_2.title":"毁坏公物2",
     "quest.3.vandalism_2.subtitle":"熄灯",
     "quest.3.vandalism_2.desc0":"向天花板上的灯扔砖头可能会产生一些即将到来的工业革命需要的重要部件。",
-    
-    "quest.3.leather.title":"制作背包的皮革",
-    "quest.3.leather.desc0":"背包可以用坩埚制作的皮革制成。",
 
     "quest.3.lapis_lazuil.title":"蓝魔法",
 
@@ -242,8 +262,9 @@
     "quest.3.restoring.desc1":"· 使用地毯右击地砖",
     "quest.3.restoring.desc2":"· 使用壁纸右击去皮的壁纸",
     "quest.3.restoring.desc3":"· 使用日光灯管右击损坏的顶灯",
-    "quest.3.restoring.desc4":"如果你喜欢混凝土砖的美感，你也可以用一块混凝土右击它们，将其变成完整的方块。这也能防止砖块再次长出地毯。",
-    "quest.3.restoring.desc5":"所有这些听起来可能像是一个疯狂的想法，但重新打开灯也许并不是那么糟糕。",
+    "quest.3.restoring.desc4":"· 使用壁纸右击木框架可制作假壁纸",
+    "quest.3.restoring.desc5":"如果你喜欢混凝土砖的美感，你也可以用一块混凝土右击它们，将其变成完整的方块。这也能防止砖块再次长出地毯。",
+    "quest.3.restoring.desc6":"所有这些听起来可能像是一个疯狂的想法，但重新打开灯也许并不是那么糟糕。",
     
     "quest.3.soulfire_wand.subtitle":"阿瓦达——",
     "quest.3.soulfire_wand.desc0":"你可以用魔杖射击地板上的物品形式的红砖，从而将红砖变成地狱砖。",
@@ -298,6 +319,7 @@
     "quest.3.steel.desc1":"请注意，钢锭有10",
     "quest.3.steel.desc.comment":"这里断开是为了防止百分号导致的格式错误。",
     "quest.3.steel.desc2":"的几率会开裂。开裂的钢锭可以在高炉中重新加热，变成新的热钢。",
+    "quest.3.steel.reward_tooltip":"别扔掉这个",
     
     "quest.3.forged_eye.desc0":"解锁酒桶和高炉后，即可制作锻造之眼。",
     "quest.3.forged_eye.desc1":"强烈建议你等到游戏中后期再进行制作，因为它需要大量资源来锻造。",
@@ -385,9 +407,14 @@
 
     "quest.4.track.title":"阈限运输",
 
-    "quest.4.reconstructor.desc0":"原子重构器可以在原子层面上重塑材料，形成特殊的晶体。",
+    "quest.4.reconstructor.desc0":"原子重构机可以在原子层面上重塑材料，形成特殊的晶体。",
     "quest.4.reconstructor.desc1":"首先需要虚空水晶。它们可以用黑石英制作。",
     
+    "quest.4.wall_piercer.title":"穿墙者",
+    "quest.4.wall_piercer.subtitle":"招架！",
+    "quest.4.wall_piercer.desc0":"墙壁钻孔器可用于摧毁后室中几乎坚不可摧的墙壁。",
+    "quest.4.wall_piercer.desc1":"只需将墙壁钻孔器放在墙的两侧，然后右击其中一个即可移除它们之间的障碍物。",
+
     "quest.4.machine_frame.title":"制作一个机器框架",
     "quest.4.machine_frame.desc0":"可以通过制作底部和顶部两半并将它们连接在一起来制作机器框架。",
     "quest.4.machine_frame.desc1":"这个过程可以手动完成，也可以自动化。",
