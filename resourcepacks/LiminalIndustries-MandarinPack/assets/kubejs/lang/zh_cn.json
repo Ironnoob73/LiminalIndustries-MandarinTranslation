@@ -146,6 +146,7 @@
     "fluid.kubejs.liquid_time":"时光之流",
     "item.kubejs.ball_pit_bucket":"球池桶",
     "fluid.kubejs.ball_pit":"球池",
+    "block.kubejs.ball_pit":"球池",
 
     "escaped.title":"你已逃离",
     "escaped.subtitle":"后室",
