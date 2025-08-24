@@ -244,11 +244,6 @@
 			id: "203FC15B09EAA27F"
 			rewards: [
 				{
-					id: "7702AB4C3CA3AEB6"
-					item: "supplementaries:confetti_popper"
-					type: "item"
-				}
-				{
 					id: "3D1642878BF69221"
 					item: "kubejs:party_popper"
 					type: "item"
@@ -261,6 +256,11 @@
 				{
 					id: "691106A4CBAFB25D"
 					item: "minecraft:music_disc_relic"
+					type: "item"
+				}
+				{
+					id: "5CD3D9B9A1806778"
+					item: "plushie_buddies:plushie_turtle"
 					type: "item"
 				}
 			]
@@ -281,6 +281,11 @@
 				"307781E736AB9A56"
 			]
 			id: "7B8E3CF8E588CD0B"
+			rewards: [{
+				id: "1D89190EDA333497"
+				item: "plushie_buddies:plushie_axolotl"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5CBFA3B1AD14A479"
 				item: {

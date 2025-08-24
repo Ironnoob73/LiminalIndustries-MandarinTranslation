@@ -1,12 +1,12 @@
 {
-    "name": "生成一只巨型骷髅",
+    "name": "召唤一只巨型骷髅",
     "icon": "eidolon:spawn_giant_skeleton",
     "category": "patchouli:lesser_summoning",
     "pages": [
 	    {
             "type": "patchouli:entity",
             "entity": "eidolon:giant_skeleton",
-			"name": "生成一只巨型骷髅",
+			"name": "召唤一只巨型骷髅",
 			"scale": 1.0,
 			"rotate": false
         },

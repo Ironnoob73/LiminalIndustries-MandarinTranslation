@@ -91,40 +91,18 @@
 			id: "78F13758BBD911A0"
 			rewards: [
 				{
-					id: "3CC49BBDE0D95FEC"
-					item: {
-						Count: 1
-						id: "fairylights:pennant_bunting"
-						tag: {
-							color: 11546150
-							pattern: [{
-								Count: 1b
-								id: "fairylights:triangle_pennant"
-								tag: {
-									color: 11546150
-								}
-							}]
-							text: {
-								styling: [I; ]
-								value: ""
-							}
-						}
-					}
-					type: "item"
-				}
-				{
 					id: "02BFF400B3F054FC"
 					item: "kubejs:party_popper"
 					type: "item"
 				}
 				{
-					id: "580EEC0F030A51DB"
-					item: "farmersdelight:roast_chicken_block"
+					id: "6F5FF24398F4C5B1"
+					item: "minecraft:music_disc_far"
 					type: "item"
 				}
 				{
-					id: "6F5FF24398F4C5B1"
-					item: "berry_good:music_disc_fox"
+					id: "440F6A60E2C8E59D"
+					item: "plushie_buddies:plushie_sniffer"
 					type: "item"
 				}
 			]
@@ -367,17 +345,24 @@
 			]
 			icon: "minecraft:bamboo"
 			id: "55B7C4D0E5890406"
-			rewards: [{
-				id: "4A2B7E4AF189B3D7"
-				item: {
-					Count: 1
-					id: "supplementaries:flute"
-					tag: {
-						Damage: 0
+			rewards: [
+				{
+					id: "4A2B7E4AF189B3D7"
+					item: {
+						Count: 1
+						id: "supplementaries:flute"
+						tag: {
+							Damage: 0
+						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "12E6D7EC29E1C443"
+					item: "plushie_buddies:plushie_panda"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [
 				{
@@ -475,6 +460,11 @@
 			description: ["{quest.3.vandalism_2.desc0}"]
 			icon: "kubejs:fluorescent_tube"
 			id: "3EEB10E1DC378F7A"
+			rewards: [{
+				id: "3E255FA21D8DABBF"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "square"
 			subtitle: "{quest.3.vandalism_2.subtitle}"
 			tasks: [
@@ -500,27 +490,11 @@
 				"3EEB10E1DC378F7A"
 			]
 			id: "2ABD7837E63FB024"
-			rewards: [
-				{
-					id: "29F4FC7294559F98"
-					item: "kubejs:party_popper"
-					type: "item"
-				}
-				{
-					id: "5E2CB57024DFB08C"
-					item: {
-						Count: 1
-						ForgeCaps: {
-							Parent: {
-								Items: [ ]
-								Size: 23
-							}
-						}
-						id: "immersiveengineering:toolbox"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "29F4FC7294559F98"
+				item: "kubejs:party_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [
@@ -556,6 +530,11 @@
 				"{quest.3.rock_gen.desc7}"
 			]
 			id: "451A79187DD84C9A"
+			rewards: [{
+				id: "1255D30274AF3021"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "1119B1A5274105BD"
@@ -800,11 +779,18 @@
 				"{quest.3.cod.desc1}"
 			]
 			id: "68DFDA75DA5FB0E9"
-			rewards: [{
-				id: "2FE3FB4DBD842CC5"
-				item: "farmersdelight:fish_stew"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "2FE3FB4DBD842CC5"
+					item: "farmersdelight:fish_stew"
+					type: "item"
+				}
+				{
+					id: "2D5ED9CD9E61BCA0"
+					item: "plushie_buddies:plushie_pufferfish"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0D228A8CB5F03B89"
 				item: "minecraft:cod"
@@ -997,6 +983,11 @@
 				"{quest.3.crystallizer.desc5}"
 			]
 			id: "65D2BC79CD4D885B"
+			rewards: [{
+				id: "2645D7612D10923C"
+				item: "supplementaries:confetti_popper"
+				type: "item"
+			}]
 			shape: "gear"
 			tasks: [{
 				id: "6F98C2499AF89ACB"
@@ -1030,6 +1021,11 @@
 			]
 			icon: "kubejs:sculk_scrubber"
 			id: "21DFDC2132AC4257"
+			rewards: [{
+				id: "7A73EC2D4CEF3362"
+				item: "plushie_buddies:plushie_warden"
+				type: "item"
+			}]
 			shape: "gear"
 			subtitle: "{quest.3.scrubber.subtitle}"
 			tasks: [{

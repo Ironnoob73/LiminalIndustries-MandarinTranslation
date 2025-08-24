@@ -1,7 +1,7 @@
 {
     "name": "召唤龙息",
     "icon": "minecraft:dragon_breath",
-    "category": "patchouli:moderate_summoning",
+    "category": "patchouli:lesser_summoning",
     "pages": [
 	    {
             "type": "patchouli:spotlight",
@@ -10,9 +10,9 @@
         },
 		{
 			"type": "patchouli:brazier",
-			"input1": "kubejs:moderate_soul_gem",
+			"input1": "eidolon:lesser_soul_gem",
 			"input2": "botania:dragonstone",
 			"input3": "minecraft:end_stone",
-			"input4": "kubejs:moderate_soul_gem"
+			"input4": "eidolon:lesser_soul_gem"
 		}
 ]}

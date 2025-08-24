@@ -305,11 +305,18 @@
 				"{quest.2.nether.desc1}"
 			]
 			id: "021C50BEE88E0B07"
-			rewards: [{
-				id: "36AFB541A92C8E45"
-				item: "minecraft:music_disc_pigstep"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "36AFB541A92C8E45"
+					item: "minecraft:music_disc_pigstep"
+					type: "item"
+				}
+				{
+					id: "375270AFB42E4609"
+					item: "plushie_buddies:plushie_ghast"
+					type: "item"
+				}
+			]
 			shape: "square"
 			subtitle: "{quest.2.nether.subtitle}"
 			tasks: [{
@@ -446,25 +453,8 @@
 					type: "item"
 				}
 				{
-					id: "1FBD035CF15ABAF1"
-					item: {
-						Count: 1
-						id: "fairylights:pennant_bunting"
-						tag: {
-							color: 1481884
-							pattern: [{
-								Count: 1b
-								id: "fairylights:triangle_pennant"
-								tag: {
-									color: 1481884
-								}
-							}]
-							text: {
-								styling: [I; ]
-								value: ""
-							}
-						}
-					}
+					id: "236EAA963388D69D"
+					item: "plushie_buddies:plushie_iron_golem"
 					type: "item"
 				}
 			]
