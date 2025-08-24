@@ -17,5 +17,9 @@
     "chat.creative_mode_test":"You joined the world in creative. Click this text if you want to go to a superflat test world.",
     "chat.out_of_backrooms.0":"You tried to build a portal to ungenerated terrain.",
     "chat.out_of_backrooms.1":"Build a portal from the overworld to the nether",
-    "chat.out_of_backrooms.2":"to ensure a successful connection."
+    "chat.out_of_backrooms.2":"to ensure a successful connection.",
+
+    "tip.right_click.sculk":"You can't place blocks on sculk!",
+    "tip.right_click.sculk_scrubber":"Try to place the Sculk Scrubber on the side of a non-sculk block to get it in the right position.",
+    "tip.right_click.scrubber":"You need to place the scrubber on sculk!"
 }

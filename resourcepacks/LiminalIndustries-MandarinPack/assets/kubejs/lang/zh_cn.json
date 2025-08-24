@@ -5,11 +5,20 @@
     "block.kubejs.wallpaper4":"墙纸",
     "block.kubejs.wallpaper5":"墙纸",
     "block.kubejs.wallpaper6":"墙纸",
+    "block.kubejs.wallpaper7":"墙纸",
     "block.kubejs.wallpaper_soft":"墙纸",
     "block.kubejs.wallpaper_fake":"假墙纸",
     "block.kubejs.wallpaper1_slab":"墙纸台阶",
     "block.kubejs.pool_tiles":"水池瓷砖",
+    "block.kubejs.pool_tiles_soft":"水池瓷砖",
+    "block.kubejs.pool_tiles_slab":"水池瓷砖台阶",
+    "block.kubejs.pool_tiles_stairs":"水池瓷砖楼梯",
     "block.kubejs.long_pool_tiles":"水池瓷砖",
+    "block.kubejs.long_pool_tiles_soft":"水池瓷砖",
+    "block.kubejs.long_pool_tiles_slab":"水池瓷砖台阶",
+    "block.kubejs.long_pool_tiles_stairs":"水池瓷砖楼梯",
+    "block.kubejs.pool_locker_single":"水池锁柜",
+    "block.kubejs.pool_locker_double":"水池锁柜",
     "block.kubejs.wallpaper5_slab":"旅馆墙纸台阶",
     "block.kubejs.stripped_wallpaper":"去皮墙纸",
     "block.kubejs.ceilling":"天花板",
@@ -135,6 +144,8 @@
     "item.kubejs.data_chip_error.tooltip":"数据：1000",
     "item.kubejs.liquid_time_bucket":"时光之流桶",
     "fluid.kubejs.liquid_time":"时光之流",
+    "item.kubejs.ball_pit_bucket":"球池桶",
+    "fluid.kubejs.ball_pit":"球池",
 
     "escaped.title":"你已逃离",
     "escaped.subtitle":"后室",
@@ -142,5 +153,9 @@
     "chat.creative_mode_test":"你以创造模式进入世界。点击此处文字进入测试用超平坦世界。",
     "chat.out_of_backrooms.0":"你试图搭建传送门前往未生成地形。",
     "chat.out_of_backrooms.1":"建立一个从主世界到下界的传送门，",
-    "chat.out_of_backrooms.2":"以确保连接成功。"
+    "chat.out_of_backrooms.2":"以确保连接成功。",
+
+    "tip.right_click.sculk":"你不能在幽匿上放置方块！",
+    "tip.right_click.sculk_scrubber":"尝试将幽匿洗涤器放置在非幽匿块的侧面，以使其处于正确的位置。",
+    "tip.right_click.scrubber":"你需要将洗涤器放在幽匿上！"
 }
