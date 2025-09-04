@@ -8,6 +8,6 @@
 
 该仓库目前对应整合包版本为1.18。
 
-建议同时安装[i18n](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod)。
+建议同时安装[i18n](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod)，并将此处提供的汉化资源包放置在i18n资源包之上。
 
 目前这些翻译已经被提交到[主仓库](https://github.com/Appocryptha/Liminal-Industries/pull/126)，等待合并。
