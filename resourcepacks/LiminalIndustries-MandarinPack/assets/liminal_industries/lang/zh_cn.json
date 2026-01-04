@@ -60,7 +60,7 @@
     "quest.1.meal.title":"从技术上来说，这是一顿饭",
     "quest.1.meal.subtitle":"刀片粉碎，榨汁效果更佳",
     "quest.1.meal.desc0":"你现在可能已经了解了地毯上的这些生物。它们掉落的卵是很好的蛋白质来源。",
-    "quest.1.meal.desc1":"用刀杀死它们会掉落更多的卵。",
+    "quest.1.meal.desc1":"&l用刀杀死它们会掉落更多的卵。",
     "quest.1.meal.desc2":"然而，他们有后天养成的口味...",
 
     "quest.1.wooden_propeller.title":"木扇叶",
@@ -334,6 +334,10 @@
     
     "quest.3.echo_shard.title":"暗中回响",
 
+    "quest.3.pool_room.title":"潜入泳池",
+    "quest.3.pool_room.subtitle":"勇敢尝试吧...",
+    "quest.3.pool_room.desc0":"用撬棍可以打开地毯下面可能遇到的地漏...",
+
     "quest.3.mixer.title":"工业搅拌机",
     "quest.3.mixer.subtitle":"用力搅拌！",
     "quest.3.mixer.desc0":"工业搅拌机可用于生产红石酸。这种酸是制造玫瑰石英的化学反应所必需的。",
@@ -358,6 +362,59 @@
     "quest.3.cooking.desc0":"通过在砧板上刷掉污垢、泥土和地毯灰，可以获得各种不同的种子和蔬菜。",
     
     "quest.3.heavy_engineering.desc0":"重型工程框架标志着重型机器建造的开始。它们将构成正在建设的巨型工厂的基础。",
+
+    "quest.chapter_3b.title":"第三章-B面",
+
+    "quest.3b.entering.title":"纵身跃入泳池房",
+
+    "quest.3b.kekimurus.title":"寻找贪食花",
+    "quest.3b.kekimurus.subtitle":"不是谎言，我发誓",
+    "quest.3b.kekimurus.desc0":"贪食花可以在水池房的某个地方找到。",
+    "quest.3b.kekimurus.desc1":"只要你能提供足够的蛋糕，这种高级花朵就能帮助你更快地产生魔力。",
+    
+    "quest.3b.press.title":"被遗弃的压印机",
+    "quest.3b.press.desc0":"多驱冲压机和压印器都可以在水池房被遗弃的地点找到。",
+    "quest.3b.press.desc1":"这将使你能够更早地使用大多数高科技ae2设备。",
+
+    "quest.3b.me.title":"早期ME控制器",
+    "quest.3b.me.subtitle":"终极大奖",
+    "quest.3b.me.desc0":"你可以在这些水池房的某个地方找到一个废弃的ME控制器。",
+
+    "quest.3b.exotic_eye.subtitle":"亚特兰蒂斯在哪？",
+    "quest.3b.exotic_eye.desc0":"看着无尽的水池，被守卫者环绕的异域之眼可以在水池房的某个地方找到。",
+    
+    "quest.3b.blue_science.title":"蓝色科技",
+    "quest.3b.blue_science.subtitle":"可再生青金石",
+    "quest.3b.blue_science.desc0":"利用守卫者掉落的海晶碎片，你可以生成青金石。",
+
+    "quest.3b.gold.title":"可再生金",
+    "quest.3b.gold.subtitle":"并非所有闪闪发光的东西",
+    "quest.3b.gold.desc0":"金水池瓷砖片可以在水池房自动化。你可以将它们放入熔炉中熔化并得到一个金粒。",
+    "quest.3b.gold.desc1":"或者你也可以将它们放入冶炼炉中以获得更高的产量。",
+
+    "quest.3b.tile.title":"获取水池瓷砖片",
+    "quest.3b.tile.subtitle":"啊，又一个可以摧毁的地方",
+    "quest.3b.tile.desc0":"水池瓷砖可以用任何镐子从墙上敲下来。",
+    "quest.3b.tile.desc1":"粉碎后，它们有机会分解成普通的石英。",
+
+    "quest.3b.silver.title":"银池",
+    "quest.3b.silver.desc0":"水池房内有一个装满熔融银的池子。",
+    "quest.3b.silver.desc1":"如此惊人的自然资源必须尽快发现并加以利用。",
+    
+    "quest.3b.ender_chest.title":"末影箱",
+    "quest.3b.ender_chest.subtitle":"现在你正在用传送门思考",
+    "quest.3b.ender_chest.desc0":"使用现实合金，你可以制作一个末影箱，它可以将物品从一个维度传送到另一个维度。",
+    "quest.3b.ender_chest.desc1":"这对于水池房来说非常方便，因为没有简单的方法可以通过传送门运输物品。",
+    "quest.3b.ender_chest.desc2":"&l你可以用钻石潜行右击箱子将其设为私密。",
+
+    "quest.3b.aluminum.title":"可再生铝",
+    "quest.3b.aluminum.desc0":"你可以将造石机放在缺损的水池瓷砖上实现自动化生产铝。",
+    
+    "quest.3b.exit.title":"寻找出口",
+    "quest.3b.exit.subtitle":"我想念地毯的味道",
+    "quest.3b.exit.desc0":"找到水池房的出口后，你应该就能回到后室了。",
+    "quest.3b.exit.desc1":"这个房间的标志是中间有一个巨大的黑洞，通向看似无尽的地方。",
+    "quest.3b.exit.desc2":"跳进去之后，你应该就能和心爱的地毯和壁纸重聚了。",
 
     "quest.chapter_4.title":"第四章",
 
@@ -550,6 +607,7 @@
     "quest.esc.portal.title":"通往主世界的传送门",
     "quest.esc.portal.subtitle":"打开传送门",
     "quest.esc.portal.desc0":"为了回到主世界，必须收集所有十二只眼睛并将其放置在传送门框架中。",
+    "quest.esc.portal.desc0.5":"&l这意味着你可以跳过十三只可用眼睛中的一只。",
     "quest.esc.portal.desc1":"只会有一个房间生成传送门框架。房间有四个入口，内部回荡着不祥的心跳声。",
     "quest.esc.portal.desc2":"如果你感到困惑，请回顾任务书以了解如何获得不同的眼睛。",
     

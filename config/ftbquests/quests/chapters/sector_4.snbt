@@ -5,7 +5,7 @@
 	group: ""
 	icon: "kubejs:reality_controller_running"
 	id: "1EC448FE2169EFF9"
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{

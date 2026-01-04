@@ -1071,32 +1071,6 @@
 			y: 27.0d
 		}
 		{
-			dependencies: ["33C923AD98680D89"]
-			icon: "minecraft:lapis_lazuli"
-			id: "2403865A39044ECF"
-			tasks: [
-				{
-					id: "0E7FE871C8E5A11C"
-					item: "thermal:sulfur_dust"
-					type: "item"
-				}
-				{
-					id: "2038E2FA73C03F91"
-					item: "minecraft:blue_dye"
-					type: "item"
-				}
-				{
-					count: 5L
-					id: "26067B78B222ABCF"
-					item: { Count: 5, id: "minecraft:lapis_lazuli" }
-					type: "item"
-				}
-			]
-			title: "{quest.3.lapis_lazuil.title}"
-			x: -6.5d
-			y: 15.5d
-		}
-		{
 			dependencies: ["151585622A7F23C3"]
 			icon: "thermal:glowstone_mushroom_spores"
 			id: "0BC818BEB9B40456"
@@ -1326,7 +1300,7 @@
 				}
 			]
 			title: "{quest.3.echo_shard.title}"
-			x: 2.5d
+			x: 1.5d
 			y: 29.5d
 		}
 		{
@@ -1383,7 +1357,7 @@
 				}
 			]
 			title: "{quest.3.auto_sweeping.title}"
-			x: 2.5d
+			x: 1.5d
 			y: 31.0d
 		}
 		{
@@ -1790,6 +1764,23 @@
 			title: "{quest.3.carbon.title}"
 			x: 11.0d
 			y: 23.0d
+		}
+		{
+			dependencies: ["5D74C2FDCBAA0FC7"]
+			description: ["{quest.3.pool_room.desc0}"]
+			icon: "kubejs:drain"
+			id: "62905CF8D9082304"
+			shape: "square"
+			size: 1.0d
+			subtitle: "{quest.3.pool_room.subtitle}"
+			tasks: [{
+				id: "7F5CD57C58A33F9F"
+				item: "kubejs:crowbar"
+				type: "item"
+			}]
+			title: "{quest.3.pool_room.title}"
+			x: -1.5d
+			y: 29.5d
 		}
 	]
 	title: "{quest.chapter_3.title}"

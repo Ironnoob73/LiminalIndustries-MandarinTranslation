@@ -60,7 +60,7 @@
     "quest.1.meal.title":"Technically a Meal",
     "quest.1.meal.subtitle":"Crush with Blade, Releases Juice Better",
     "quest.1.meal.desc0":"You might have found out about the carpet inhabitants by now. The eggs they drop are a good source of proteine.",
-    "quest.1.meal.desc1":"Killing them with a knife will drop additional eggs.",
+    "quest.1.meal.desc1":"&lKilling them with a knife will drop additional eggs.",
     "quest.1.meal.desc2":"They have an aquired taste, however...",
 
     "quest.1.wooden_propeller.title":"Wooden Propeller",
@@ -334,6 +334,10 @@
     
     "quest.3.echo_shard.title":"Echoes in the Dark",
 
+    "quest.3.pool_room.title":"Entering the Poolrooms",
+    "quest.3.pool_room.subtitle":"Take the Plunge...",
+    "quest.3.pool_room.desc0":"With a Crowbar you can open the Drains that you might have been coming across underneath the carpet...",
+
     "quest.3.mixer.title":"Industrial Mixer",
     "quest.3.mixer.subtitle":"Mix Harder!",
     "quest.3.mixer.desc0":"The Industrial Mixer can be used to produce Redstone Acid. This acid is essential in the chemical reaction to make Rose Quartz.",
@@ -358,6 +362,59 @@
     "quest.3.cooking.desc0":"All kinds of different seeds and vegetables can be obtained by brushing Dirt, Mud and carpet Dust on a Cutting Board.",
     
     "quest.3.heavy_engineering.desc0":"The Heavy Engineering Frame marks the start of the construction of the heavier machines. They will form the foundation for the megafactory that is being constructed.",
+
+    "quest.chapter_3b.title":"Chapter 3b",
+
+    "quest.3b.entering.title":"Plunge into the Poolrooms",
+
+    "quest.3b.kekimurus.title":"Finding the Kekimurus",
+    "quest.3b.kekimurus.subtitle":"Not a lie, I promise",
+    "quest.3b.kekimurus.desc0":"The Kekimurus can be found somewhere in the poolrooms. ",
+    "quest.3b.kekimurus.desc1":"This advanced flower can help you to generate mana a whole lot faster as long as you can provide it with sufficient amounts of cake.",
+    
+    "quest.3b.press.title":"The Abandoned Press",
+    "quest.3b.press.desc0":"Both an Inscriber and a Multiservo Press can be found in abandoned places within the poolrooms.",
+    "quest.3b.press.desc1":"This will allow you to access most of the high-tech ae2 equipment a lot earlier.",
+
+    "quest.3b.me.title":"Early ME Controller",
+    "quest.3b.me.subtitle":"The Ultimate Prize",
+    "quest.3b.me.desc0":"You can find an abandoned ME Controller somewhere in these poolrooms.",
+
+    "quest.3b.exotic_eye.subtitle":"Where is Atlantis?",
+    "quest.3b.exotic_eye.desc0":"The Exotic Eye can be found somewhere in the Poolrooms looking at endless Pool Tiles and surrounded by guardians.",
+    
+    "quest.3b.blue_science.title":"Blue Science",
+    "quest.3b.blue_science.subtitle":"Renewable Lapis",
+    "quest.3b.blue_science.desc0":"Using the Prismarine Shards that drop from guardians you can generate Lapis Lazuli",
+
+    "quest.3b.gold.title":"Renewable Gold",
+    "quest.3b.gold.subtitle":"Not all that Glitters",
+    "quest.3b.gold.desc0":"Golden Tiles can be automated in the Poolrooms. You can melt them in a furnace for one nugget of gold.",
+    "quest.3b.gold.desc1":"Alternatively, you can also drop them into the smeltery for a higher yield.",
+
+    "quest.3b.tile.title":"Obtaining Pool Tiles ",
+    "quest.3b.tile.subtitle":"Ah, a new place to destroy",
+    "quest.3b.tile.desc0":"Pool Tiles can be broken off the wall using any pickaxe. ",
+    "quest.3b.tile.desc1":"After crushing them they have a chance to break down into regular quartz.",
+
+    "quest.3b.silver.title":"Pools of Molten Silver",
+    "quest.3b.silver.desc0":"There exists a pool filled with Molten Silver within the Poolrooms.",
+    "quest.3b.silver.desc1":"Such an amazing natural resource must simply be found and exploited as soon as possible.",
+    
+    "quest.3b.ender_chest.title":"Ender Chest",
+    "quest.3b.ender_chest.subtitle":"Now you are Thinking with Portals",
+    "quest.3b.ender_chest.desc0":"Using Reality Alloy, you can make an Ender Chest that can transport items from one dimension to another.",
+    "quest.3b.ender_chest.desc1":"This is exceptionally handy for the poolrooms since there is no easy way to transport items through the portals.",
+    "quest.3b.ender_chest.desc2":"&lYou can shift-right click the chest with a diamond to make it private.",
+
+    "quest.3b.aluminum.title":"Renewable Aluminium",
+    "quest.3b.aluminum.desc0":"You can now automate Aluminium by placing the extruder on a block of Missing Pool Tiles ",
+    
+    "quest.3b.exit.title":"Finding an Exit",
+    "quest.3b.exit.subtitle":"I Miss the Smell of Carpet",
+    "quest.3b.exit.desc0":"You should be able to make it back to the Backrooms after finding the Poolrooms exit room.",
+    "quest.3b.exit.desc1":"You can recognize this room by to huge dark hole in the middle leading to seemingly nowhere.",
+    "quest.3b.exit.desc2":"After jumping in you should be reunited with your beloved carpet and wallpaper.",
 
     "quest.chapter_4.title":"Chapter 4",
 
@@ -550,6 +607,7 @@
     "quest.esc.portal.title":"Portal to the Overworld",
     "quest.esc.portal.subtitle":"Opening the Portal",
     "quest.esc.portal.desc0":"In order to get back to the overworld, all 12 eyes must be collected and placed in the portal frame. ",
+    "quest.esc.portal.desc0.5":"&lThis means you can skip one of the 13 available eyes.",
     "quest.esc.portal.desc1":"Only a single room is generated with a portal frame. The room has 4 entrances and an ominous heartbeat echoing from within.",
     "quest.esc.portal.desc2":"If you are ever confused, look back in the questbook on how to obtain the different eyes.",
 

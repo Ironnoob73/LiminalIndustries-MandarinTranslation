@@ -624,7 +624,7 @@
 			y: 11.0d
 		}
 		{
-			dependencies: ["2FD58013123EFE42"]
+			dependencies: ["74DC667B840746B0"]
 			description: [
 				"{quest.1.stay_safe.desc0}"
 				""

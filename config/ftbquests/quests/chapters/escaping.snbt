@@ -5,7 +5,7 @@
 	group: ""
 	icon: "ae2:quantum_entangled_singularity"
 	id: "0AB22B8732D34B8D"
-	order_index: 5
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
@@ -22,9 +22,12 @@
 				"094715E56FE38460"
 				"1B93D99B01B813DE"
 				"7176C957BE2530E0"
+				"3F8914FD4DDDA6D4"
 			]
 			description: [
 				"{quest.esc.portal.desc0}"
+				""
+				"{quest.esc.portal.desc0.5}"
 				""
 				"{quest.esc.portal.desc1}"
 				""
@@ -32,6 +35,7 @@
 			]
 			icon: "endrem:ancient_portal_frame"
 			id: "54C2818EE0D113D9"
+			min_required_dependencies: 12
 			shape: "hexagon"
 			size: 5.0d
 			subtitle: "{quest.esc.portal.subtitle}"
@@ -47,6 +51,7 @@
 		{
 			dependencies: ["245653B3451C76FA"]
 			id: "7785043DD739D542"
+			shape: "hexagon"
 			tasks: [{
 				id: "1B07BA2FD827B2F6"
 				item: {
@@ -64,6 +69,7 @@
 		{
 			dependencies: ["1D6D27D8FBF358F3"]
 			id: "091F72AFE305BBD3"
+			shape: "hexagon"
 			tasks: [{
 				id: "7E5DE4238F17E555"
 				item: {
@@ -81,6 +87,7 @@
 		{
 			dependencies: ["557617650FFA7BF8"]
 			id: "7176C957BE2530E0"
+			shape: "hexagon"
 			tasks: [{
 				id: "136DBDC7EB41D734"
 				item: {
@@ -98,6 +105,7 @@
 		{
 			dependencies: ["12F6EDB7B3074DBA"]
 			id: "00890E05CBC407AE"
+			shape: "hexagon"
 			tasks: [{
 				id: "4A4A235C5027D080"
 				item: {
@@ -115,6 +123,7 @@
 		{
 			dependencies: ["542DAE1D5B46EAE6"]
 			id: "1B93D99B01B813DE"
+			shape: "hexagon"
 			tasks: [{
 				id: "700932197E8B59FB"
 				item: {
@@ -132,6 +141,7 @@
 		{
 			dependencies: ["115CD04307C62ED7"]
 			id: "33C688A963B8FBF9"
+			shape: "hexagon"
 			tasks: [{
 				id: "7B43D149F64FA014"
 				item: {
@@ -167,6 +177,7 @@
 		{
 			dependencies: ["218587C0C569873D"]
 			id: "28FD2F25F3A3D432"
+			shape: "hexagon"
 			tasks: [{
 				id: "3C48E1E6DE8290DE"
 				item: {
@@ -238,6 +249,7 @@
 		{
 			dependencies: ["269181DBEA37A739"]
 			id: "094715E56FE38460"
+			shape: "hexagon"
 			tasks: [{
 				id: "1C24C74FC3F3D482"
 				item: {
@@ -251,6 +263,24 @@
 			}]
 			x: -6.0d
 			y: -6.0d
+		}
+		{
+			dependencies: ["66819437F5CE0687"]
+			id: "3F8914FD4DDDA6D4"
+			shape: "hexagon"
+			tasks: [{
+				id: "77F46C0817C7629C"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
 		}
 	]
 	title: "{quest.escaping.title}"

@@ -6,6 +6,43 @@ BlockEvents.rightClicked('kubejs:oil_carpet', event => {
 		}
 	})
 
+BlockEvents.rightClicked('kubejs:drain_breakable', event => {
+
+	if (event.item.id == 'kubejs:crowbar') {
+		event.server.runCommandSilent(`execute in ${event.entity.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} if dimension minecraft:overworld run function backrooms:poolrooms_entrance`)
+		}
+	})
+
+BlockEvents.rightClicked('kubejs:pool_tiles', event => {
+  		const heldItem = event.item
+
+  	if (heldItem && heldItem.hasTag('minecraft:pickaxes')) {
+		
+    	const {hand, player} = event
+    	player.damageHeldItem(hand, 1)
+		event.server.runCommandSilent(`execute in ${event.entity.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run playsound minecraft:block.deepslate_bricks.break master @a ~ ~ ~ 1 0`)
+		event.server.runCommandSilent(`execute in ${event.entity.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run setblock ~ ~ ~ kubejs:missing_tiles_half`)
+		event.player.giveInHand('kubejs:pool_tile')
+		event.player.giveInHand('kubejs:pool_tile')
+
+		}
+	})
+
+BlockEvents.rightClicked('kubejs:missing_tiles_half', event => {
+  		const heldItem = event.item
+
+  	if (heldItem && heldItem.hasTag('minecraft:pickaxes')) {
+		
+    	const {hand, player} = event
+    	player.damageHeldItem(hand, 1)
+		event.server.runCommandSilent(`execute in ${event.entity.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run playsound minecraft:block.deepslate_bricks.break master @a ~ ~ ~ 1 0`)
+		event.server.runCommandSilent(`execute in ${event.entity.level.dimension} positioned ${event.block.x} ${event.block.y} ${event.block.z} run setblock ~ ~ ~ kubejs:missing_tiles_empty`)
+		event.player.giveInHand('kubejs:pool_tile')
+		event.player.giveInHand('kubejs:pool_tile')
+
+		}
+	})
+
 BlockEvents.rightClicked('kubejs:wallpaper1', event => {
   		const heldItem = event.item
 
